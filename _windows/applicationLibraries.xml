@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="gulp" type="javaScript">
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="https://gulpjs.org/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>

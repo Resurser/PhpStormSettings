@@ -1,0 +1,14 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="addEditPointAtTheEndOfTemplate" value="true" />
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="bem" />
+        <option value="c" />
+        <option value="t" />
+      </set>
+    </option>
+    <option name="hrefAutoDetectEnabled" value="false" />
+    <option name="previewEnabled" value="true" />
+  </component>
+</application>
