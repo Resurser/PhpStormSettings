@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="php:S105" />
+        <option value="php:S1068" />
+        <option value="php:S1192" />
+        <option value="php:S125" />
+        <option value="php:S138" />
+      </set>
+    </option>
+  </component>
+</application>

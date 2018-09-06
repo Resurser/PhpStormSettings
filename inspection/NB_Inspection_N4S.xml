@@ -243,7 +243,7 @@
   </inspection_tool>
   <inspection_tool class="NestedNotOperatorsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedPositiveIfStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="UNUSED ENTRY" enabled_by_default="false" />
+  <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeJsCodingAssistanceForCoreModules" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false">
@@ -277,6 +277,9 @@
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
+  </inspection_tool>
+  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
   </inspection_tool>
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_minLength" value="2" />
@@ -353,7 +356,6 @@
     <option name="DONT_REPORT_ABSTRACT_CLASS" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_regex" value="[_a-zA-Z][_a-z\d]*" />
