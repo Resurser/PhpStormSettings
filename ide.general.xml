@@ -12,7 +12,6 @@
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="999" />
     <entry key="ide.svg.icon" value="true" />
   </component>
 </application>

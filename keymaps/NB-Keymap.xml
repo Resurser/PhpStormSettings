@@ -21,11 +21,14 @@
   </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Console.TableResult.SetNull" />
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -35,6 +38,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="EditBreakpoint" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
@@ -50,6 +54,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="ForceRunToCursor" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl b" />
@@ -101,6 +106,7 @@
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>

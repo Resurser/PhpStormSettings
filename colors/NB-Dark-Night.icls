@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-06T20:45:04</property>
+    <property name="modified">2018-09-07T02:35:03</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -689,7 +689,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="363000" />
+        <option name="BACKGROUND" value="2d2600" />
         <option name="ERROR_STRIPE_COLOR" value="c0bb0f" />
       </value>
     </option>
@@ -63388,15 +63388,15 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="363000" />
+        <option name="BACKGROUND" value="332d00" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2b281a" />
+        <option name="BACKGROUND" value="232b19" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="d7483e" />
+        <option name="EFFECT_COLOR" value="d75506" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
