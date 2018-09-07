@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-07T18:21:05</property>
+    <property name="modified">2018-09-08T02:33:50</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -596,7 +596,7 @@
       <value>
         <option name="BACKGROUND" value="350909" />
         <option name="EFFECT_COLOR" value="e61f19" />
-        <option name="ERROR_STRIPE_COLOR" value="be1a15" />
+        <option name="ERROR_STRIPE_COLOR" value="9b1511" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -695,7 +695,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="332c01" />
-        <option name="ERROR_STRIPE_COLOR" value="c0bb0f" />
+        <option name="ERROR_STRIPE_COLOR" value="b7ba00" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -63388,13 +63388,14 @@
       <value>
         <option name="BACKGROUND" value="261400" />
         <option name="EFFECT_COLOR" value="ff7102" />
-        <option name="ERROR_STRIPE_COLOR" value="cc6e00" />
+        <option name="ERROR_STRIPE_COLOR" value="9b4f00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="332c01" />
+        <option name="ERROR_STRIPE_COLOR" value="bfc026" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
