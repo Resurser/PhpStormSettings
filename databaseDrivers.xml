@@ -78,6 +78,7 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <property name="allowMultiQueries" value="true" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
