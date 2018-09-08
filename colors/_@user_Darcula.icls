@@ -3,7 +3,7 @@
     <property name="created">2018-09-06T17:24:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-06T20:07:19</property>
+    <property name="modified">2018-09-09T00:20:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,8 +16,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d59b62" />
     <option name="FILESTATUS_MERGED" value="ae8ebc" />
     <option name="FILESTATUS_MODIFIED" value="6cc5ba" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8b92d4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="858cca" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="75b8d4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79adca" />
     <option name="FILESTATUS_UNKNOWN" value="e57472" />
     <option name="FILESTATUS_addedOutside" value="6eaa60" />
     <option name="FILESTATUS_changelistConflict" value="e28b8f" />

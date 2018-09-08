@@ -34,7 +34,7 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
     <option name="CONVERT_HTML_TO_JSX" value="false" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="450" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
+  <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
   <component name="TodoConfiguration">

@@ -1,30 +1,9 @@
 <application>
   <component name="WebServers">
-    <option name="servers">
-      <webServer id="af2456eb-3574-4315-850b-44cbcf20d1c8" name="DEMO" url="http://demo.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="a23072ec-6602-460f-bf5f-f8b79e588bc6" name="Healing" url="http://healing.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="d3eb8473-27ea-4ce7-a1d4-73b13f3a7ecb" name="need4study" url="http://need4study.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="2c5111f0-3fd8-4c3b-a7e5-1a98d4e5ebfd" name="docs.local" url="http://docs.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="757f1e19-728c-442c-a3e0-b1ac306b1acf" name="frscoin.land" url="http://frscoin.land/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="6f7fcb7e-5504-4f81-a38b-3e379e4f7702" name="signing" url="http://signing.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="3f781858-c392-494e-8fd6-4875aa3cebe2" name="tvduma.local" url="http://tvduma.local/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="f0a0a360-c855-4ecc-b19d-de3f1eef8d92" name="Platform" url="http://beup.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
   </component>
 </application>
