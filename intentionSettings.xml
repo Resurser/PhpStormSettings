@@ -17,8 +17,5 @@
     <ignoreAction name="Other/Flip ','" />
     <ignoreAction name="SQL/Split string literal" />
     <ignoreAction name="SQL/Unqualify identifier" />
-    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
-    <ignoreAction name="CSS/Convert color to HWB" />
-    <ignoreAction name="CSS/Convert color to gray" />
   </component>
 </application>

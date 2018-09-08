@@ -107,7 +107,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="110" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
