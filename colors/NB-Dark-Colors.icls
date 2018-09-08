@@ -3,7 +3,7 @@
     <property name="created">2018-08-24T07:41:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-09-03T01:00:49</property>
+    <property name="modified">2018-09-08T12:36:12</property>
     <property name="originalScheme">NB-Dark-1</property>
   </metaInfo>
   <colors>
@@ -425,8 +425,8 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="6f6dc9" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="a367c9" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -468,7 +468,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="da8b68" />
+        <option name="FOREGROUND" value="8cb434" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -487,7 +487,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b7b754" />
+        <option name="FOREGROUND" value="c3c267" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -518,7 +518,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="de7671" />
+        <option name="FOREGROUND" value="de7b54" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -543,17 +543,17 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c261c1" />
+        <option name="FOREGROUND" value="c272b7" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="99c2e4" />
+        <option name="FOREGROUND" value="e4ad56" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="b0ae55" />
+        <option name="FOREGROUND" value="c1a257" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -563,7 +563,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="80c325" />
+        <option name="FOREGROUND" value="64b6c3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -588,7 +588,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a7a886" />
+        <option name="FOREGROUND" value="86a87e" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
