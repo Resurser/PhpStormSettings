@@ -3,8 +3,6 @@
     <option name="addEditPointAtTheEndOfTemplate" value="true" />
     <option name="filtersEnabledByDefault">
       <set>
-        <option value="bem" />
-        <option value="c" />
         <option value="t" />
       </set>
     </option>
