@@ -3,6 +3,7 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="26" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
@@ -13,6 +14,5 @@
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
