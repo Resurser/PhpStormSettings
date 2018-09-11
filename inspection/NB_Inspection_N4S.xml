@@ -349,7 +349,7 @@
     <option name="ENABLE_IN_FILE_SCOPE" value="true" />
     <option name="DONT_REPORT_CATCH_EXCEPTION" value="false" />
   </inspection_tool>
-  <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true">
     <option name="DONT_REPORT_ABSTRACT_CLASS" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="TYPO" enabled_by_default="true" />
