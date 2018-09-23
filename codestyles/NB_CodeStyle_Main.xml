@@ -85,15 +85,13 @@
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
-    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
     <option name="WRAP_INSIDE_WHERE" value="5" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
-    <option name="ALIAS_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="ALIAS_CASE" value="2" />
     <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="0" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
@@ -463,6 +461,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SPACE_AFTER_COMMA" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
