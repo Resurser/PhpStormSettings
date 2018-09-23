@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,8 +17,8 @@
     <mask>*.ini</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.postcss*</mask>
     <mask>*.js</mask>
+    <mask>*.postcss*</mask>
     <mask>*.php</mask>
   </component>
 </application>
