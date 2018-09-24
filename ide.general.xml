@@ -8,12 +8,12 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="search.everywhere.configurations" value="false" />
-    <entry key="tabs.alphabetical" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.actions" value="false" />
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
     <entry key="ide.tooltip.initialDelay" value="903" />
+    <entry key="tabs.alphabetical" value="true" />
   </component>
 </application>

@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" />
     <notification groupId="Quokka Notifications" displayType="NONE" shouldLog="false" />
   </component>
 </application>

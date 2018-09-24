@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="!*;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.ide;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="geojson" type="JSON" />
       <mapping ext="config" type="JSON" />
@@ -9,6 +10,8 @@
       <mapping ext="wpcss" type="PLAIN_TEXT" />
       <mapping ext="w" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
+      <mapping pattern="*.postcss.css" type="SCSS" />
+      <mapping ext="pcss" type="SCSS" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
