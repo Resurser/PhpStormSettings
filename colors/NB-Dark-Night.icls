@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-25T16:02:42</property>
+    <property name="modified">2018-09-25T22:33:27</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -63336,11 +63336,11 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="858637" />
-        <option name="BACKGROUND" value="121306" />
+        <option name="FOREGROUND" value="308386" />
+        <option name="BACKGROUND" value="e2626" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="526627" />
-        <option name="ERROR_STRIPE_COLOR" value="969b20" />
+        <option name="EFFECT_COLOR" value="308386" />
+        <option name="ERROR_STRIPE_COLOR" value="43b6ba" />
       </value>
     </option>
     <option name="TYPEDEF">
