@@ -55,6 +55,10 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="ForceRunToCursor" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl b" />
@@ -78,6 +82,7 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl h" />
   </action>
+  <action id="Move" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
