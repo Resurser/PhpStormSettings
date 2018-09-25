@@ -3,15 +3,15 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-25T00:25:39</property>
+    <property name="modified">2018-09-25T02:52:04</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="d3416" />
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="98cfd0" />
-    <option name="CARET_ROW_COLOR" value="181610" />
+    <option name="CARET_COLOR" value="d0cda7" />
+    <option name="CARET_ROW_COLOR" value="202622" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -29,7 +29,7 @@
     <option name="INDENT_GUIDE" value="e3234" />
     <option name="INFORMATION_HINT" value="f2325" />
     <option name="LINE_NUMBERS_COLOR" value="50979a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="41401c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="3f3e41" />
     <option name="MODIFIED_LINES_COLOR" value="e2032" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
     <option name="QUESTION_HINT" value="2b260f" />
@@ -48,7 +48,7 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="1e815d" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
-    <option name="TEARLINE_COLOR" value="1f666c" />
+    <option name="TEARLINE_COLOR" value="1e6268" />
     <option name="TOOLTIP" value="142b2e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="54446" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="43c5d" />
@@ -289,7 +289,7 @@
         <option name="FOREGROUND" value="f2f2ab" />
         <option name="BACKGROUND" value="38340d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="9bc703" />
+        <option name="EFFECT_COLOR" value="bc007" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
@@ -768,7 +768,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="111112" />
+        <option name="BACKGROUND" value="d1112" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63137,9 +63137,8 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e3ed80" />
-        <option name="BACKGROUND" value="283635" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="bda506" />
+        <option name="BACKGROUND" value="363523" />
+        <option name="EFFECT_COLOR" value="d3bf47" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63226,7 +63225,7 @@
         <option name="FOREGROUND" value="f2f2ab" />
         <option name="BACKGROUND" value="38340d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="9cc002" />
+        <option name="EFFECT_COLOR" value="bc007" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -63324,7 +63323,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b6b894" />
+        <option name="FOREGROUND" value="b5b89b" />
         <option name="BACKGROUND" value="a0a0a" />
       </value>
     </option>
@@ -63365,6 +63364,8 @@
       <value>
         <option name="FOREGROUND" value="e5573f" />
         <option name="BACKGROUND" value="570c0f" />
+        <option name="EFFECT_COLOR" value="af1d0e" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Unresolved reference access">
