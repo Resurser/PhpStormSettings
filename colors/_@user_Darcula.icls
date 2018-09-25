@@ -3,24 +3,26 @@
     <property name="created">2018-09-06T17:24:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-23T23:22:51</property>
+    <property name="modified">2018-09-25T08:25:20</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="6ba65e" />
+    <option name="FILESTATUS_ADDED" value="76b991" />
     <option name="FILESTATUS_DELETED" value="767676" />
+    <option name="FILESTATUS_HIJACKED" value="bbbbbb" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7f7f7f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d59b62" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d59b62" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d59b62" />
-    <option name="FILESTATUS_MERGED" value="ae8ebc" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4b5759" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d56865" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d55d75" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d56865" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="4b5759" />
+    <option name="FILESTATUS_MERGED" value="6c9dbc" />
     <option name="FILESTATUS_MODIFIED" value="6cc5ba" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="75b8d4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79adca" />
-    <option name="FILESTATUS_UNKNOWN" value="e7bc4c" />
+    <option name="FILESTATUS_UNKNOWN" value="e79042" />
     <option name="FILESTATUS_addedOutside" value="6eaa60" />
     <option name="FILESTATUS_changelistConflict" value="e28b8f" />
-    <option name="FILESTATUS_modifiedOutside" value="6cc5ba" />
+    <option name="FILESTATUS_modifiedOutside" value="57aec7" />
   </colors>
 </scheme>
