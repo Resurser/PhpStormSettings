@@ -237,7 +237,7 @@
     <option name="limit" value="15" />
   </inspection_tool>
   <inspection_tool class="MysqlParsingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="NegatedIfStatementJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedFunctionCallJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedFunctionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
