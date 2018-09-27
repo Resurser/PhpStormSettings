@@ -15,8 +15,8 @@
     <mask>*.ini</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.postcss*</mask>
   </component>
 </application>
