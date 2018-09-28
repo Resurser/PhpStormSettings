@@ -1,8 +1,4 @@
 <application>
-  <component name="DiffManager">
-    <filesTool value="E:\Soft\PRG\_Other\CompareIt\wincmp3.exe" newValue="E:\Soft\PRG\_Other\CompareIt\wincmp3.exe" />
-    <mergeToolParameters value="%1 %2 %3 %4" />
-  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">

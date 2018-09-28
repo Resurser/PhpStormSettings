@@ -2,38 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="PHP" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="40" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-    <option name="CONVERT_HTML_TO_JSX" value="false" />
-  </component>
   <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
@@ -52,8 +20,5 @@
       <pattern index="2" />
       <pattern index="0" />
     </filter>
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
 </application>
