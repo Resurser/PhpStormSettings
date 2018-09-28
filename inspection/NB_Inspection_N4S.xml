@@ -281,6 +281,7 @@
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
+  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
