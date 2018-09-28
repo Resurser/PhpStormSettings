@@ -2,6 +2,14 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
