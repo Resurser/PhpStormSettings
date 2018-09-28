@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-26T00:02:30</property>
+    <property name="modified">2018-09-28T17:17:22</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -108,7 +108,7 @@
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="71b2f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="ba8202" />
+        <option name="EFFECT_COLOR" value="3dba03" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -116,7 +116,7 @@
         <option name="FOREGROUND" value="c5e4e2" />
         <option name="BACKGROUND" value="29260a" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8a29f" />
+        <option name="EFFECT_COLOR" value="a211" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -331,7 +331,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="c2c363" />
+        <option name="FOREGROUND" value="c3a261" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -63225,7 +63225,7 @@
         <option name="FOREGROUND" value="f2f2ab" />
         <option name="BACKGROUND" value="38340d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="bc007" />
+        <option name="EFFECT_COLOR" value="c0ba09" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -63342,7 +63342,7 @@
         <option name="BACKGROUND" value="e2626" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="308386" />
-        <option name="ERROR_STRIPE_COLOR" value="43b6ba" />
+        <option name="ERROR_STRIPE_COLOR" value="3faaae" />
       </value>
     </option>
     <option name="TYPEDEF">
