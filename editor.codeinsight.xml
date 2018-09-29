@@ -3,6 +3,7 @@
     <option name="PARAMETER_INFO_DELAY" value="6000" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="NB_Inspection_N4S" />
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
