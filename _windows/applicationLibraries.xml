@@ -4,7 +4,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/select2" type="javaScript">
+    <library name="@types/jquery.pnotify" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
