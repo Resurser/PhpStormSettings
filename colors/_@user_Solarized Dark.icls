@@ -3,7 +3,7 @@
     <property name="created">2018-09-08T12:47:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-08T12:56:55</property>
+    <property name="modified">2018-10-01T18:30:07</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <colors>
@@ -1960,7 +1960,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="b1113" />
+        <option name="BACKGROUND" value="171c" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
