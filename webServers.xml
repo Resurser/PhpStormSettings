@@ -5,5 +5,10 @@
         <option name="hostKeyCheckingLevel" value="NO" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="ecf492b8-438d-4994-afac-9d2bb5e5c3b4" name="tvduma.admin.local" url="http://tvduma.local/admin">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
   </component>
 </application>
