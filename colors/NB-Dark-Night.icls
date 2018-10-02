@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-01T20:23:48</property>
+    <property name="modified">2018-10-02T16:23:46</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -337,8 +337,9 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="d96b8b" />
-        <option name="EFFECT_COLOR" value="a45d7b" />
+        <option name="FOREGROUND" value="d55975" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="b44b63" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -421,13 +422,13 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ba7d3f" />
+        <option name="FOREGROUND" value="bf8032" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="d96b8b" />
+        <option name="FOREGROUND" value="d95898" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -442,7 +443,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="bc6568" />
+        <option name="FOREGROUND" value="ba584b" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -701,7 +702,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2f3b0b" />
+        <option name="BACKGROUND" value="3a3a12" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
     </option>
@@ -769,7 +770,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="101818" />
+        <option name="BACKGROUND" value="e1616" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63403,7 +63404,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="393b0b" />
         <option name="ERROR_STRIPE_COLOR" value="c1c700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
