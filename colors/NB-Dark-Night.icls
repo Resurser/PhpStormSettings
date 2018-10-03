@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-03T16:17:34</property>
+    <property name="modified">2018-10-03T19:21:36</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -342,7 +342,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="d55975" />
+        <option name="FOREGROUND" value="c66186" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b44b63" />
         <option name="EFFECT_TYPE" value="1" />
@@ -355,7 +355,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ac5ab1" />
+        <option name="FOREGROUND" value="7f58b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -398,7 +398,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="9dad35" />
+        <option name="FOREGROUND" value="ada438" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -448,7 +448,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a96157" />
+        <option name="FOREGROUND" value="a9614a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -458,7 +458,7 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="d07262" />
         <option name="ERROR_STRIPE_COLOR" value="460b2d" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -474,17 +474,17 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="95b52b" />
+        <option name="FOREGROUND" value="87b536" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="b87bbb" />
+        <option name="FOREGROUND" value="a875bb" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="69aeb4" />
+        <option name="FOREGROUND" value="61b4a2" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -499,7 +499,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="699fa5" />
+        <option name="FOREGROUND" value="62a5a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
