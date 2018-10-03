@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-03T07:43:26</property>
+    <property name="modified">2018-10-03T14:36:07</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -412,7 +412,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b2a248" />
+        <option name="FOREGROUND" value="af9e40" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -443,7 +443,8 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="bf5759" />
+        <option name="FOREGROUND" value="a96157" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -702,7 +703,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a3a12" />
+        <option name="BACKGROUND" value="383a1d" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
     </option>
@@ -63165,8 +63166,9 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="6e6c56" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="898b8d" />
+        <option name="EFFECT_COLOR" value="4c6c77" />
         <option name="ERROR_STRIPE_COLOR" value="2e3032" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
