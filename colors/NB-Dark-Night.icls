@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-03T19:21:36</property>
+    <property name="modified">2018-10-05T01:27:27</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -344,7 +344,7 @@
       <value>
         <option name="FOREGROUND" value="c66186" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b44b63" />
+        <option name="EFFECT_COLOR" value="6e374b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
