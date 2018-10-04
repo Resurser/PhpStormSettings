@@ -43,8 +43,10 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <property name="characterEncoding" value="utf8mb4" />
+      <property name="characterSetResults" value="utf8mb4" />
       <property name="allowMultiQueries" value="true" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
+      <code-style-scheme-name>NB_CodeStyle_Strict</code-style-scheme-name>
     </driver>
     <driver id="mariadb">
       <artifact name="MariaDB Connector J" use="true" />
