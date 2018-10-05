@@ -9,14 +9,16 @@
   <option name="SOFT_MARGINS" value="100" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <CsvCodeStyleSettings>
-    <option name="SPACE_AFTER_SEPARATOR" value="true" />
+    <option name="SPACE_BEFORE_SEPARATOR" value="true" />
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
     <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+    <option name="LEADING_WHITE_SPACES" value="true" />
   </CsvCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
@@ -43,6 +45,7 @@
     <option name="ALIGN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
@@ -86,6 +89,7 @@
   <SqlCodeStyleSettings version="1">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
     <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
@@ -95,14 +99,16 @@
     <option name="FROM_EL_WRAP" value="2" />
     <option name="WHERE_EL_WRAP" value="0" />
     <option name="WHERE_EL_BOUND" value="2" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
+    <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
-    <option name="WRAP_INSIDE_CREATE_TABLE" value="1" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="5" />
     <option name="WRAP_INSIDE_WHERE" value="5" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="5" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="5" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
   </SqlCodeStyleSettings>
   <XML>
@@ -137,7 +143,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
@@ -157,6 +162,13 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -293,6 +305,10 @@
       </tokens>
       <groups>
         <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>BY_NAME</order>
+        </group>
+        <group>
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
         </group>
@@ -389,7 +405,10 @@
         <section>
           <rule>
             <match>
-              <CONSTRUCTOR>true</CONSTRUCTOR>
+              <AND>
+                <CONSTRUCTOR>true</CONSTRUCTOR>
+                <visibility />
+              </AND>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -463,6 +482,11 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
@@ -470,6 +494,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="true" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_AFTER_COMMA" value="false" />
     <indentOptions>
