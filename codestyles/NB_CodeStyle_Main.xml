@@ -327,18 +327,7 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
-                <STATIC>true</STATIC>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <FIELD>true</FIELD>
-                <PUBLIC>true</PUBLIC>
+                <PRIVATE>true</PRIVATE>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -360,7 +349,18 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
-                <PRIVATE>true</PRIVATE>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <STATIC>true</STATIC>
               </AND>
             </match>
             <order>BY_NAME</order>
