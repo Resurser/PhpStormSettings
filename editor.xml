@@ -13,6 +13,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true">
