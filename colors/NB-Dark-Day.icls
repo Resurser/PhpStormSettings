@@ -4,11 +4,10 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-06T17:00:54</property>
+    <property name="modified">2018-10-06T19:01:04</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="d3416" />
@@ -24,7 +23,7 @@
     <option name="DOCUMENTATION_COLOR" value="a0c13" />
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="12191f" />
+    <option name="GUTTER_BACKGROUND" value="102224" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
@@ -32,8 +31,8 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
     <option name="INDENT_GUIDE" value="e3234" />
     <option name="INFORMATION_HINT" value="f2325" />
-    <option name="LINE_NUMBERS_COLOR" value="50979a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="3f3e41" />
+    <option name="LINE_NUMBERS_COLOR" value="359f9d" />
+    <option name="METHOD_SEPARATORS_COLOR" value="282b04" />
     <option name="MODIFIED_LINES_COLOR" value="e2032" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
     <option name="QUESTION_HINT" value="2b260f" />
@@ -46,13 +45,13 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
     <option name="RIGHT_MARGIN_COLOR" value="2f6e6d" />
     <option name="SELECTED_INDENT_GUIDE" value="3a389" />
-    <option name="SELECTED_TEARLINE_COLOR" value="3ad0d8" />
+    <option name="SELECTED_TEARLINE_COLOR" value="2ed4ad" />
     <option name="SELECTION_BACKGROUND" value="1b487e" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
     <option name="SEPARATOR_ABOVE_COLOR" value="1e815d" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
-    <option name="TEARLINE_COLOR" value="1e6268" />
+    <option name="TEARLINE_COLOR" value="174b4f" />
     <option name="TOOLTIP" value="142b2e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="54446" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="43c5d" />
@@ -63142,7 +63141,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d8db09" />
+        <option name="FOREGROUND" value="d2e0a8" />
         <option name="BACKGROUND" value="363523" />
         <option name="EFFECT_COLOR" value="a79738" />
       </value>
