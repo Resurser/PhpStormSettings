@@ -306,12 +306,7 @@
           </rules>
         </token>
       </tokens>
-      <groups>
-        <group>
-          <type>GETTERS_AND_SETTERS</type>
-          <order>KEEP</order>
-        </group>
-      </groups>
+      <groups />
       <rules>
         <section>
           <rule>
@@ -406,7 +401,7 @@
             <match>
               <AND>
                 <CONSTRUCTOR>true</CONSTRUCTOR>
-                <visibility />
+                <modifiers />
               </AND>
             </match>
             <order>BY_NAME</order>
