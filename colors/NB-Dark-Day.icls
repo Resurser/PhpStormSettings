@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-06T19:01:04</property>
+    <property name="modified">2018-10-09T14:31:43</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -13,7 +13,7 @@
     <option name="ADDED_LINES_COLOR" value="d3416" />
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="71c5d0" />
+    <option name="CARET_COLOR" value="6dd4d3" />
     <option name="CARET_ROW_COLOR" value="1e2126" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
