@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-09T15:02:29</property>
+    <property name="modified">2018-10-09T21:45:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -400,8 +400,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="c77446" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="cc9f32" />
         <option name="EFFECT_COLOR" value="8e6f23" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -414,7 +413,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c7bb5b" />
+        <option name="FOREGROUND" value="b9c75b" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -424,7 +423,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="bf8929" />
+        <option name="FOREGROUND" value="c9912b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -466,7 +465,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="bfac4f" />
+        <option name="FOREGROUND" value="bfb141" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
