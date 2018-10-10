@@ -7,7 +7,7 @@
     <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
-    <entry key="tabs.alphabetical" value="true" />
     <entry key="ide.tooltip.initialDelay" value="1196" />
+    <entry key="tabs.alphabetical" value="true" />
   </component>
 </application>
