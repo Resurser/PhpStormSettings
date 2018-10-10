@@ -9,6 +9,9 @@
       <webServer id="ecf492b8-438d-4994-afac-9d2bb5e5c3b4" name="tvduma.admin.local" url="http://tvduma.local/admin">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7d14a2e6-b3a4-4b90-bab6-e2ece99dff6e" name="cp.need4study.local" url="http://cp.need4study.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
