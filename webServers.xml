@@ -12,6 +12,9 @@
       <webServer id="7d14a2e6-b3a4-4b90-bab6-e2ece99dff6e" name="cp.need4study.local" url="http://cp.need4study.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="953d143d-e54a-4275-887f-ff902fa7f054" name="DemoTest" url="http://demo.local/test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
