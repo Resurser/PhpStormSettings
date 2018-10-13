@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-05T03:51:02</property>
+    <property name="modified">2018-10-13T06:59:42</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,7 +15,7 @@
     <option name="ADDED_LINES_COLOR" value="d3416" />
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="71c5d0" />
+    <option name="CARET_COLOR" value="d063cd" />
     <option name="CARET_ROW_COLOR" value="1e2126" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
@@ -25,7 +25,7 @@
     <option name="DOCUMENTATION_COLOR" value="a0c13" />
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="12191f" />
+    <option name="GUTTER_BACKGROUND" value="11121f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
@@ -43,14 +43,14 @@
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
-    <option name="READONLY_BACKGROUND" value="230904" />
+    <option name="READONLY_BACKGROUND" value="370808" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
     <option name="RIGHT_MARGIN_COLOR" value="2f6e6d" />
     <option name="SELECTED_INDENT_GUIDE" value="3a389" />
     <option name="SELECTED_TEARLINE_COLOR" value="3ad0d8" />
     <option name="SELECTION_BACKGROUND" value="1b487e" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="1e815d" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="e8081" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
     <option name="TEARLINE_COLOR" value="1e6268" />
@@ -402,9 +402,8 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="bd793a" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8e6f23" />
+        <option name="FOREGROUND" value="b3ac49" />
+        <option name="EFFECT_COLOR" value="858036" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -416,7 +415,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="af9e46" />
+        <option name="FOREGROUND" value="b3ac49" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
