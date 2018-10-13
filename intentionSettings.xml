@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to HWB" />
+    <ignoreAction name="CSS/Convert color to gray" />
+    <ignoreAction name="CSS/Replace with color name" />
+    <ignoreAction name="CSS/Update background-image size" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="React/Convert to class component" />
+    <ignoreAction name="React/Convert to functional component" />
+  </component>
+</application>
