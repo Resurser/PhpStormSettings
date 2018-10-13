@@ -1,0 +1,43 @@
+<application>
+  <component name="IDEOM">
+    <option name="editorSetting">
+      <map>
+        <entry key="Default">
+          <value>
+            <EditorSetting>
+              <option name="editorName" value="Default" />
+              <option name="useWallPaper" value="false" />
+              <option name="useIcon" value="true" />
+            </EditorSetting>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="soundSetting">
+      <map>
+        <entry key="Project Close">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Project Open">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <SoundSetting>
+              <option name="eventName" value="Run" />
+            </SoundSetting>
+          </value>
+        </entry>
+        <entry key="Run Error">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
