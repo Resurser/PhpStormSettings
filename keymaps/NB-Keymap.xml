@@ -1,6 +1,7 @@
 <keymap version="1" name="NB-Keymap" parent="$default">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -40,6 +41,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
   <action id="EditBreakpoint" />
   <action id="EditorPasteSimple">
@@ -128,6 +130,9 @@
   </action>
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="StringManipulation.AlignToColumns">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />

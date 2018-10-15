@@ -1,5 +1,10 @@
 <application>
   <component name="StringManipulationState">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="7" />
+      </DonationNagger>
+    </option>
     <option name="history">
       <list>
         <ColumnAlignerModel>
@@ -10,6 +15,60 @@
               <option value="" />
             </list>
           </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1539586601356" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1539586607252" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1539586625213" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1539586631925" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimLines" value="true" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1539586655477" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="trimLines" value="true" />
+          <option name="trimValues" value="false" />
         </ColumnAlignerModel>
       </list>
     </option>
