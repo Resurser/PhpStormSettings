@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-15T04:14:28</property>
+    <property name="modified">2018-10-15T12:49:31</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -111,7 +111,8 @@
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="71b2f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="3dba03" />
+        <option name="EFFECT_COLOR" value="48dd04" />
+        <option name="ERROR_STRIPE_COLOR" value="45abf" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -119,7 +120,7 @@
         <option name="FOREGROUND" value="c5e4e2" />
         <option name="BACKGROUND" value="29260a" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="a211" />
+        <option name="EFFECT_COLOR" value="cb15" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -291,7 +292,8 @@
         <option name="FOREGROUND" value="f2f2ab" />
         <option name="BACKGROUND" value="38340d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="bc007" />
+        <option name="EFFECT_COLOR" value="de409" />
+        <option name="ERROR_STRIPE_COLOR" value="a019c8" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
@@ -63227,7 +63229,8 @@
         <option name="FOREGROUND" value="f2f2ab" />
         <option name="BACKGROUND" value="38340d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="c0ba09" />
+        <option name="EFFECT_COLOR" value="cae51a" />
+        <option name="ERROR_STRIPE_COLOR" value="b21cde" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
