@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-15T03:58:42</property>
+    <property name="modified">2018-10-15T04:14:28</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -452,7 +452,7 @@
       <value>
         <option name="FOREGROUND" value="e2ad02" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8d6c01" />
+        <option name="EFFECT_COLOR" value="605f03" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
