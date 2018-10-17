@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-15T12:49:31</property>
+    <property name="modified">2018-10-17T06:45:18</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -50,7 +50,7 @@
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
     <option name="SEPARATOR_ABOVE_COLOR" value="1e815d" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="2ffb5" />
     <option name="TEARLINE_COLOR" value="174b4f" />
     <option name="TOOLTIP" value="142b2e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="54446" />
@@ -336,7 +336,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="d1b44d" />
+        <option name="FOREGROUND" value="d16045" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -452,7 +452,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="e2ad02" />
+        <option name="FOREGROUND" value="e68e0b" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="605f03" />
       </value>
@@ -490,7 +490,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="c3b24c" />
+        <option name="FOREGROUND" value="cdc949" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">

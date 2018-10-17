@@ -3,6 +3,7 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="6000" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SMART_BACKSPACE" value="2" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
