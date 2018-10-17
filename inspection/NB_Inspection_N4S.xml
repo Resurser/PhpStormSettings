@@ -6,7 +6,6 @@
   <inspection_tool class="AlterInForeachInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="SUGGEST_USING_VALUE_BY_REF" value="true" />
   </inspection_tool>
-  <inspection_tool class="ArgumentUnpackingCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="TYPO" enabled_by_default="true" />
@@ -18,7 +17,6 @@
   <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableInLoopTerminationConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CallableMethodValidityInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CascadingDirnameCallsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckImageSize" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -226,7 +224,7 @@
   </inspection_tool>
   <inspection_tool class="LongLine" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MagicMethodsValidityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="DESIGN" value="true" />
     <option name="UNUSEDCODE" value="true" />
@@ -336,10 +334,7 @@
     <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
-    <option name="NOTIFY_DYNAMIC_DECLARATION" value="false" />
-  </inspection_tool>
+  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -485,7 +480,6 @@
   <inspection_tool class="TernaryOperatorSimplifyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TodoComment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="TypeScriptPreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
