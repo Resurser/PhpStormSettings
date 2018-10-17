@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-17T14:18:43</property>
+    <property name="modified">2018-10-17T15:30:26</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -29,10 +29,10 @@
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
     <option name="HTML_TAG_TREE_LEVEL3" value="935dda" />
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
-    <option name="INDENT_GUIDE" value="e3234" />
+    <option name="INDENT_GUIDE" value="122323" />
     <option name="INFORMATION_HINT" value="f2325" />
     <option name="LINE_NUMBERS_COLOR" value="359f9d" />
-    <option name="METHOD_SEPARATORS_COLOR" value="282b04" />
+    <option name="METHOD_SEPARATORS_COLOR" value="282a2a" />
     <option name="MODIFIED_LINES_COLOR" value="e2032" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
     <option name="QUESTION_HINT" value="2b260f" />
@@ -48,8 +48,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="2ed4ad" />
     <option name="SELECTION_BACKGROUND" value="1b487e" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="1e815d" />
-    <option name="SEPARATOR_BELOW_COLOR" value="1e7659" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="248145" />
+    <option name="SEPARATOR_BELOW_COLOR" value="76723b" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="8ff06" />
     <option name="TEARLINE_COLOR" value="304c4c" />
     <option name="TOOLTIP" value="142b2e" />
