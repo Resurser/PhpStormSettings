@@ -490,7 +490,7 @@
   <inspection_tool class="TypeScriptValidateJSTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptValidateTypes" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypeUnsafeArraySearchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeUnsafeComparisonInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
+  <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="TypescriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true">
