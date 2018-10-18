@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-18T12:33:58</property>
+    <property name="modified">2018-10-18T19:47:21</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -58,7 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="41c44" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="25053d" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="280326" />
-    <option name="VISUAL_INDENT_GUIDE" value="1b1c1b" />
+    <option name="VISUAL_INDENT_GUIDE" value="210b1f" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -325,7 +325,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4e4e34" />
+        <option name="FOREGROUND" value="415337" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -462,7 +462,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4e4e34" />
+        <option name="FOREGROUND" value="415337" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
