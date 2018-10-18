@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-18T19:47:21</property>
+    <property name="modified">2018-10-19T01:40:59</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -440,8 +440,8 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ed3c35" />
-        <option name="EFFECT_COLOR" value="fb3437" />
+        <option name="BACKGROUND" value="3b0704" />
+        <option name="EFFECT_COLOR" value="e50000" />
         <option name="ERROR_STRIPE_COLOR" value="e50000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -483,7 +483,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d0a833" />
+        <option name="FOREGROUND" value="d0864d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -606,11 +606,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ec5b36" />
-        <option name="BACKGROUND" value="460c0c" />
+        <option name="BACKGROUND" value="460805" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="fb2404" />
-        <option name="ERROR_STRIPE_COLOR" value="e9201a" />
+        <option name="EFFECT_COLOR" value="f60000" />
+        <option name="ERROR_STRIPE_COLOR" value="e50000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63413,8 +63412,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="483001" />
-        <option name="EFFECT_COLOR" value="ee6d02" />
-        <option name="ERROR_STRIPE_COLOR" value="aa5b00" />
+        <option name="EFFECT_COLOR" value="ee7d00" />
+        <option name="ERROR_STRIPE_COLOR" value="ee7d00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
