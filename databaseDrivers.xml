@@ -37,14 +37,13 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql">
+    <driver id="mysql" driver-class="org.gjt.mm.mysql.Driver">
+      <remarks>MySQL DB connector</remarks>
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <property name="characterEncoding" value="utf8mb4" />
-      <property name="characterSetResults" value="utf8mb4" />
       <property name="allowMultiQueries" value="true" />
       <code-style-scheme-name>NB_CodeStyle_Strict</code-style-scheme-name>
     </driver>
@@ -66,6 +65,9 @@
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
