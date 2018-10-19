@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-19T01:40:59</property>
+    <property name="modified">2018-10-19T09:29:34</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -43,7 +43,7 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="230904" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
-    <option name="RIGHT_MARGIN_COLOR" value="6e1230" />
+    <option name="RIGHT_MARGIN_COLOR" value="742c4e" />
     <option name="SELECTED_INDENT_GUIDE" value="3a389" />
     <option name="SELECTED_TEARLINE_COLOR" value="2ed4ad" />
     <option name="SELECTION_BACKGROUND" value="1b487e" />
@@ -58,7 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="41c44" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="25053d" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="280326" />
-    <option name="VISUAL_INDENT_GUIDE" value="210b1f" />
+    <option name="VISUAL_INDENT_GUIDE" value="2f122f" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
