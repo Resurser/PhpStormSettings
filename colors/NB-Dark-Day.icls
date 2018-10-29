@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-22T23:57:20</property>
+    <property name="modified">2018-10-29T23:58:54</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -136,8 +136,8 @@
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="21d5d9" />
-        <option name="BACKGROUND" value="325e83" />
+        <option name="FOREGROUND" value="6fcfb6" />
+        <option name="BACKGROUND" value="31577b" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
