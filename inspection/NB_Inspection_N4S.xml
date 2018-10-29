@@ -80,7 +80,7 @@
   <inspection_tool class="ES6UnusedImports" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6Validation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ESLintInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="EfferentObjectCouplingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EfferentObjectCouplingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ElvisOperatorCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -346,7 +346,9 @@
   </inspection_tool>
   <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="DOWNGRADE_SEVERITY" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="ENABLE_IN_FILE_SCOPE" value="false" />
@@ -369,7 +371,7 @@
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="TYPO" enabled_by_default="false" />
-  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
     <option name="m_regex" value="[_a-zA-Z][_a-z\d]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="40" />
