@@ -41,6 +41,7 @@
   <action id="DatabaseView.ExecuteRoutine">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="DatabaseView.SqlGenerator" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
@@ -192,6 +193,7 @@
   </action>
   <action id="uuidgenerator.random">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="uuidgenerator.toggle-dashes">
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
