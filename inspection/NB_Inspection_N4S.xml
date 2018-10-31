@@ -362,7 +362,6 @@
   </inspection_tool>
   <inspection_tool class="PhpUnreachableStatementInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
     <option name="DONT_REPORT_CATCH_EXCEPTION" value="false" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true">
