@@ -137,13 +137,14 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="6">
+        <list size="7">
           <item index="0" class="java.lang.String" itemvalue="original-title" />
           <item index="1" class="java.lang.String" itemvalue="placeholder" />
           <item index="2" class="java.lang.String" itemvalue="amp-boilerplate" />
           <item index="3" class="java.lang.String" itemvalue="amp" />
           <item index="4" class="java.lang.String" itemvalue="xsi:schemalocation" />
           <item index="5" class="java.lang.String" itemvalue="xlink:href" />
+          <item index="6" class="java.lang.String" itemvalue="rel" />
         </list>
       </value>
     </option>
