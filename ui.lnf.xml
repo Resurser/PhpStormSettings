@@ -13,7 +13,6 @@
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
-    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
