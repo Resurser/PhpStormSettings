@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-31T08:26:04</property>
+    <property name="modified">2018-11-02T03:57:11</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="6dd4d3" />
-    <option name="CARET_ROW_COLOR" value="1e2126" />
+    <option name="CARET_ROW_COLOR" value="162326" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -31,7 +31,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
     <option name="INDENT_GUIDE" value="122323" />
     <option name="INFORMATION_HINT" value="f2325" />
-    <option name="LINE_NUMBERS_COLOR" value="359f9d" />
+    <option name="LINE_NUMBERS_COLOR" value="4f9f88" />
     <option name="METHOD_SEPARATORS_COLOR" value="282a2a" />
     <option name="MODIFIED_LINES_COLOR" value="e2032" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
@@ -630,10 +630,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="47124" />
-        <option name="BACKGROUND" value="192429" />
+        <option name="FOREGROUND" value="56e42" />
+        <option name="BACKGROUND" value="13262e" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="45714" />
+        <option name="EFFECT_COLOR" value="3482b" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -707,7 +707,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="383a1d" />
+        <option name="BACKGROUND" value="473f0e" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
     </option>
@@ -774,7 +774,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="e1616" />
+        <option name="BACKGROUND" value="141216" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63296,7 +63296,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9300d" />
+        <option name="BACKGROUND" value="e4914" />
         <option name="ERROR_STRIPE_COLOR" value="89a0d" />
       </value>
     </option>
@@ -63347,8 +63347,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="113419" />
-        <option name="EFFECT_COLOR" value="67c0b" />
+        <option name="BACKGROUND" value="e4914" />
+        <option name="EFFECT_COLOR" value="6850c" />
         <option name="ERROR_STRIPE_COLOR" value="89f0e" />
       </value>
     </option>
@@ -63382,7 +63382,7 @@
       <value>
         <option name="FOREGROUND" value="e5573f" />
         <option name="BACKGROUND" value="570c0f" />
-        <option name="EFFECT_COLOR" value="af1d0e" />
+        <option name="EFFECT_COLOR" value="c72110" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63419,16 +63419,17 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="454412" />
+        <option name="BACKGROUND" value="474705" />
         <option name="ERROR_STRIPE_COLOR" value="c1c700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="210e22" />
+        <option name="BACKGROUND" value="f1010" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="d78208" />
+        <option name="EFFECT_COLOR" value="e1e2b5" />
+        <option name="ERROR_STRIPE_COLOR" value="d6d6d6" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
