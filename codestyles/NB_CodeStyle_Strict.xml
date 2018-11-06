@@ -71,12 +71,28 @@
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings>
+  <SqlCodeStyleSettings version="0">
+    <option name="myVersion" value="0" />
+    <option name="ALIAS_CASE" value="4" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="SET_EL_COMMA" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="3" />
+    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_THEN_WRAP" value="true" />
+    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
-    <option name="QUOTE_IDENTIFIER" value="0" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
@@ -131,7 +147,6 @@
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
@@ -147,7 +162,6 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />

@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-02T09:49:55</property>
+    <property name="modified">2018-11-06T17:30:18</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -630,10 +630,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="56e42" />
-        <option name="BACKGROUND" value="13262e" />
+        <option name="FOREGROUND" value="45a36" />
+        <option name="BACKGROUND" value="101f26" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="3482b" />
+        <option name="EFFECT_COLOR" value="23922" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
