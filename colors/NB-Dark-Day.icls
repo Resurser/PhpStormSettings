@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-06T17:30:18</property>
+    <property name="modified">2018-11-07T06:02:55</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -707,8 +707,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="473f0e" />
-        <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
+        <option name="BACKGROUND" value="494b02" />
+        <option name="ERROR_STRIPE_COLOR" value="f9f90c" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -63419,8 +63419,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="474705" />
-        <option name="ERROR_STRIPE_COLOR" value="c1c700" />
+        <option name="BACKGROUND" value="3b4f05" />
+        <option name="ERROR_STRIPE_COLOR" value="f0f700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
