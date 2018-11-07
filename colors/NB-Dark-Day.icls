@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-07T06:02:55</property>
+    <property name="modified">2018-11-07T22:21:54</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="6dd4d3" />
-    <option name="CARET_ROW_COLOR" value="162326" />
+    <option name="CARET_ROW_COLOR" value="121126" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -707,7 +707,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="494b02" />
+        <option name="BACKGROUND" value="284013" />
         <option name="ERROR_STRIPE_COLOR" value="f9f90c" />
       </value>
     </option>
@@ -63296,8 +63296,8 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="c4212" />
-        <option name="ERROR_STRIPE_COLOR" value="89a0d" />
+        <option name="BACKGROUND" value="52d27" />
+        <option name="ERROR_STRIPE_COLOR" value="9e082" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -63347,9 +63347,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a3b10" />
-        <option name="EFFECT_COLOR" value="6850c" />
-        <option name="ERROR_STRIPE_COLOR" value="89f0e" />
+        <option name="BACKGROUND" value="4231e" />
+        <option name="EFFECT_COLOR" value="69d5b" />
+        <option name="ERROR_STRIPE_COLOR" value="afa91" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -63419,7 +63419,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b4f05" />
+        <option name="BACKGROUND" value="284013" />
         <option name="ERROR_STRIPE_COLOR" value="f0f700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63428,7 +63428,7 @@
       <value>
         <option name="BACKGROUND" value="f1010" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="e1e2b5" />
+        <option name="EFFECT_COLOR" value="e25659" />
         <option name="ERROR_STRIPE_COLOR" value="d6d6d6" />
       </value>
     </option>
