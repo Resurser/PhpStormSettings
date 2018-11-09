@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-07T22:21:54</property>
+    <property name="modified">2018-11-09T16:00:49</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -707,7 +707,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="284013" />
+        <option name="BACKGROUND" value="272a0b" />
         <option name="ERROR_STRIPE_COLOR" value="f9f90c" />
       </value>
     </option>
@@ -768,7 +768,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="9f9e02" />
+        <option name="EFFECT_COLOR" value="899f04" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63296,7 +63296,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52d27" />
+        <option name="BACKGROUND" value="a2d0f" />
         <option name="ERROR_STRIPE_COLOR" value="9e082" />
       </value>
     </option>
@@ -63347,7 +63347,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4231e" />
+        <option name="BACKGROUND" value="6312a" />
         <option name="EFFECT_COLOR" value="69d5b" />
         <option name="ERROR_STRIPE_COLOR" value="afa91" />
       </value>
@@ -63411,9 +63411,10 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="483001" />
+        <option name="BACKGROUND" value="2f2d01" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="ee7d00" />
-        <option name="ERROR_STRIPE_COLOR" value="ee7d00" />
+        <option name="ERROR_STRIPE_COLOR" value="ce4e02" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63426,15 +63427,15 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f1010" />
+        <option name="BACKGROUND" value="1d1f1f" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="e25659" />
+        <option name="EFFECT_COLOR" value="e2467e" />
         <option name="ERROR_STRIPE_COLOR" value="d6d6d6" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fc7302" />
+        <option name="EFFECT_COLOR" value="ca4d19" />
         <option name="ERROR_STRIPE_COLOR" value="d86b03" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
