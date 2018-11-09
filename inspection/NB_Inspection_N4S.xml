@@ -1,6 +1,9 @@
 <profile version="1.0">
   <description>For dev. with OLaba</description>
   <option name="myName" value="NB_Inspection_N4S" />
+  <inspection_tool class="AccessModifierPresentedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ANALYZE_CONSTANTS" value="false" />
+  </inspection_tool>
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AliasFunctionsUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AlterInForeachInspection" enabled="true" level="WARNING" enabled_by_default="true">
