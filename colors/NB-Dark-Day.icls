@@ -4,7 +4,7 @@
     <property name="created">2018-10-05T08:33:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-09T16:00:49</property>
+    <property name="modified">2018-11-10T01:17:48</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -402,9 +402,8 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="e47371" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="64372f" />
+        <option name="FOREGROUND" value="d6646d" />
+        <option name="EFFECT_COLOR" value="914e69" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -473,12 +472,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="519bc8" />
+        <option name="FOREGROUND" value="50abba" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="bfbe55" />
+        <option name="FOREGROUND" value="b4b350" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -494,7 +493,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="8e71b4" />
+        <option name="FOREGROUND" value="6ea3a9" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -520,7 +519,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="84b880" />
+        <option name="FOREGROUND" value="8bab83" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -533,7 +532,8 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="35c1d5" />
+        <option name="FOREGROUND" value="529cd5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
