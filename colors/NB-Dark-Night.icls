@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-13T06:59:42</property>
+    <property name="modified">2018-11-09T20:14:32</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,8 +15,8 @@
     <option name="ADDED_LINES_COLOR" value="d3416" />
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="d063cd" />
-    <option name="CARET_ROW_COLOR" value="1e2126" />
+    <option name="CARET_COLOR" value="e1e281" />
+    <option name="CARET_ROW_COLOR" value="151718" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -25,7 +25,7 @@
     <option name="DOCUMENTATION_COLOR" value="a0c13" />
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="11121f" />
+    <option name="GUTTER_BACKGROUND" value="181b1f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
@@ -46,21 +46,21 @@
     <option name="READONLY_BACKGROUND" value="370808" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
     <option name="RIGHT_MARGIN_COLOR" value="2f6e6d" />
-    <option name="SELECTED_INDENT_GUIDE" value="3a389" />
-    <option name="SELECTED_TEARLINE_COLOR" value="3ad0d8" />
+    <option name="SELECTED_INDENT_GUIDE" value="389d97" />
+    <option name="SELECTED_TEARLINE_COLOR" value="56e0cb" />
     <option name="SELECTION_BACKGROUND" value="1b487e" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
     <option name="SEPARATOR_ABOVE_COLOR" value="e8081" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
-    <option name="TEARLINE_COLOR" value="1e6268" />
+    <option name="TEARLINE_COLOR" value="1b5954" />
     <option name="TOOLTIP" value="142b2e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="54446" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="43c5d" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="41c44" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="25053d" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="280326" />
-    <option name="VISUAL_INDENT_GUIDE" value="1b1c1b" />
+    <option name="VISUAL_INDENT_GUIDE" value="31c1b" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -148,7 +148,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a1a0d" />
+        <option name="BACKGROUND" value="2c1513" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -325,7 +325,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4f6e6c" />
+        <option name="FOREGROUND" value="354b4a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -397,19 +397,20 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="67ad4f" />
+        <option name="FOREGROUND" value="8e6bbb" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="b3ac49" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="858036" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="72c98a" />
+        <option name="FOREGROUND" value="65c662" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -446,7 +447,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ae5f48" />
+        <option name="FOREGROUND" value="ae6537" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -461,7 +462,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4f6e6c" />
+        <option name="FOREGROUND" value="314544" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -497,7 +498,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="62a5a1" />
+        <option name="FOREGROUND" value="4993a5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -629,8 +630,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="456d46" />
-        <option name="BACKGROUND" value="192429" />
+        <option name="FOREGROUND" value="3c502e" />
+        <option name="BACKGROUND" value="e1417" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="263e41" />
       </value>
@@ -706,7 +707,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="383a1d" />
+        <option name="BACKGROUND" value="343003" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
     </option>
@@ -63286,7 +63287,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9300d" />
+        <option name="BACKGROUND" value="b380f" />
         <option name="ERROR_STRIPE_COLOR" value="89a0d" />
       </value>
     </option>
@@ -63338,7 +63339,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="113419" />
-        <option name="EFFECT_COLOR" value="67c0b" />
+        <option name="EFFECT_COLOR" value="8770" />
         <option name="ERROR_STRIPE_COLOR" value="89f0e" />
       </value>
     </option>
@@ -63401,7 +63402,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="422300" />
+        <option name="BACKGROUND" value="342000" />
         <option name="EFFECT_COLOR" value="e36a08" />
         <option name="ERROR_STRIPE_COLOR" value="aa5b00" />
         <option name="EFFECT_TYPE" value="2" />
@@ -63409,7 +63410,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4d4c03" />
+        <option name="BACKGROUND" value="3e3912" />
         <option name="ERROR_STRIPE_COLOR" value="c1c700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
