@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-10T01:26:11</property>
+    <property name="modified">2018-11-10T11:01:45</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -354,7 +354,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="7f70aa" />
+        <option name="FOREGROUND" value="8469aa" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -397,7 +397,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="9f7a57" />
+        <option name="FOREGROUND" value="af5f6a" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -498,7 +498,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="7da2a5" />
+        <option name="FOREGROUND" value="66a9b1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
