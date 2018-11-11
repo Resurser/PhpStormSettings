@@ -1,26 +1,25 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="MONOKAI" />
-    <option name="highlightColor" value="6dcb82" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="14bfc2" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="3" />
-    <option name="isContrastMode" value="true" />
+    <option name="highlightThickness" value="4" />
     <option name="isStyledDirectories" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="rightTreeIndent" value="8" />
     <option name="leftTreeIndent" value="4" />
-    <option name="accentColor" value="7dbcb3" />
+    <option name="accentColor" value="61baa8" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="22" />
+    <option name="tabsHeight" value="21" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Plus-Minus" />
-    <option name="tabOpacity" value="87" />
+    <option name="tabOpacity" value="51" />
     <option name="compactDropdowns" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="3e2d3bd3:167001cf0aa:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
