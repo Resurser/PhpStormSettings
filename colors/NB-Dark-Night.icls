@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-11T16:43:33</property>
+    <property name="modified">2018-11-12T00:47:22</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -13,8 +13,8 @@
     <option name="ADDED_LINES_COLOR" value="d3416" />
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="e1e281" />
-    <option name="CARET_ROW_COLOR" value="151718" />
+    <option name="CARET_COLOR" value="b6ba9c" />
+    <option name="CARET_ROW_COLOR" value="c1718" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -274,11 +274,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="cd7ac4" />
-      </value>
-    </option>
+    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="407ec7" />
@@ -340,7 +337,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c66186" />
+        <option name="FOREGROUND" value="c36484" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="6e374b" />
         <option name="EFFECT_TYPE" value="1" />
@@ -396,7 +393,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="af5f6a" />
+        <option name="FOREGROUND" value="779493" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -409,13 +406,13 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="65c662" />
+        <option name="FOREGROUND" value="67b063" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="bfab60" />
+        <option name="FOREGROUND" value="b8a850" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -425,13 +422,13 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="c77535" />
+        <option name="FOREGROUND" value="b4713b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="b57195" />
+        <option name="FOREGROUND" value="b3668d" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -446,7 +443,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b67441" />
+        <option name="FOREGROUND" value="a46432" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -465,11 +462,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="bfaf45" />
-      </value>
-    </option>
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="61b537" />
@@ -477,7 +469,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a875bb" />
+        <option name="FOREGROUND" value="a667ad" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -503,7 +495,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="cbbf35" />
+        <option name="FOREGROUND" value="b6ab30" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -514,7 +506,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ba7d3f" />
+        <option name="FOREGROUND" value="a9764a" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -782,7 +774,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="687074" />
-        <option name="BACKGROUND" value="282b33" />
+        <option name="BACKGROUND" value="212229" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
@@ -63344,10 +63336,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="308386" />
-        <option name="BACKGROUND" value="e2626" />
+        <option name="FOREGROUND" value="87474" />
+        <option name="BACKGROUND" value="c2b2a" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="308386" />
         <option name="ERROR_STRIPE_COLOR" value="3faaae" />
       </value>
     </option>
