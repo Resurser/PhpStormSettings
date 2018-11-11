@@ -6,7 +6,6 @@
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
-      <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
       <debugger id="javascript">
