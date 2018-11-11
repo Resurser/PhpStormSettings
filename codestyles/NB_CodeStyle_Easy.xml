@@ -337,7 +337,10 @@
         <section>
           <rule>
             <match>
-              <CONSTRUCTOR>true</CONSTRUCTOR>
+              <AND>
+                <CONSTRUCTOR>true</CONSTRUCTOR>
+                <modifiers />
+              </AND>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -347,7 +350,18 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
                 <PUBLIC>true</PUBLIC>
+                <visibility />
               </AND>
             </match>
             <order>BY_NAME</order>
