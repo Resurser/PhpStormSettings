@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-11T02:55:26</property>
+    <property name="modified">2018-11-11T16:43:33</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -63349,6 +63349,17 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="308386" />
         <option name="ERROR_STRIPE_COLOR" value="3faaae" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="bd674f" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b66075" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPEDEF">
