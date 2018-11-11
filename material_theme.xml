@@ -13,6 +13,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Plus-Minus" />
     <option name="tabOpacity" value="12" />
     <option name="compactDropdowns" value="true" />
