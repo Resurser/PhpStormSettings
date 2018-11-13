@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-12T09:29:24</property>
+    <property name="modified">2018-11-13T00:41:10</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -327,12 +327,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="d2775c" />
+        <option name="FOREGROUND" value="d2874c" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="c39744" />
+        <option name="FOREGROUND" value="c3b736" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -412,7 +412,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b8ad5e" />
+        <option name="FOREGROUND" value="b1a359" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -443,7 +443,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a45841" />
+        <option name="FOREGROUND" value="b86449" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -451,8 +451,8 @@
       <value>
         <option name="FOREGROUND" value="d0702e" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="d07262" />
-        <option name="ERROR_STRIPE_COLOR" value="460b2d" />
+        <option name="EFFECT_COLOR" value="d0702e" />
+        <option name="ERROR_STRIPE_COLOR" value="690863" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -474,7 +474,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a4b452" />
+        <option name="FOREGROUND" value="b4ad7b" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -484,7 +484,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="c39744" />
+        <option name="FOREGROUND" value="c39836" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -513,7 +513,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="6da26f" />
+        <option name="FOREGROUND" value="71a284" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -63344,13 +63344,17 @@
     </option>
     <option name="TWIG_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="bd674f" />
+        <option name="FOREGROUND" value="a469a5" />
       </value>
     </option>
-    <option name="TWIG_KEYWORD">
+    <option name="TWIG_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b66075" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="6f93b1" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="6da26f" />
       </value>
     </option>
     <option name="TYPEDEF">
