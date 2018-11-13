@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-13T00:41:10</property>
+    <property name="modified">2018-11-13T16:08:09</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -350,7 +350,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="8469aa" />
+        <option name="FOREGROUND" value="9566aa" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -469,7 +469,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a667ad" />
+        <option name="FOREGROUND" value="5f92ad" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -489,7 +489,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="66a9b1" />
+        <option name="FOREGROUND" value="9686b1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -63344,7 +63344,7 @@
     </option>
     <option name="TWIG_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="a469a5" />
+        <option name="FOREGROUND" value="a55697" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
@@ -63352,9 +63352,10 @@
         <option name="FOREGROUND" value="6f93b1" />
       </value>
     </option>
-    <option name="TWIG_STRING">
+    <option name="TWIG_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6da26f" />
+        <option name="FOREGROUND" value="b86f90" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPEDEF">
