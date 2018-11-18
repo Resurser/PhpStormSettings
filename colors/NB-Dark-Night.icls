@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-18T09:26:48</property>
+    <property name="modified">2018-11-18T11:44:54</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -32,8 +32,8 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
     <option name="INDENT_GUIDE" value="212526" />
     <option name="INFORMATION_HINT" value="a1113" />
-    <option name="LINE_NUMBERS_COLOR" value="50979a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="3f3e41" />
+    <option name="LINE_NUMBERS_COLOR" value="27989a" />
+    <option name="METHOD_SEPARATORS_COLOR" value="173c41" />
     <option name="MODIFIED_LINES_COLOR" value="e2032" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
     <option name="QUESTION_HINT" value="91308" />
@@ -44,13 +44,12 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
-    <option name="RIGHT_MARGIN_COLOR" value="2f6e6d" />
+    <option name="RIGHT_MARGIN_COLOR" value="285e5d" />
     <option name="SELECTED_INDENT_GUIDE" value="728480" />
     <option name="SELECTED_TEARLINE_COLOR" value="44dfe0" />
     <option name="SELECTION_BACKGROUND" value="163a63" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="1d86ae" />
-    <option name="SEPARATOR_BELOW_COLOR" value="1d86ae" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f506" />
     <option name="TEARLINE_COLOR" value="1c5d5c" />
     <option name="TOOLTIP" value="f2329" />
@@ -697,7 +696,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="343003" />
+        <option name="BACKGROUND" value="34341c" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
     </option>
@@ -63415,7 +63414,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3e3912" />
+        <option name="BACKGROUND" value="3d3e18" />
         <option name="ERROR_STRIPE_COLOR" value="c1c700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
