@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-18T03:31:19</property>
+    <property name="modified">2018-11-18T04:30:13</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -321,7 +321,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="474b4b" />
+        <option name="FOREGROUND" value="545454" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -356,7 +356,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4f6e6c" />
+        <option name="FOREGROUND" value="5c5c5c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -458,7 +458,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="474b4b" />
+        <option name="FOREGROUND" value="545454" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -560,8 +560,8 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="194519" />
-        <option name="BACKGROUND" value="185319" />
+        <option name="FOREGROUND" value="173e17" />
+        <option name="BACKGROUND" value="134114" />
         <option name="ERROR_STRIPE_COLOR" value="13a00e" />
       </value>
     </option>
