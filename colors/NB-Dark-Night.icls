@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-18T08:13:10</property>
+    <property name="modified">2018-11-18T09:26:48</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="b6ba9c" />
-    <option name="CARET_ROW_COLOR" value="c1718" />
+    <option name="CARET_ROW_COLOR" value="191d1b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -23,14 +23,14 @@
     <option name="DOCUMENTATION_COLOR" value="a1113" />
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="181b1f" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="413812" />
+    <option name="GUTTER_BACKGROUND" value="262a2c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
     <option name="HTML_TAG_TREE_LEVEL3" value="935dda" />
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
-    <option name="INDENT_GUIDE" value="e3234" />
+    <option name="INDENT_GUIDE" value="212526" />
     <option name="INFORMATION_HINT" value="a1113" />
     <option name="LINE_NUMBERS_COLOR" value="50979a" />
     <option name="METHOD_SEPARATORS_COLOR" value="3f3e41" />
@@ -42,24 +42,24 @@
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
-    <option name="READONLY_BACKGROUND" value="27100d" />
+    <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3c5417" />
     <option name="RIGHT_MARGIN_COLOR" value="2f6e6d" />
-    <option name="SELECTED_INDENT_GUIDE" value="389d97" />
-    <option name="SELECTED_TEARLINE_COLOR" value="56e0cb" />
-    <option name="SELECTION_BACKGROUND" value="a4d5e" />
+    <option name="SELECTED_INDENT_GUIDE" value="728480" />
+    <option name="SELECTED_TEARLINE_COLOR" value="44dfe0" />
+    <option name="SELECTION_BACKGROUND" value="163a63" />
     <option name="SELECTION_FOREGROUND" value="cccbaf" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="e8081" />
-    <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="d9d401" />
-    <option name="TEARLINE_COLOR" value="1b5954" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="1d86ae" />
+    <option name="SEPARATOR_BELOW_COLOR" value="1d86ae" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4f506" />
+    <option name="TEARLINE_COLOR" value="1c5d5c" />
     <option name="TOOLTIP" value="f2329" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="54446" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="43c5d" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="41c44" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="25053d" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="280326" />
-    <option name="VISUAL_INDENT_GUIDE" value="31c1b" />
+    <option name="VISUAL_INDENT_GUIDE" value="e2020" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -104,7 +104,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="385138" />
+        <option name="ERROR_STRIPE_COLOR" value="984d99" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -131,18 +131,18 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="4fa1a6" />
+        <option name="FOREGROUND" value="158e91" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="21d5d9" />
+        <option name="FOREGROUND" value="1fcace" />
         <option name="BACKGROUND" value="325e83" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="2b6268" />
+        <option name="FOREGROUND" value="2c685e" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -449,11 +449,10 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="d0702e" />
+        <option name="FOREGROUND" value="d05d08" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="d0702e" />
-        <option name="ERROR_STRIPE_COLOR" value="690863" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="d05d08" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -621,10 +620,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c502e" />
-        <option name="BACKGROUND" value="e1417" />
+        <option name="FOREGROUND" value="21474b" />
+        <option name="BACKGROUND" value="f1710" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="263e41" />
+        <option name="EFFECT_COLOR" value="21474b" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -766,7 +765,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="a0916" />
+        <option name="BACKGROUND" value="b1116" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63324,7 +63323,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="b5b89b" />
-        <option name="BACKGROUND" value="111111" />
+        <option name="BACKGROUND" value="a0a0a" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -63336,10 +63335,10 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="87474" />
-        <option name="BACKGROUND" value="c2b2a" />
+        <option name="FOREGROUND" value="1d706e" />
+        <option name="BACKGROUND" value="f2922" />
         <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="3faaae" />
+        <option name="ERROR_STRIPE_COLOR" value="38b9b7" />
       </value>
     </option>
     <option name="TWIG_BRACKETS">
