@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-18T11:44:54</property>
+    <property name="modified">2018-11-18T12:17:16</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -23,7 +23,7 @@
     <option name="DOCUMENTATION_COLOR" value="a1113" />
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="413812" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="2a291f" />
     <option name="GUTTER_BACKGROUND" value="262a2c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
@@ -620,7 +620,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="21474b" />
-        <option name="BACKGROUND" value="f1710" />
+        <option name="BACKGROUND" value="181d1e" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="21474b" />
       </value>
