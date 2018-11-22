@@ -207,9 +207,6 @@
     <option name="queries" value="trace,write,forEach,length" />
     <option name="updates" value="pop,push,shift,splice,unshift,add,insert,remove" />
   </inspection_tool>
-  <inspection_tool class="JSNonASCIINames" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="myAllowOnlyAscii" value="true" />
-  </inspection_tool>
   <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false">
