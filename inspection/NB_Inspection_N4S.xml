@@ -515,7 +515,6 @@
   </inspection_tool>
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnserializeExploitsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="UntrustedInclusionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="UnusedGotoLabelInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UsageOfSilenceOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VoidExpressionJS" enabled="false" level="TYPO" enabled_by_default="false" />
