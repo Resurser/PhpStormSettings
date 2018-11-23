@@ -29,7 +29,7 @@
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
@@ -84,7 +84,7 @@
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
+  <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="0" />
@@ -99,9 +99,17 @@
     <option name="FROM_EL_WRAP" value="2" />
     <option name="WHERE_EL_WRAP" value="0" />
     <option name="WHERE_EL_BOUND" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="CORTEGE_CLOSING" value="9" />
+    <option name="CORTEGE_SPACE_AFTER_COMMA" value="false" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
+    <option name="EXPR_CALL_SPACE_AFTER_COMMA" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
