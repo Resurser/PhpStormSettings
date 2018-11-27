@@ -186,7 +186,6 @@
   <inspection_tool class="InnerHTMLJS" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="InvertedIfElseConstructsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="REPORT_EMPTY_USAGE" value="true" />
     <option name="SUGGEST_TO_USE_COUNT_CHECK" value="true" />
   </inspection_tool>
   <inspection_tool class="IsNullFunctionUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
