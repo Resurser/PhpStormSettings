@@ -134,7 +134,6 @@
   <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="HtmlMissingClosingTag" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="HtmlPresentationalElement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
@@ -186,7 +185,10 @@
   <inspection_tool class="InconsistentQueryBuildInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="InnerHTMLJS" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="InvertedIfElseConstructsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="InvisibleCharacter" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REPORT_EMPTY_USAGE" value="true" />
+    <option name="SUGGEST_TO_USE_COUNT_CHECK" value="true" />
+  </inspection_tool>
   <inspection_tool class="IsNullFunctionUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSCheckFunctionSignatures" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myCheckGuessedTypes" value="true" />
@@ -195,8 +197,9 @@
   <inspection_tool class="JSCommentMatchesSignature" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSDeprecatedSymbols" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="mySeverity" value="All" />
+    <option name="mySeverity" value="Always" />
   </inspection_tool>
+  <inspection_tool class="JSEqualityComparisonWithCoercion.TS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSJQueryEfficiency" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSNonASCIINames" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myAllowOnlyAscii" value="true" />
@@ -244,7 +247,7 @@
   <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="limit" value="5" />
   </inspection_tool>
-  <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -383,7 +386,7 @@
     <option name="DONT_REPORT_ANONYMOUS" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
-  <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[_a-z][_a-z\d]*" />
     <option name="m_minLength" value="1" />
@@ -462,11 +465,6 @@
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SimpleXmlLoadFileUsageInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="processCode" value="true" />
-    <option name="processLiterals" value="true" />
-    <option name="processComments" value="false" />
-  </inspection_tool>
   <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlDeprecateTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlDerivedTableAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -493,16 +491,6 @@
   <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThrowRawExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TodoComment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptPreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUMDGlobal" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptValidateJSTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptValidateTypes" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="TypescriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
   </inspection_tool>
