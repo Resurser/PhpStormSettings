@@ -15,6 +15,9 @@
       <webServer id="953d143d-e54a-4275-887f-ff902fa7f054" name="DemoTest" url="http://demo.local/test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0f388b81-bf3e-4467-90b0-9b0a54531f20" name="EmPlat" url="http://emplat.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
