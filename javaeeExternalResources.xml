@@ -2,5 +2,6 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.org/AggregateRating" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/5928e2b6_AggregateRating.html" />
     <resource url="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/19efb6d3_sitemap.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.PhpStorm2018.3/system/extResources/2889bd79_svg11.dtd" />
   </component>
 </application>
