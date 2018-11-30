@@ -12,10 +12,9 @@
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <CsvCodeStyleSettings>
-    <option name="SPACE_BEFORE_SEPARATOR" value="true" />
+    <option name="SPACE_AFTER_SEPARATOR" value="true" />
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
-    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
     <option name="LEADING_WHITE_SPACES" value="true" />
   </CsvCodeStyleSettings>
   <HTMLCodeStyleSettings>
@@ -24,10 +23,15 @@
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br,span" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
+    <option name="HTML_DO_NOT_ALIGN_CHILDREN_OF_MIN_LINES" value="15" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -39,6 +43,7 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="Quotes" />
     <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="ALIGN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
@@ -47,7 +52,6 @@
   </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
-    <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="OBJECT_WRAPPING" value="5" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
@@ -84,6 +88,12 @@
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <SassCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </SassCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
@@ -120,30 +130,67 @@
     <option name="WRAP_INSIDE_CALL_EXPRESSION" value="5" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
   </SqlCodeStyleSettings>
+  <StylusCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </StylusCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
   </XML>
   <codeStyleSettings language="CSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="110" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="0" />
-    <option name="SOFT_MARGINS" value="80" />
+    <option name="SOFT_MARGINS" value="100" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <XML_ATTRIBUTE />
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <XML_TAG />
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
-    <option name="RIGHT_MARGIN" value="90" />
-    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="90" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -484,13 +531,19 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -507,9 +560,12 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Stylus">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -531,6 +587,9 @@
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="csv">
+    <option name="RIGHT_MARGIN" value="-1" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
