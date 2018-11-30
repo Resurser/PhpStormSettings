@@ -18,6 +18,9 @@
       <webServer id="0f388b81-bf3e-4467-90b0-9b0a54531f20" name="EmPlat" url="http://emplat.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2e09a304-1e03-45fc-9094-28d453b4de0c" name="FilesManager" url="http://demo.local/fsm/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
