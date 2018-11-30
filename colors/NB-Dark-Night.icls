@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-30T19:13:10</property>
+    <property name="modified">2018-12-01T01:39:17</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="6fb8b5" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="b6ba9c" />
-    <option name="CARET_ROW_COLOR" value="191d1b" />
+    <option name="CARET_ROW_COLOR" value="171717" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="680404" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7e829c" />
@@ -326,12 +326,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="bf8420" />
+        <option name="FOREGROUND" value="cb6b99" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="c3b950" />
+        <option name="FOREGROUND" value="afc342" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -349,7 +349,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="835db4" />
+        <option name="FOREGROUND" value="915db4" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -397,9 +397,9 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="a9913c" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="a9913c" />
+        <option name="FOREGROUND" value="b77c60" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="5f483e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -411,7 +411,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b4b260" />
+        <option name="FOREGROUND" value="b4b455" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -421,7 +421,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="b78746" />
+        <option name="FOREGROUND" value="c48346" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -442,8 +442,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b86541" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="c46546" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -477,17 +476,18 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="af7777" />
+        <option name="FOREGROUND" value="af944f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="b38e61" />
+        <option name="FOREGROUND" value="bf9517" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="7c8cb1" />
+        <option name="FOREGROUND" value="80a0b1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -504,14 +504,14 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="b7853a" />
+        <option name="FOREGROUND" value="c48346" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="69a66f" />
+        <option name="FOREGROUND" value="76a674" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
