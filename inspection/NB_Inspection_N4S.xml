@@ -200,6 +200,7 @@
     <option name="mySeverity" value="OnlySuspicious" />
   </inspection_tool>
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSJQueryEfficiency" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -503,9 +504,6 @@
   <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="TypescriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="TYPO" enabled_by_default="false" />
-  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
-  </inspection_tool>
   <inspection_tool class="UnknownInspectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
