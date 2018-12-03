@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-12-02T03:41:56</property>
+    <property name="modified">2018-12-03T10:36:16</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -331,7 +331,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="85c3c2" />
+        <option name="FOREGROUND" value="90a8b8" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -472,7 +472,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b49b2a" />
+        <option name="FOREGROUND" value="ca6e64" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -488,7 +488,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="a27d8c" />
+        <option name="FOREGROUND" value="60a291" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -512,7 +512,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="76a674" />
+        <option name="FOREGROUND" value="71a66c" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
