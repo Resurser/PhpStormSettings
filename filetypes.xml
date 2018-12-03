@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="*.postcss.css" type="SCSS" />
       <mapping ext="pcss" type="SCSS" />
-      <mapping pattern="*.postcss.*" type="Sass" />
       <mapping pattern="*.twig.php" type="Twig" />
+      <removed_mapping pattern="*.postcss.*" approved="true" type="Sass" />
     </extensionMap>
   </component>
 </application>
