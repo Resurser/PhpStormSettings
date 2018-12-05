@@ -5,6 +5,7 @@
       <mapping ext="pcss" type="SCSS" />
       <mapping pattern="*.twig.php" type="Twig" />
       <removed_mapping pattern="*.postcss.*" approved="true" type="Sass" />
+      <removed_mapping ext="pcss" approved="true" type="Sass" />
     </extensionMap>
   </component>
 </application>
