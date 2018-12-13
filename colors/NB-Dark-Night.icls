@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-12-13T16:37:12</property>
+    <property name="modified">2018-12-13T18:45:43</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -326,12 +326,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="cb6e45" />
+        <option name="FOREGROUND" value="cb6354" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="c77a4f" />
+        <option name="FOREGROUND" value="c77439" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -349,7 +349,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9571aa" />
+        <option name="FOREGROUND" value="7c77aa" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -417,12 +417,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="71a8a2" />
+        <option name="FOREGROUND" value="679b8f" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="c48346" />
+        <option name="FOREGROUND" value="c47c4a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -443,12 +443,13 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="bb635d" />
+        <option name="FOREGROUND" value="b67633" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="d07407" />
+        <option name="FOREGROUND" value="d08d00" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="d07407" />
         <option name="EFFECT_TYPE" value="5" />
@@ -462,7 +463,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="6ca524" />
+        <option name="FOREGROUND" value="27a557" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -472,7 +473,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b48e2b" />
+        <option name="FOREGROUND" value="afb454" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -498,20 +499,20 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="71a8a2" />
+        <option name="FOREGROUND" value="679b8f" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="c48346" />
+        <option name="FOREGROUND" value="c47c4a" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="71a66c" />
+        <option name="FOREGROUND" value="66a665" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -764,7 +765,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="f0d0c" />
+        <option name="BACKGROUND" value="121314" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63243,8 +63244,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="b15469" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="c06364" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
