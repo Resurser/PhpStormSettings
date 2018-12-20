@@ -10,6 +10,10 @@
       <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
       <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
     </injection>
+    <injection language="DQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; DQL</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("DQL")]]></place>
+    </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regclass" fragment="SQL_TABLE_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regclass</display-name>
     </injection>

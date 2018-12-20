@@ -1,4 +1,7 @@
 <application>
+  <component name="CssEmmetOptions">
+    <option name="fuzzySearchEnabled" value="false" />
+  </component>
   <component name="EmmetOptions">
     <option name="addEditPointAtTheEndOfTemplate" value="true" />
     <option name="filtersEnabledByDefault">

@@ -25,12 +25,11 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true">
+  <component name="LiveEditOptions" chromeAutoDelay="600" nodeAutoDelay="500" nodeUpdateOnChanges="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
   <component name="SqlEditorOptions">
-    <option name="namespaceQualification" value="Always" />
-    <option name="tableQualification" value="Always" />
+    <option name="namespaceQualification" value="Never" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

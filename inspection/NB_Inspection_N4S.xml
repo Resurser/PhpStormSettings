@@ -40,6 +40,8 @@
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CryptographicallySecureAlgorithmsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="CryptographicallySecureRandomnessInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssOptimizeSimilarProperties" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -62,6 +64,7 @@
   <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CurlSslServerSpoofingInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="DateIntervalSpecificationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="DateTimeConstantsUsageInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="DeclareDirectiveCorrectnessInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -267,6 +270,7 @@
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="CHECK_FOR_FILES_CONTAINING_BOM" value="true" />
   </inspection_tool>
+  <inspection_tool class="NonSecureUniqidUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="REPORT_INSTANCE_OF_FLAWS" value="false" />
     <option name="SUGGEST_OPTIMIZING_CONDITIONS" value="false" />

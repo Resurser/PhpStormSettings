@@ -20,6 +20,9 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+  </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>

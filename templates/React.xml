@@ -194,4 +194,12 @@
   <template name="scu" value="shouldComponentUpdate(nextProps, nextState) {&#10; $END$&#10;}&#10;" description="Invoked before rendering when new props or state are being received." toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="rsf" value="import React from 'react';&#10;&#10;function $TM_FILENAME_BASE$(props) {&#10;       return (&#10;              &lt;div&gt;&#10;                        &#10;           &lt;/div&gt;&#10;       );&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="rsfp" value="import React from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;$TM_FILENAME_BASE$.propTypes = {&#10;  $END$&#10;};&#10;&#10;function $TM_FILENAME_BASE$(props) {&#10;     return (&#10;     &lt;div&gt;&#10;                 &#10;           &lt;/div&gt;&#10;       );&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component as a named function with PropTypes" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
