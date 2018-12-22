@@ -102,6 +102,7 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
+  <action id="NextTemplateParameter" />
   <action id="OpenDirectoryProject">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
