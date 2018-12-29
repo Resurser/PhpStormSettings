@@ -14,10 +14,10 @@
     <mask>*.html</mask>
     <mask>*.postcss*</mask>
     <mask>*.pcss</mask>
-    <mask>*.css</mask>
     <mask>*.styl</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
