@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping pattern="*.postcss.css" type="SCSS" />
       <mapping ext="pcss" type="SCSS" />
       <mapping pattern="*.twig.php" type="Twig" />
