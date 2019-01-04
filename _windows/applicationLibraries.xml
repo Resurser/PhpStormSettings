@@ -115,6 +115,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="amp-social-share-0.1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-social-share-0.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-social-share-0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="amp-video-0.1" type="javaScript">
       <properties>
         <sourceFilesUrls>
