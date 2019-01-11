@@ -14,10 +14,7 @@
   <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckNodeTest" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ClassConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="REPORT_PRIVATE_REDEFINITION" value="false" />
@@ -127,7 +124,7 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="GenericObjectTypeUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -208,10 +205,9 @@
   <inspection_tool class="JSUndeclaredVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myCheckGlobalDefinitions" value="true" />
   </inspection_tool>
-  <inspection_tool class="JSUnresolvedFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="myStrictlyCheckGlobalDefinitions" value="true" />
-  </inspection_tool>
+  <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedLibraryURL" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="myIgnoreUnusedFunctionParameters" value="true" />
@@ -473,7 +469,6 @@
   <inspection_tool class="SqlDerivedTableAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlDropIndexedColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlInsertValuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlPostgresqlSelectFromProcedureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlShouldBeInGroupByInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -481,7 +476,7 @@
   <inspection_tool class="SqlStorageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlUnusedVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_limit" value="30" />
+    <option name="m_limit" value="50" />
   </inspection_tool>
   <inspection_tool class="StringLiteralBreaksHTMLJS" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="StringsFirstCharactersCompareInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -491,7 +486,6 @@
   <inspection_tool class="SuspiciousLoopInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SwitchStatementWithNoDefaultBranchJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThrowRawExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TodoComment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnknownInspectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -513,16 +507,13 @@
     <option name="myIgnoreVendorSpecificProperties" value="true" />
   </inspection_tool>
   <inspection_tool class="WebpackConfigHighlighting" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="XmlDefaultAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="XmlHighlighting" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="XmlInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="XmlPathReference" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="XmlWrongRootElement" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltDeclarations" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YAMLDuplicatedKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="YAMLRecursiveAlias" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="YAMLSchemaValidation" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YAMLUnresolvedAlias" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="YAMLUnusedAnchor" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
