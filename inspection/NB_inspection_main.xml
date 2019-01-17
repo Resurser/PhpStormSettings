@@ -105,7 +105,7 @@
     <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
+    <option name="m_regex" value="[_a-z][_A-Za-z\d]*" />
     <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -119,8 +119,11 @@
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_minLength" value="2" />
   </inspection_tool>
