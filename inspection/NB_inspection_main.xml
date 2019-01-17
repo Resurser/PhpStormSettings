@@ -128,6 +128,7 @@
     <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssResolvedByNameOnly" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>
