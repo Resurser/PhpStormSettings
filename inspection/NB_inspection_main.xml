@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Default" />
+  <option name="myName" value="NB_inspection_main" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCustomPropertiesEnabled" value="true" />
@@ -78,6 +78,7 @@
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="COMPLAIN_THRESHOLD" value="4" />
@@ -166,5 +167,10 @@
         <option value="zendframework/zend-test" />
       </list>
     </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="false" />
   </inspection_tool>
 </profile>
