@@ -87,6 +87,9 @@
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
+  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
+  </inspection_tool>
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
@@ -96,6 +99,7 @@
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
+  <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
     <option name="m_minLength" value="2" />
@@ -111,12 +115,16 @@
   <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="DONT_REPORT_INSIDE_LIST" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_minLength" value="2" />
   </inspection_tool>
+  <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>
