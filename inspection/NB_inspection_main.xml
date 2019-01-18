@@ -87,9 +87,6 @@
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
-  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
-  </inspection_tool>
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
