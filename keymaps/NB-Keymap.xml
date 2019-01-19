@@ -41,6 +41,9 @@
   <action id="DatabaseView.ExecuteRoutine">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="DatabaseView.ImportFromSql">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="DatabaseView.SqlGenerator" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f9" />
