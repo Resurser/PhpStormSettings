@@ -15,11 +15,13 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB_Inspection_N4S">
     <option name="AUTOREPARSE_DELAY" value="450" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
-  <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
+  <component name="SqlCodeCompletionSettings" INVERT_ON_ORDER="true" SUGGEST_ALIAS_NAMES="false">
+    <option name="invertOrderInOnClause" value="true" />
     <option name="suggestAliasNames" value="false" />
   </component>
   <component name="XmlFoldingSettings">
