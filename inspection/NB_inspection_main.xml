@@ -89,6 +89,7 @@
   <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
+    <option name="m_maxLength" value="26" />
   </inspection_tool>
   <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
@@ -123,11 +124,13 @@
   <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
