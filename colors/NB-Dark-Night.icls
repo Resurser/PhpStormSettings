@@ -4,7 +4,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-01-30T16:25:21</property>
+    <property name="modified">2019-02-01T01:05:14</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -63329,7 +63329,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="adaea3" />
+        <option name="FOREGROUND" value="a9aaa8" />
         <option name="BACKGROUND" value="a0a0a" />
       </value>
     </option>
