@@ -3,7 +3,7 @@
     <property name="created">2018-12-01T02:53:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-02-02T10:24:24</property>
+    <property name="modified">2019-02-03T00:13:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,13 +12,13 @@
     <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c34e68" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="727a22" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="b75c60" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ae6c5a" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="7b7c73" />
-    <option name="FILESTATUS_MERGED" value="54a1b6" />
-    <option name="FILESTATUS_MODIFIED" value="4abec9" />
+    <option name="FILESTATUS_MERGED" value="4fad8e" />
+    <option name="FILESTATUS_MODIFIED" value="5ca2a2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6bacbb" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_UNKNOWN" value="ab7642" />
+    <option name="FILESTATUS_UNKNOWN" value="b18236" />
     <option name="FILESTATUS_addedOutside" value="55826b" />
     <option name="FILESTATUS_modifiedOutside" value="587f9e" />
   </colors>
