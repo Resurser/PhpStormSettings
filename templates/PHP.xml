@@ -2,8 +2,9 @@
   <template name="&lt;=" value="&lt;?=$END$;?&gt;" description="short-hand echo '&lt;?=$value;?&gt;'" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="HTML_TEXT" value="false" />
+      <option name="JADE" value="true" />
       <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
     </context>
   </template>
 </templateSet>
