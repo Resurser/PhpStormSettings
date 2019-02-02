@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CopyPaths" />
+  <action id="Cvs.Add">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl a" />
+  </action>
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.ExecuteRoutine">
     <keyboard-shortcut first-keystroke="ctrl r" />
