@@ -1,27 +1,16 @@
 <scheme name="NB-Dark-Night" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-03T17:18:18</property>
+    <property name="modified">2019-02-03T18:05:50</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26415" />
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="b6ba9c" />
+    <option name="CARET_COLOR" value="e0dc6e" />
     <option name="CARET_ROW_COLOR" value="171717" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
@@ -704,7 +693,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d5d44a" />
+        <option name="FOREGROUND" value="d5d26a" />
         <option name="BACKGROUND" value="3e3b14" />
         <option name="ERROR_STRIPE_COLOR" value="cbcb0a" />
       </value>
@@ -63141,10 +63130,11 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f2f08c" />
-        <option name="BACKGROUND" value="443516" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a77f3b" />
+        <option name="FOREGROUND" value="fdfafa" />
+        <option name="BACKGROUND" value="91498f" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="6d6a69" />
+        <option name="ERROR_STRIPE_COLOR" value="91498f" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63228,9 +63218,9 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2ab" />
-        <option name="BACKGROUND" value="38340d" />
+        <option name="BACKGROUND" value="825306" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="da8b0a" />
+        <option name="ERROR_STRIPE_COLOR" value="d84e2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -63423,7 +63413,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d5d44a" />
+        <option name="FOREGROUND" value="d5d163" />
         <option name="BACKGROUND" value="3e3b14" />
         <option name="ERROR_STRIPE_COLOR" value="c1c700" />
         <option name="EFFECT_TYPE" value="1" />
