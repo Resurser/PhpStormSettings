@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\build [instaco]'" />
-    <option name="defaultScopeName" value="Directory '...\build [instaco]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\build [instaco]'" />
-    <option name="FILE_MASK" value="*.postcss*" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,7 +20,7 @@
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*.postcss*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
