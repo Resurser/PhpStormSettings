@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-04T11:09:05</property>
+    <property name="modified">2019-02-04T11:46:48</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -63124,11 +63124,11 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f3ec70" />
-        <option name="BACKGROUND" value="44263e" />
+        <option name="FOREGROUND" value="f3ef9d" />
+        <option name="BACKGROUND" value="411f37" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="9a569e" />
-        <option name="ERROR_STRIPE_COLOR" value="b064a2" />
+        <option name="EFFECT_COLOR" value="ce53af" />
+        <option name="ERROR_STRIPE_COLOR" value="ae4694" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
