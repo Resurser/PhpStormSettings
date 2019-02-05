@@ -120,5 +120,9 @@
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(0, sqlFunctionCall().name("xmlparse", "xmlvalidate"))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(1, sqlFunctionCall().name("xmlextract"))]]></place>
     </injection>
+    <injection language="JSON" injector-id="xml">
+      <display-name>head</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("head")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
   </component>
 </application>
