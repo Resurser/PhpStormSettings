@@ -8,5 +8,6 @@
     <ignoreAction name="Flow JS/Specify variable type explicitly" />
     <ignoreAction name="React/Convert to class component" />
     <ignoreAction name="React/Convert to functional component" />
+    <ignoreAction name="PHP/Generate PHPDoc for function" />
   </component>
 </application>
