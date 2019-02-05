@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="NB_inspection_main" />
+  <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssOverwrittenProperties" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
