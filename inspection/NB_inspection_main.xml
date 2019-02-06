@@ -1,6 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="NB_inspection_main" />
   <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssOverwrittenProperties" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
@@ -80,12 +81,14 @@
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlRequiredTitleAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="2">
+        <list size="3">
           <item index="0" class="java.lang.String" itemvalue="custom-element" />
           <item index="1" class="java.lang.String" itemvalue="xlink:href" />
+          <item index="2" class="java.lang.String" itemvalue="⚡" />
         </list>
       </value>
     </option>
@@ -110,6 +113,7 @@
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -228,5 +232,6 @@
     <option name="processComments" value="false" />
   </inspection_tool>
   <inspection_tool class="SummerTimeUnsafeTimeManipulationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnserializeExploitsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
 </profile>
