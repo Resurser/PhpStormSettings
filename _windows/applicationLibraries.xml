@@ -86,6 +86,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="amp-iframe-0.1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-iframe-0.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-iframe-0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="amp-image-lightbox-0.1" type="javaScript">
       <properties>
         <sourceFilesUrls>
