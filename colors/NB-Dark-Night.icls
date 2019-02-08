@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-08T17:39:49</property>
+    <property name="modified">2019-02-08T17:56:28</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -687,7 +687,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d5d26a" />
+        <option name="FOREGROUND" value="dbd939" />
         <option name="BACKGROUND" value="3e3b14" />
         <option name="ERROR_STRIPE_COLOR" value="cfc938" />
       </value>
@@ -63125,9 +63125,9 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f3ef9d" />
-        <option name="BACKGROUND" value="411f37" />
+        <option name="BACKGROUND" value="47213d" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ce53af" />
+        <option name="EFFECT_COLOR" value="ce6c6f" />
         <option name="ERROR_STRIPE_COLOR" value="ae4694" />
       </value>
     </option>
@@ -63326,7 +63326,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a9aaa8" />
+        <option name="FOREGROUND" value="b2b39f" />
         <option name="BACKGROUND" value="a0a0a" />
       </value>
     </option>
@@ -63407,8 +63407,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8cd564" />
-        <option name="BACKGROUND" value="3e3b14" />
+        <option name="FOREGROUND" value="e5e45a" />
+        <option name="BACKGROUND" value="413f0f" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
