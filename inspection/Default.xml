@@ -1,17 +1,5 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
-  <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="myCustomPropertiesEnabled" value="true" />
-    <option name="myIgnoreVendorSpecificProperties" value="false" />
-    <option name="myCustomPropertiesList">
-      <value>
-        <list size="1">
-          <item index="0" class="java.lang.String" itemvalue="border-radius" />
-        </list>
-      </value>
-    </option>
-  </inspection_tool>
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
       <list>
@@ -76,45 +64,6 @@
       </list>
     </option>
     <option name="migratedIntoUserSpace" value="true" />
-  </inspection_tool>
-  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="COMPLAIN_THRESHOLD" value="4" />
-  </inspection_tool>
-  <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_minLength" value="2" />
-  </inspection_tool>
-  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_minLength" value="2" />
-  </inspection_tool>
-  <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="MAGIC_HIGHLIGHT_LEVEL_NAME" value="WARNING" />
-  </inspection_tool>
-  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_minLength" value="2" />
-  </inspection_tool>
-  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
-    <option name="m_minLength" value="2" />
-  </inspection_tool>
-  <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
-    <option name="m_minLength" value="2" />
-  </inspection_tool>
-  <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="limit" value="7" />
-  </inspection_tool>
-  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="DOWNGRADE_SEVERITY" value="true" />
-  </inspection_tool>
-  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="DOWNGRADE_SEVERITY" value="true" />
-  </inspection_tool>
-  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
