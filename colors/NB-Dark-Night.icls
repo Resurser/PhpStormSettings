@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-09T10:06:41</property>
+    <property name="modified">2019-02-09T16:06:26</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -14,7 +14,7 @@
     <option name="CARET_ROW_COLOR" value="171717" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="56584b" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
     <option name="DOCUMENTATION_COLOR" value="a1113" />
@@ -44,8 +44,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="285e5d" />
     <option name="SELECTED_INDENT_GUIDE" value="728480" />
     <option name="SELECTED_TEARLINE_COLOR" value="44dfe0" />
-    <option name="SELECTION_BACKGROUND" value="163a63" />
-    <option name="SELECTION_FOREGROUND" value="cccbaf" />
+    <option name="SELECTION_BACKGROUND" value="1b3971" />
+    <option name="SELECTION_FOREGROUND" value="dfdebf" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f506" />
     <option name="TEARLINE_COLOR" value="1c5d5c" />
@@ -106,9 +106,9 @@
     <option name="BRACE_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="71b2f" />
+        <option name="BACKGROUND" value="301c46" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="5aa0b" />
+        <option name="EFFECT_COLOR" value="d073c4" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -546,26 +546,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6d0905" />
-        <option name="ERROR_STRIPE_COLOR" value="be1009" />
+        <option name="BACKGROUND" value="7a0f26" />
+        <option name="ERROR_STRIPE_COLOR" value="ca2131" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="513a0b" />
-        <option name="ERROR_STRIPE_COLOR" value="b77e11" />
+        <option name="BACKGROUND" value="523714" />
+        <option name="ERROR_STRIPE_COLOR" value="db8700" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="134114" />
-        <option name="ERROR_STRIPE_COLOR" value="13a00e" />
+        <option name="BACKGROUND" value="214b25" />
+        <option name="ERROR_STRIPE_COLOR" value="1a901d" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="1c215d" />
-        <option name="ERROR_STRIPE_COLOR" value="17a6b0" />
+        <option name="BACKGROUND" value="16324e" />
+        <option name="ERROR_STRIPE_COLOR" value="215bb0" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -63124,10 +63124,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f3ef9d" />
-        <option name="BACKGROUND" value="47213d" />
+        <option name="FOREGROUND" value="eddfa3" />
+        <option name="BACKGROUND" value="471d38" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ce6c6f" />
+        <option name="EFFECT_COLOR" value="ce589a" />
         <option name="ERROR_STRIPE_COLOR" value="ae4694" />
       </value>
     </option>
@@ -63211,10 +63211,9 @@
     </option>
     <option name="PARENTHESIS_ATTR">
       <value>
-        <option name="FOREGROUND" value="f2f2ab" />
-        <option name="BACKGROUND" value="825306" />
+        <option name="FOREGROUND" value="efebc0" />
+        <option name="BACKGROUND" value="433167" />
         <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="d84e2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -63340,8 +63339,8 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3450a2" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="3d57e2" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="3450a2" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
