@@ -14,6 +14,11 @@
       <display-name>&lt;&lt;&lt; DQL</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("DQL")]]></place>
     </injection>
+    <injection language="HTML" injector-id="php">
+      <display-name>&lt;&lt;&lt; HTML</display-name>
+      <place><![CDATA[phpLiteralExpression("END")]]></place>
+      <place><![CDATA[phpLiteralExpression("HTML")]]></place>
+    </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regclass" fragment="SQL_TABLE_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regclass</display-name>
     </injection>
@@ -79,6 +84,12 @@
       <place disabled="true"><![CDATA[sqlElement().forDialects("HSQLDB").functionArgument(1, sqlFunctionCall().name("regexp_matches", "regexp_substring", "regexp_substring_array").params(sqlExpressions().count(2)))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("HSQLDB").functionArgument(1, sqlFunctionCall().name("regexp_replace").params(sqlExpressions().count(3)))]]></place>
     </injection>
+    <injection language="XML" injector-id="sql">
+      <display-name>MySQL XML</display-name>
+      <place disabled="true"><![CDATA[sqlElement().forDialects("MySQL").functionArgument(0, sqlFunctionCall().name("ExtractValue").params(sqlExpressions().count(2)))]]></place>
+      <place disabled="true"><![CDATA[sqlElement().forDialects("MySQL").functionArgument(0, sqlFunctionCall().name("UpdateXML").params(sqlExpressions().count(3)))]]></place>
+      <place disabled="true"><![CDATA[sqlElement().forDialects("MySQL").functionArgument(2, sqlFunctionCall().name("UpdateXML").params(sqlExpressions().count(3)))]]></place>
+    </injection>
     <injection language="JSON" injector-id="sql">
       <display-name>Oracle JSON</display-name>
       <place disabled="true"><![CDATA[sqlElement().forDialects("Oracle").functionArgument(0, -1, 1, sqlFunctionCall().name("json_array"))]]></place>
@@ -119,10 +130,6 @@
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").binaryExpressionArgument(1, sqlBinaryExpression().operation(leafTokens("xmltest").or("not", "xmltest")))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(0, sqlFunctionCall().name("xmlparse", "xmlvalidate"))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(1, sqlFunctionCall().name("xmlextract"))]]></place>
-    </injection>
-    <injection language="JSON" injector-id="xml">
-      <display-name>head</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("head")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
   </component>
 </application>

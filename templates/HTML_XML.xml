@@ -5,7 +5,6 @@
       <option name="HTML" value="true" />
       <option name="JADE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JSON" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
