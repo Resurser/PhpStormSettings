@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-09T16:06:26</property>
+    <property name="modified">2019-02-12T15:59:58</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -616,10 +616,11 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="317a34" />
-        <option name="BACKGROUND" value="10201f" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="317a34" />
+        <option name="FOREGROUND" value="39905a" />
+        <option name="BACKGROUND" value="e172b" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="34846" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
