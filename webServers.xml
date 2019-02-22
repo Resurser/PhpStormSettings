@@ -21,6 +21,9 @@
       <webServer id="2e09a304-1e03-45fc-9094-28d453b4de0c" name="FilesManager" url="http://demo.local/fsm/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b162ffc7-ad36-47b6-85a6-c9dbc20dece4" name="edu.thetacenter.ua" url="http://edu.thetacenter.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
