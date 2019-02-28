@@ -274,8 +274,8 @@
   </inspection_tool>
   <inspection_tool class="NonSecureUniqidUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REPORT_DUPLICATE_CONDITIONS" value="false" />
     <option name="REPORT_INSTANCE_OF_FLAWS" value="false" />
-    <option name="SUGGEST_OPTIMIZING_CONDITIONS" value="false" />
   </inspection_tool>
   <inspection_tool class="NotOptimalRegularExpressionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NullPointerExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
