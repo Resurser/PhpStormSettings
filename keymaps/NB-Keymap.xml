@@ -77,8 +77,17 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl f" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl m" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl u" />
+  </action>
+  <action id="Git.Reset">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl r" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
