@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-28T15:45:55</property>
+    <property name="modified">2019-03-01T05:16:39</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -62,8 +62,8 @@
   <attributes>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="BACKGROUND" value="300905" />
-        <option name="EFFECT_COLOR" value="c92a06" />
+        <option name="BACKGROUND" value="370c04" />
+        <option name="EFFECT_COLOR" value="e73007" />
         <option name="ERROR_STRIPE_COLOR" value="c92a06" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -350,7 +350,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="8569aa" />
+        <option name="FOREGROUND" value="986ab0" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -435,15 +435,16 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ed3c35" />
-        <option name="EFFECT_COLOR" value="fb3437" />
-        <option name="ERROR_STRIPE_COLOR" value="e50000" />
+        <option name="FOREGROUND" value="e95252" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fb3011" />
+        <option name="ERROR_STRIPE_COLOR" value="fb3011" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c66d5a" />
+        <option name="FOREGROUND" value="c16265" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -469,7 +470,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="7baabd" />
+        <option name="FOREGROUND" value="c3a1c6" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -513,7 +514,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="70aa74" />
+        <option name="FOREGROUND" value="73ae79" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -526,7 +527,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="44b991" />
+        <option name="FOREGROUND" value="4bb9b7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -701,9 +702,9 @@
     </option>
     <option name="IGNORE.HEADER">
       <value>
-        <option name="FOREGROUND" value="cd5b4f" />
+        <option name="FOREGROUND" value="a17631" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="5c2e21" />
+        <option name="EFFECT_COLOR" value="564a1d" />
       </value>
     </option>
     <option name="IGNORE.NEGATION">
@@ -825,6 +826,11 @@
     <option name="JADE_FILE_PATH">
       <value>
         <option name="FOREGROUND" value="5963ab" />
+      </value>
+    </option>
+    <option name="JADE_FILTER_NAME">
+      <value>
+        <option name="FOREGROUND" value="ea406f" />
       </value>
     </option>
     <option name="JAVA_COMMA">
@@ -63218,7 +63224,7 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="efebc0" />
-        <option name="BACKGROUND" value="433167" />
+        <option name="BACKGROUND" value="493570" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
