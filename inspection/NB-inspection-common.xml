@@ -1,6 +1,6 @@
 <profile version="1.0">
   <description>GoUP Team developing</description>
-  <option name="myName" value="NB_Inspection_Common" />
+  <option name="myName" value="NB-inspection-common" />
   <inspection_tool class="AccessModifierPresentedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ANALYZE_CONSTANTS" value="false" />
   </inspection_tool>
