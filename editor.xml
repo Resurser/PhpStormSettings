@@ -59,18 +59,18 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="[!]{3}.*[!]{3}">
-      <option name="FOREGROUND" value="3574bc" />
-      <option name="BACKGROUND" value="61726" />
+    <pattern icon="question" useCustomColors="true" pattern="([!]{3,})(.*)[!]{3,}">
+      <option name="FOREGROUND" value="257fc2" />
+      <option name="BACKGROUND" value="61e24" />
       <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="3037a2" />
+      <option name="EFFECT_COLOR" value="343baf" />
       <option name="ERROR_STRIPE_COLOR" value="91ff" />
     </pattern>
     <filter name="TODO">
       <pattern index="2" />
     </filter>
     <filter name="ALARM">
-      <pattern index="2" />
+      <pattern index="1" />
     </filter>
   </component>
   <component name="XmlEditorOptions">
