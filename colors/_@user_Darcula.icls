@@ -1,34 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-12-01T02:53:41</property>
+    <property name="created">2019-03-03T02:19:18</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-03-02T12:56:52</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-03-03T02:42:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="6ea95f" />
-    <option name="FILESTATUS_DELETED" value="b4615d" />
-    <option name="FILESTATUS_HIJACKED" value="" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c34e68" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="637044" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ae6c5a" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="5e716d" />
-    <option name="FILESTATUS_MERGED" value="4fad8e" />
-    <option name="FILESTATUS_MODIFIED" value="489fad" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6bacbb" />
-    <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_UNKNOWN" value="9b9d34" />
-    <option name="FILESTATUS_addedOutside" value="55826b" />
-    <option name="FILESTATUS_modifiedOutside" value="587f9e" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_NOT_CHANGED" value="bbbbbb" />
+    <option name="FILESTATUS_SUPPRESSED" value="bbbbbb" />
   </colors>
-  <attributes>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="121212" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
