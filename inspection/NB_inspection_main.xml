@@ -122,6 +122,9 @@
   <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="REPORT_EMPTY_BODY" value="false" />
+  </inspection_tool>
   <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="COMPLAIN_THRESHOLD" value="5" />
     <option name="SCREAM_THRESHOLD" value="7" />
@@ -157,6 +160,9 @@
     <option name="m_regex" value="[_a-z][_A-Za-z\d]*" />
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="26" />
+  </inspection_tool>
+  <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myCommentsCountAsContent" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="TYPO" enabled_by_default="true">
