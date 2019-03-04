@@ -53,6 +53,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="amp-bind-0.1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-bind-0.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-bind-0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="amp-carousel-0.1" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -127,6 +138,28 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-lightbox-gallery-0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="amp-list-0.1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-list-0.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-list-0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="amp-mustache-0.2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-mustache-0.2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-mustache-0.2.js" />
       </CLASSES>
       <SOURCES />
     </library>
