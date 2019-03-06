@@ -5,6 +5,7 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="6000" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
