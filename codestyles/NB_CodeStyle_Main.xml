@@ -7,7 +7,7 @@
   </option>
   <option name="RIGHT_MARGIN" value="110" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="SOFT_MARGINS" value="105" />
+  <option name="SOFT_MARGINS" value="95" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
@@ -1140,7 +1140,9 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="95" />
     <option name="WRAP_ON_TYPING" value="1" />
+    <option name="SOFT_MARGINS" value="95" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
