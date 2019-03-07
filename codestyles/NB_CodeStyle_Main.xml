@@ -5,8 +5,9 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="110" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="SOFT_MARGINS" value="110" />
+  <option name="SOFT_MARGINS" value="105" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
@@ -22,14 +23,12 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-    <option name="HTML_KEEP_BLANK_LINES" value="1" />
+    <option name="HTML_KEEP_BLANK_LINES" value="0" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br,span" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
-    <option name="HTML_DO_NOT_ALIGN_CHILDREN_OF_MIN_LINES" value="100" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
-    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -1142,9 +1141,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="120" />
-    <option name="WRAP_ON_TYPING" value="0" />
-    <option name="SOFT_MARGINS" value="110" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -1155,7 +1152,7 @@
         <section>
           <rule>
             <match>
-              <XML_ATTRIBUTE />
+              <XML_TAG />
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -1163,7 +1160,7 @@
         <section>
           <rule>
             <match>
-              <XML_TAG />
+              <XML_ATTRIBUTE />
             </match>
             <order>BY_NAME</order>
           </rule>
