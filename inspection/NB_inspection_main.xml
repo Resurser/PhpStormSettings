@@ -157,7 +157,7 @@
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ALLOW_RETURN_NULL_IN_VOID" value="false" />
   </inspection_tool>
-  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="36" />
