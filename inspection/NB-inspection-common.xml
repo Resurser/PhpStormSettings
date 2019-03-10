@@ -300,7 +300,7 @@
     <option name="CODING_STANDARD" value="PHPCS" />
     <option name="SHOW_SNIFF_NAMES" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
