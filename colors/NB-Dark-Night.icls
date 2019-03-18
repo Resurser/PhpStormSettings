@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-03-18T11:33:08</property>
+    <property name="modified">2019-03-18T13:19:45</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -322,7 +322,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="495a5b" />
+        <option name="FOREGROUND" value="5d6143" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -459,8 +459,13 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="495a5b" />
+        <option name="FOREGROUND" value="5f6145" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b8a65b" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -481,7 +486,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="b58798" />
+        <option name="FOREGROUND" value="b5849c" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -492,6 +497,18 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="7ba3c0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b8b056" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b58798" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -541,8 +558,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ba422e" />
-        <option name="EFFECT_COLOR" value="6c5d2f" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="8b8635" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -63132,7 +63149,7 @@
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ba422e" />
-        <option name="EFFECT_COLOR" value="717227" />
+        <option name="EFFECT_COLOR" value="86872f" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -63166,9 +63183,11 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="696b67" />
-        <option name="EFFECT_COLOR" value="67664f" />
-        <option name="ERROR_STRIPE_COLOR" value="525650" />
+        <option name="FOREGROUND" value="7a7a7b" />
+        <option name="BACKGROUND" value="262120" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="6f6f70" />
+        <option name="ERROR_STRIPE_COLOR" value="2e3032" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
