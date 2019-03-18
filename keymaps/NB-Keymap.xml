@@ -1,4 +1,20 @@
 <keymap version="1" name="NB-Keymap" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateGulpToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.AddUnversioned" />
@@ -27,20 +43,23 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Compile" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="Console.TableResult.SetNull" />
-  <action id="CopyElement">
+  <action id="CopyAsPlainText">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="Cvs.Add">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl a" />
   </action>
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DatabaseView.CopyTable" />
   <action id="DatabaseView.ExecuteRoutine">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -54,6 +73,10 @@
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
   <action id="EditBreakpoint" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt v" />
