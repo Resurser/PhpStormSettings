@@ -26,7 +26,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
-    <option name="CARET_BLINKING_PERIOD" value="450" />
+    <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
