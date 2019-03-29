@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="NB_inspection_main" />
+  <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -190,6 +191,9 @@
   </inspection_tool>
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
