@@ -195,7 +195,7 @@
   <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ENABLE_IN_FILE_SCOPE" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
