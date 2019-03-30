@@ -6,9 +6,9 @@
     </injection>
     <injection language="SQLite" injector-id="js">
       <display-name>flash.data (SQLite)</display-name>
-      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
-      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
-      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
     </injection>
     <injection language="DQL" injector-id="php">
       <display-name>&lt;&lt;&lt; DQL</display-name>
