@@ -96,7 +96,7 @@
   <inspection_tool class="FixedTimeStartWithInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSFlagCommentPlacement" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="configuration">
       <list>
         <option value="\Codeception\Util\Debug::debug" />
@@ -307,7 +307,6 @@
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
     <option name="IGNORE_GLOBAL_NAMESPACE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -375,9 +374,7 @@
   <inspection_tool class="PhpUnitTestsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="SUGGEST_TO_USE_ASSERTSAME" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
-  </inspection_tool>
+  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnusedAliasInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true">
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
@@ -495,7 +492,6 @@
   <inspection_tool class="UnnecessaryAssertionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
-    <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
   <inspection_tool class="UnqualifiedReferenceInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
