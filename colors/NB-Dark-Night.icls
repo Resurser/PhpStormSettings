@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-03-31T13:00:25</property>
+    <property name="modified">2019-03-31T22:51:14</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -358,27 +358,26 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="495a5b" />
+        <option name="FOREGROUND" value="586565" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="1a6457" />
+        <option name="FOREGROUND" value="24b64" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a6346" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="4f693b" />
+        <option name="FOREGROUND" value="3e6945" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="876a12" />
+        <option name="FOREGROUND" value="15644b" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -408,7 +407,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="47ad8d" />
+        <option name="FOREGROUND" value="35ad8a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -637,8 +636,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="427245" />
-        <option name="BACKGROUND" value="e172b" />
+        <option name="FOREGROUND" value="294547" />
+        <option name="BACKGROUND" value="a1917" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="2e5843" />
       </value>
