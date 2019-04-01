@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-04-01T17:03:49</property>
+    <property name="modified">2019-04-02T01:06:26</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -413,7 +413,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b8b056" />
+        <option name="FOREGROUND" value="b8af43" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -476,12 +476,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c3a1c6" />
+        <option name="FOREGROUND" value="d06d7a" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b4b163" />
+        <option name="FOREGROUND" value="b9b258" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -522,7 +522,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="73ae79" />
+        <option name="FOREGROUND" value="64ae57" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
