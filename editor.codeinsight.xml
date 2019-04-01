@@ -18,9 +18,6 @@
     <option name="AUTOREPARSE_DELAY" value="450" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
     <option name="useAliasInJoinCompletion" value="false" />
