@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-03-31T23:24:48</property>
+    <property name="modified">2019-04-01T17:03:49</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -393,7 +393,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="cb9433" />
+        <option name="FOREGROUND" value="cf9449" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -407,8 +407,8 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="35ad8a" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="a682" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -486,7 +486,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="b5849c" />
+        <option name="FOREGROUND" value="8480b8" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -496,22 +496,12 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="7ba3c0" />
+        <option name="FOREGROUND" value="659ec0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="b8b056" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="b58798" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="bfb332" />
@@ -784,20 +774,20 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="687074" />
-        <option name="BACKGROUND" value="212229" />
+        <option name="FOREGROUND" value="195a5d" />
+        <option name="BACKGROUND" value="20839" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="a9a69a" />
+        <option name="FOREGROUND" value="858379" />
         <option name="BACKGROUND" value="323440" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="898a47" />
-        <option name="BACKGROUND" value="2b2d37" />
+        <option name="FOREGROUND" value="777a4b" />
+        <option name="BACKGROUND" value="53716" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
