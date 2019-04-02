@@ -65,7 +65,6 @@
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="GROUP_USE_WRAP" value="1" />
-    <option name="PHPDOC_THROWS_CALL_TREE_ANALYSIS_DEPTH" value="0" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
@@ -1299,6 +1298,7 @@
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -1617,12 +1617,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="true" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_AFTER_COMMA" value="false" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
