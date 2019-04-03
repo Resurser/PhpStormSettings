@@ -27,6 +27,9 @@
       <webServer id="392472a1-1efb-48bd-812a-858edf64afcd" name="Advanced PHP libs" url="http://demo.local/adv-php-libs/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e64a2600-3492-426e-a2e0-fe97cb40a94c" name="turbo-rss-stats" url="http://demo.local/yt-stats/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
