@@ -3,11 +3,13 @@
     <property name="created">2019-03-03T02:19:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-03T02:42:01</property>
+    <property name="modified">2019-04-03T11:33:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_DELETED" value="a65b54" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a65b54" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="727272" />
     <option name="FILESTATUS_NOT_CHANGED" value="bbbbbb" />
     <option name="FILESTATUS_SUPPRESSED" value="bbbbbb" />
   </colors>
