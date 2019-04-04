@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-04-02T02:44:03</property>
+    <property name="modified">2019-04-04T15:08:00</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="e8e8e5" />
-    <option name="CARET_ROW_COLOR" value="1f2427" />
+    <option name="CARET_ROW_COLOR" value="1c2118" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -21,16 +21,16 @@
     <option name="ERROR_HINT" value="380b0a" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="183332" />
-    <option name="GUTTER_BACKGROUND" value="2f3234" />
+    <option name="GUTTER_BACKGROUND" value="222527" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
     <option name="HTML_TAG_TREE_LEVEL3" value="935dda" />
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
-    <option name="INDENT_GUIDE" value="212526" />
+    <option name="INDENT_GUIDE" value="373b3c" />
     <option name="INFORMATION_HINT" value="a1113" />
     <option name="LINE_NUMBERS_COLOR" value="31acaf" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dedc3c" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="efe356" />
     <option name="METHOD_SEPARATORS_COLOR" value="263f41" />
     <option name="MODIFIED_LINES_COLOR" value="24369" />
     <option name="NOTIFICATION_BACKGROUND" value="171f24" />
@@ -42,7 +42,7 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="285e5d" />
+    <option name="RIGHT_MARGIN_COLOR" value="5d5e38" />
     <option name="SELECTED_INDENT_GUIDE" value="728480" />
     <option name="SELECTED_TEARLINE_COLOR" value="44dfe0" />
     <option name="SELECTION_BACKGROUND" value="1b3971" />
@@ -56,7 +56,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="200535" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
-    <option name="VISUAL_INDENT_GUIDE" value="e2020" />
+    <option name="VISUAL_INDENT_GUIDE" value="1b2929" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -323,18 +323,18 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5b5f5e" />
+        <option name="FOREGROUND" value="535756" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="df8055" />
+        <option name="FOREGROUND" value="e37368" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="d6714d" />
+        <option name="FOREGROUND" value="ca7a34" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -358,13 +358,13 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586565" />
+        <option name="FOREGROUND" value="535756" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="24b64" />
+        <option name="FOREGROUND" value="593857" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -377,7 +377,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="15644b" />
+        <option name="FOREGROUND" value="646428" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -401,7 +401,7 @@
       <value>
         <option name="FOREGROUND" value="c48f3f" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="493c1c" />
+        <option name="EFFECT_COLOR" value="604e25" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -413,7 +413,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b8af43" />
+        <option name="FOREGROUND" value="b8a554" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -445,7 +445,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d07d4c" />
+        <option name="FOREGROUND" value="c55e5e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -459,13 +459,13 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5b5f5e" />
+        <option name="FOREGROUND" value="535756" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b8a65b" />
+        <option name="FOREGROUND" value="b8b761" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -481,17 +481,17 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b9b258" />
+        <option name="FOREGROUND" value="b5b949" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="9686b8" />
+        <option name="FOREGROUND" value="c49458" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="d5b462" />
+        <option name="FOREGROUND" value="d5c359" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -522,7 +522,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="64ae57" />
+        <option name="FOREGROUND" value="6cae6a" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -697,7 +697,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dbdb68" />
+        <option name="FOREGROUND" value="dbd36d" />
         <option name="BACKGROUND" value="413f0f" />
         <option name="ERROR_STRIPE_COLOR" value="cfc938" />
       </value>
@@ -63258,7 +63258,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="c6658c" />
+        <option name="FOREGROUND" value="c67ba9" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -63362,9 +63362,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3450a2" />
+        <option name="FOREGROUND" value="2b6ea2" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="3450a2" />
+        <option name="EFFECT_COLOR" value="215c86" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
@@ -63430,8 +63430,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dbdb68" />
-        <option name="BACKGROUND" value="443b12" />
+        <option name="FOREGROUND" value="cfd08d" />
+        <option name="BACKGROUND" value="473e13" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
