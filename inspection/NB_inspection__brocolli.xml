@@ -93,7 +93,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="11">
+        <list size="12">
           <item index="0" class="java.lang.String" itemvalue="custom-element" />
           <item index="1" class="java.lang.String" itemvalue="xlink:href" />
           <item index="2" class="java.lang.String" itemvalue="⚡" />
@@ -105,6 +105,7 @@
           <item index="8" class="java.lang.String" itemvalue="overflow" />
           <item index="9" class="java.lang.String" itemvalue="placeholder" />
           <item index="10" class="java.lang.String" itemvalue="[hidden]" />
+          <item index="11" class="java.lang.String" itemvalue="form" />
         </list>
       </value>
     </option>
