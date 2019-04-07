@@ -269,6 +269,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="share" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="v0" type="javaScript">
       <properties>
         <sourceFilesUrls>
