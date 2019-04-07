@@ -1,6 +1,7 @@
 <profile version="1.0">
-  <option name="myName" value="NB_inspection_main" />
+  <option name="myName" value="NB_inspection__brocolli" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -148,7 +149,7 @@
     <option name="SCREAM_THRESHOLD" value="7" />
   </inspection_tool>
   <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="26" />
   </inspection_tool>
