@@ -3,7 +3,7 @@
     <property name="created">2018-09-04T13:32:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-04-07T23:26:54</property>
+    <property name="modified">2019-04-08T15:09:32</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -393,15 +393,15 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="cf9449" />
+        <option name="FOREGROUND" value="ccba58" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="d69534" />
+        <option name="FOREGROUND" value="d6ba55" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="7a5622" />
+        <option name="EFFECT_COLOR" value="5c5620" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -418,7 +418,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="74abb7" />
+        <option name="FOREGROUND" value="60b6c6" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -445,7 +445,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d3665b" />
+        <option name="FOREGROUND" value="e26d61" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -486,7 +486,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f6aa57" />
+        <option name="FOREGROUND" value="e89f48" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -496,7 +496,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="76b6df" />
+        <option name="FOREGROUND" value="90b7df" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -509,7 +509,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="74abb7" />
+        <option name="FOREGROUND" value="60b6c6" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
