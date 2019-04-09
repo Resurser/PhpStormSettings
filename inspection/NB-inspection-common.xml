@@ -143,7 +143,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="12">
+        <list size="17">
           <item index="0" class="java.lang.String" itemvalue="original-title" />
           <item index="1" class="java.lang.String" itemvalue="placeholder" />
           <item index="2" class="java.lang.String" itemvalue="amp-boilerplate" />
@@ -156,6 +156,11 @@
           <item index="9" class="java.lang.String" itemvalue="custom-element" />
           <item index="10" class="java.lang.String" itemvalue="fallback" />
           <item index="11" class="java.lang.String" itemvalue="expanded" />
+          <item index="12" class="java.lang.String" itemvalue="logged_out_greeting" />
+          <item index="13" class="java.lang.String" itemvalue="logged_in_greeting" />
+          <item index="14" class="java.lang.String" itemvalue="attribution" />
+          <item index="15" class="java.lang.String" itemvalue="page_id" />
+          <item index="16" class="java.lang.String" itemvalue="theme_color" />
         </list>
       </value>
     </option>
@@ -369,12 +374,8 @@
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUnitTestsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="SUGGEST_TO_USE_ASSERTSAME" value="true" />
-  </inspection_tool>
-  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ENABLE_IN_FILE_SCOPE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnreachableStatementInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="TYPO" enabled_by_default="true">
@@ -526,7 +527,6 @@
   <inspection_tool class="UnknownInspectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
-    <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnserializeExploitsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
