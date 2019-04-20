@@ -43,6 +43,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Compile" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -93,7 +96,6 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="ForceRunToCursor" />
@@ -166,6 +168,9 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
@@ -208,6 +213,9 @@
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
