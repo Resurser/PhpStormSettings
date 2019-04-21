@@ -5,7 +5,6 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="6000" />
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SMART_BACKSPACE" value="2" />
@@ -15,12 +14,14 @@
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
-    <option name="AUTOREPARSE_DELAY" value="450" />
+    <option name="AUTOREPARSE_DELAY" value="350" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
-    <option name="useAliasInJoinCompletion" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />

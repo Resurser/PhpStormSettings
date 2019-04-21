@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="JavaScript" />
       <blacklist language="PHP">
         <removed pattern="" />
       </blacklist>
