@@ -7,4 +7,13 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="sfunc" value="static function ($PARAMETERS$){&#10;    $END$&#10;}" description="static function (e.g.: as callback)" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
 </templateSet>
