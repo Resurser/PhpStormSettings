@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T07:45:59</property>
+    <property name="modified">2019-04-25T08:40:42</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -345,7 +345,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="525353" />
+        <option name="FOREGROUND" value="5c6564" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -380,26 +380,26 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="595a5a" />
+        <option name="FOREGROUND" value="5c6564" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="235a59" />
+        <option name="FOREGROUND" value="61516e" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="5e582e" />
+        <option name="FOREGROUND" value="2b6a52" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="646428" />
+        <option name="FOREGROUND" value="756332" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -483,7 +483,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="525353" />
+        <option name="FOREGROUND" value="5c6564" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -622,10 +622,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e96558" />
         <option name="BACKGROUND" value="580606" />
         <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="f40000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -786,7 +785,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="918d19" />
-        <option name="ERROR_STRIPE_COLOR" value="68222a" />
+        <option name="ERROR_STRIPE_COLOR" value="6c2224" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63201,7 +63200,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7a7a7b" />
-        <option name="BACKGROUND" value="3c3e3e" />
+        <option name="BACKGROUND" value="252626" />
         <option name="EFFECT_COLOR" value="d0dae1" />
         <option name="ERROR_STRIPE_COLOR" value="2e3032" />
         <option name="EFFECT_TYPE" value="2" />
@@ -63321,27 +63320,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="d5d72d" />
+        <option name="FOREGROUND" value="a0c823" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e6b840" />
+        <option name="FOREGROUND" value="dbb525" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="e87e45" />
+        <option name="FOREGROUND" value="e8733b" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="e66862" />
+        <option name="FOREGROUND" value="ec546d" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="dd6da1" />
+        <option name="FOREGROUND" value="e368b5" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
@@ -63386,27 +63385,27 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="e1bd38" />
+        <option name="FOREGROUND" value="22cb94" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e8852f" />
+        <option name="FOREGROUND" value="d2bd25" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="f36649" />
+        <option name="FOREGROUND" value="e1692f" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="e35786" />
+        <option name="FOREGROUND" value="d6529d" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="d148c1" />
+        <option name="FOREGROUND" value="418dd9" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -63524,10 +63523,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e3843c" />
-        <option name="BACKGROUND" value="2f1904" />
-        <option name="EFFECT_COLOR" value="e36a08" />
-        <option name="ERROR_STRIPE_COLOR" value="ac2521" />
+        <option name="BACKGROUND" value="331b04" />
+        <option name="EFFECT_COLOR" value="ec6c04" />
+        <option name="ERROR_STRIPE_COLOR" value="b21a10" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
