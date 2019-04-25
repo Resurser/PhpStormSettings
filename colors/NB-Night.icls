@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T07:15:37</property>
+    <property name="modified">2019-04-25T07:27:18</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -374,7 +374,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9371dc" />
+        <option name="FOREGROUND" value="9673dc" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -416,8 +416,8 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ddb329" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="ddab31" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -430,12 +430,14 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="48c3b5" />
+        <option name="FOREGROUND" value="5ac3a1" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c1b65f" />
+        <option name="FOREGROUND" value="c4b73e" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -468,7 +470,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d67f6b" />
+        <option name="FOREGROUND" value="d97e60" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -498,7 +500,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="61c8b6" />
+        <option name="FOREGROUND" value="5fc2cb" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -513,7 +515,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="a692dc" />
+        <option name="FOREGROUND" value="8d95dc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -714,8 +716,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2a280d" />
-        <option name="EFFECT_COLOR" value="9a9e48" />
+        <option name="BACKGROUND" value="1d1b08" />
+        <option name="EFFECT_COLOR" value="9e9d2a" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
@@ -63530,8 +63532,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2a2109" />
-        <option name="EFFECT_COLOR" value="9a9e48" />
+        <option name="BACKGROUND" value="1d1b08" />
+        <option name="EFFECT_COLOR" value="9e9d2a" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
