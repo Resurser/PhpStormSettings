@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T07:27:18</property>
+    <property name="modified">2019-04-25T07:45:59</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -351,12 +351,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e26d68" />
+        <option name="FOREGROUND" value="e28824" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="e08c65" />
+        <option name="FOREGROUND" value="e09426" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -416,8 +416,8 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ddab31" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="dbad2e" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -448,7 +448,7 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="ddb329" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -510,7 +510,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="e1bb3b" />
+        <option name="FOREGROUND" value="dbc43e" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -536,6 +536,7 @@
       <value>
         <option name="FOREGROUND" value="ddb329" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="5b4929" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
