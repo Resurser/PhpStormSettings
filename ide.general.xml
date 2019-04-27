@@ -19,5 +19,7 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
