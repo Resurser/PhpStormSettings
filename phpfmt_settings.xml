@@ -1,0 +1,8 @@
+<application>
+  <component name="phpfmtSettings">
+    <option name="autoAlign" value="true" />
+    <option name="formatOnSave" value="true" />
+    <option name="phpExecutable" value="php.exe" />
+    <option name="psr1" value="true" />
+  </component>
+</application>
