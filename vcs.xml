@@ -6,6 +6,10 @@
           <option name="url" value="http://scm.instaco.com.ua" />
           <option name="userName" value="oleg.tyran@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.brcl.ru" />
+          <option name="userName" value="oleg.tyran@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
