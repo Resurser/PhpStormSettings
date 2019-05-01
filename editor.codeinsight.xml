@@ -18,7 +18,6 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_PHP_TAGS" value="true" />
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
