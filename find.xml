@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,9 +18,9 @@
     <mask>*.pcss</mask>
     <mask>*.twig</mask>
     <mask>*.styl</mask>
-    <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.postcss*</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
