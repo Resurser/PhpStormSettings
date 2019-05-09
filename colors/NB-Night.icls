@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-27T18:54:53</property>
+    <property name="modified">2019-05-09T10:31:31</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="22202e" />
+    <option name="CARET_ROW_COLOR" value="282e1e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -30,7 +30,7 @@
     <option name="INDENT_GUIDE" value="2b2f2f" />
     <option name="INFORMATION_HINT" value="202828" />
     <option name="LINE_NUMBERS_COLOR" value="45c7ca" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cdc853" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dfdc28" />
     <option name="METHOD_SEPARATORS_COLOR" value="1b292b" />
     <option name="MODIFIED_LINES_COLOR" value="24369" />
     <option name="NOTIFICATION_BACKGROUND" value="292c31" />
@@ -63175,7 +63175,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a574d" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -63452,7 +63452,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c6c8b4" />
-        <option name="BACKGROUND" value="212424" />
+        <option name="BACKGROUND" value="1b1e1e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
