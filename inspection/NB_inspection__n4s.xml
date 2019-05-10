@@ -141,7 +141,7 @@
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="REPORT_EMPTY_BODY" value="false" />
   </inspection_tool>
-  <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="MultipleReturnStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="COMPLAIN_THRESHOLD" value="5" />
     <option name="SCREAM_THRESHOLD" value="7" />
   </inspection_tool>
