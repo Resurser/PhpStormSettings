@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-14T17:34:57</property>
+    <property name="modified">2019-05-14T18:01:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -21,7 +21,7 @@
     <option name="ERROR_HINT" value="280f0e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="303334" />
+    <option name="GUTTER_BACKGROUND" value="" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
@@ -58,7 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="200535" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
-    <option name="VISUAL_INDENT_GUIDE" value="34352b" />
+    <option name="VISUAL_INDENT_GUIDE" value="222e2e" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -982,6 +982,12 @@
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="385838" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="4c8056" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
