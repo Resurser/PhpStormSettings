@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-14T18:01:12</property>
+    <property name="modified">2019-05-14T20:06:24</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -351,12 +351,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e28824" />
+        <option name="FOREGROUND" value="e29b36" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="e09426" />
+        <option name="FOREGROUND" value="e09056" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -510,7 +510,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="dbc43e" />
+        <option name="FOREGROUND" value="d5aa3f" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -63328,27 +63328,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="a0c823" />
+        <option name="FOREGROUND" value="bac829" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="dbb525" />
+        <option name="FOREGROUND" value="dba732" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="e8733b" />
+        <option name="FOREGROUND" value="e87b4b" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ec546d" />
+        <option name="FOREGROUND" value="ec5e67" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="e368b5" />
+        <option name="FOREGROUND" value="e374ba" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
@@ -63393,17 +63393,17 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="94cb45" />
+        <option name="FOREGROUND" value="cbc72a" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="d2be3b" />
+        <option name="FOREGROUND" value="d8b63a" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="d79136" />
+        <option name="FOREGROUND" value="e1885b" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
