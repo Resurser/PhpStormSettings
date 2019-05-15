@@ -30,6 +30,9 @@
       <webServer id="e64a2600-3492-426e-a2e0-fe97cb40a94c" name="turbo-rss-stats" url="http://demo.local/yt-stats/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="34f75ecd-876f-4b8a-951d-6e376e35d914" name="gotogermany" url="http://gotogermany.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
