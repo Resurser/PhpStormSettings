@@ -84,6 +84,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="EmmetPreview">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -93,6 +96,9 @@
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
