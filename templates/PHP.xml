@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="&lt;=" value="&lt;?=$END$;?&gt;" description="short-hand echo '&lt;?=$value;?&gt;'" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;=" value="&lt;?=$END$?&gt;" description="short-hand echo '&lt;?=$value;?&gt;'" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JADE" value="true" />
