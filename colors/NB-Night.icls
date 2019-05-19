@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-19T09:55:14</property>
+    <property name="modified">2019-05-19T11:57:58</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -625,7 +625,7 @@
       <value>
         <option name="BACKGROUND" value="480a05" />
         <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="db0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -795,7 +795,7 @@
       <value>
         <option name="BACKGROUND" value="211d24" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="173134" />
+        <option name="ERROR_STRIPE_COLOR" value="2d2531" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63533,7 +63533,7 @@
       <value>
         <option name="BACKGROUND" value="492a03" />
         <option name="EFFECT_COLOR" value="ec8604" />
-        <option name="ERROR_STRIPE_COLOR" value="c61d12" />
+        <option name="ERROR_STRIPE_COLOR" value="be4505" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63554,9 +63554,10 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d54944" />
-        <option name="EFFECT_COLOR" value="a63935" />
-        <option name="ERROR_STRIPE_COLOR" value="b41d1f" />
-        <option name="EFFECT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="e72726" />
+        <option name="ERROR_STRIPE_COLOR" value="ad2727" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
