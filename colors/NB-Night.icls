@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-28T20:46:24</property>
+    <property name="modified">2019-05-29T16:33:19</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -646,8 +646,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="426260" />
-        <option name="BACKGROUND" value="202627" />
+        <option name="FOREGROUND" value="35625e" />
+        <option name="BACKGROUND" value="212a2b" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="294446" />
       </value>
@@ -793,7 +793,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="211d24" />
+        <option name="BACKGROUND" value="272628" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="2d2531" />
         <option name="EFFECT_TYPE" value="1" />
@@ -63181,7 +63181,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="274f4e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -63470,8 +63470,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4c9296" />
-        <option name="BACKGROUND" value="203336" />
+        <option name="FOREGROUND" value="3e9d9d" />
+        <option name="BACKGROUND" value="243336" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="1b4b55" />
       </value>
@@ -63500,7 +63500,6 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5573f" />
         <option name="BACKGROUND" value="570c0f" />
         <option name="EFFECT_COLOR" value="af1d0e" />
         <option name="EFFECT_TYPE" value="2" />
