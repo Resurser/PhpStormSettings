@@ -33,7 +33,6 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="InspectionProfileManager">
@@ -53,6 +52,9 @@
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="600" nodeAutoDelay="500" nodeUpdateOnChanges="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="tableQualification" value="Always" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

@@ -1,5 +1,13 @@
 <application>
   <component name="PostfixTemplatesSettings">
-    <option name="postfixTemplatesEnabled" value="false" />
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.ts">
+        <value>
+          <set>
+            <option value="com.intellij.lang.typescript.template.postfix.TypeScriptCastPostfixTemplate#.cast" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
   </component>
 </application>
