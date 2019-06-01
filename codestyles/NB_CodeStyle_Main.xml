@@ -149,7 +149,6 @@
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
@@ -1542,6 +1541,10 @@
         <group>
           <type>OVERRIDDEN_METHODS</type>
           <order>BY_NAME</order>
+        </group>
+        <group>
+          <type>TREAT_LAMBDA_INITIALIZED_FIELDS_AS_METHODS</type>
+          <order>KEEP</order>
         </group>
       </groups>
       <rules>
