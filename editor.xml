@@ -24,7 +24,8 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="35" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="40" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
@@ -33,6 +34,9 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="InspectionProfileManager">
