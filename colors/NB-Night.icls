@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-31T18:49:37</property>
+    <property name="modified">2019-06-04T14:16:35</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="282e1e" />
+    <option name="CARET_ROW_COLOR" value="222621" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -718,7 +718,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d1b08" />
-        <option name="EFFECT_COLOR" value="8a8925" />
+        <option name="EFFECT_COLOR" value="a7a62d" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
@@ -63540,7 +63540,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d1c16" />
-        <option name="EFFECT_COLOR" value="8a8925" />
+        <option name="EFFECT_COLOR" value="a7a62d" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
