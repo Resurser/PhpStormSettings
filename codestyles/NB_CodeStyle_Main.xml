@@ -10,10 +10,11 @@
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="SOFT_MARGINS" value="90" />
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <CsvCodeStyleSettings>
     <option name="SPACE_AFTER_SEPARATOR" value="true" />
@@ -359,6 +360,7 @@
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
