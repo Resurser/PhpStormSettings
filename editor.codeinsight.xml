@@ -9,6 +9,7 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SMART_BACKSPACE" value="2" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="2" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
@@ -19,8 +20,9 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
-  <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
