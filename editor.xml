@@ -52,7 +52,9 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateOnChanges="false" nodeAutoDelay="500" />
+  <component name="LiveEditOptions" chromeAutoDelay="600" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="tableQualification" value="Always" />
   </component>
