@@ -20,5 +20,6 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="debugger.valueTooltipAutoShow" value="false" />
   </component>
 </application>

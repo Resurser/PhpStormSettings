@@ -3,10 +3,12 @@
     <data-views>
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="500" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
+      <option name="showDebuggerOnBreakpoint" value="false" />
     </general>
     <debuggers>
       <debugger id="javascript">
