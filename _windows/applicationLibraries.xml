@@ -4,11 +4,19 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/gulp-util" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jquery" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
     <library name="@types/jquery.pnotify" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/notify" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
