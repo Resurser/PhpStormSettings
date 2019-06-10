@@ -84,6 +84,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EmmetPreview">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
