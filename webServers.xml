@@ -33,6 +33,9 @@
       <webServer id="34f75ecd-876f-4b8a-951d-6e376e35d914" name="gotogermany" url="http://gotogermany.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3bae6b10-667e-4fb8-a0b3-80734a9d123b" name="csgo.local" url="http://csgo.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
