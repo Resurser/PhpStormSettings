@@ -1,0 +1,6 @@
+<application>
+  <component name="UUIDGeneratorSettings">
+    <option name="lowerCased" value="false" />
+    <option name="withDashes" value="false" />
+  </component>
+</application>
