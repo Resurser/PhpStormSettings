@@ -1494,7 +1494,6 @@
   <codeStyleSettings language="JSON">
     <option name="RIGHT_MARGIN" value="100" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="SPACE_BEFORE_COMMA" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="90" />
     <indentOptions>
