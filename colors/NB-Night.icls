@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-06-19T04:49:08</property>
+    <property name="modified">2019-06-19T07:56:31</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -475,9 +475,9 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="eba927" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="d79d20" />
+        <option name="FOREGROUND" value="fc941d" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="c77028" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -791,9 +791,9 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="272628" />
+        <option name="BACKGROUND" value="61318" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="2d2531" />
+        <option name="ERROR_STRIPE_COLOR" value="c2828" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
