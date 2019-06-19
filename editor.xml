@@ -52,7 +52,7 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="600" chromeUpdateOnChanges="false" nodeAutoDelay="500" useJBChromeExtension="true">
+  <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="550" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
   <component name="TodoConfiguration">
