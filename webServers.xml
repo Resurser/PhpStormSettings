@@ -24,9 +24,6 @@
       <webServer id="b162ffc7-ad36-47b6-85a6-c9dbc20dece4" name="edu.thetacenter.ua" url="http://edu.thetacenter.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="392472a1-1efb-48bd-812a-858edf64afcd" name="Advanced PHP libs" url="http://demo.local/adv-php-libs/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="e64a2600-3492-426e-a2e0-fe97cb40a94c" name="turbo-rss-stats" url="http://demo.local/yt-stats/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
