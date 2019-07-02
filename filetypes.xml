@@ -4,6 +4,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping ext="tpl" type="PHP" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
+      <removed_mapping ext="pcss" approved="true" type="PostCSS" />
       <mapping pattern="*.postcss.css" type="SCSS" />
       <mapping ext="pcss" type="SCSS" />
       <mapping pattern="*.smarty.tpl" type="Smarty" />
@@ -12,7 +13,7 @@
       <mapping pattern="*.twig.php" type="Twig" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping pattern="*.postcss.*" approved="true" type="Sass" />
-      <removed_mapping ext="pcss" approved="true" type="Sass" />
+      <removed_mapping ext="pcss" approved="true" type="PostCSS" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
