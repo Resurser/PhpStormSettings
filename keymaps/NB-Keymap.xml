@@ -171,6 +171,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -236,6 +239,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
   </action>
