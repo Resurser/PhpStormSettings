@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-02T08:20:08</property>
+    <property name="modified">2019-07-07T11:02:46</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -21,7 +21,7 @@
     <option name="ERROR_HINT" value="280f0e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="GUTTER_BACKGROUND" value="39393a" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
@@ -50,7 +50,7 @@
     <option name="SELECTION_FOREGROUND" value="9fc5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="3c3f41" />
     <option name="SEPARATOR_BELOW_COLOR" value="1d3141" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="f753ff" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="fdfdff" />
     <option name="TEARLINE_COLOR" value="1f615d" />
     <option name="TOOLTIP" value="202828" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
@@ -123,7 +123,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="982899" />
+        <option name="ERROR_STRIPE_COLOR" value="aa5aab" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -63456,7 +63456,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c6c8b4" />
-        <option name="BACKGROUND" value="1b1e1e" />
+        <option name="BACKGROUND" value="616163" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

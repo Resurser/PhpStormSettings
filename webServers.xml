@@ -6,9 +6,6 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="ecf492b8-438d-4994-afac-9d2bb5e5c3b4" name="tvduma.admin.local" url="http://tvduma.local/admin">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="7d14a2e6-b3a4-4b90-bab6-e2ece99dff6e" name="cp.need4study.local" url="http://cp.need4study.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
@@ -22,12 +19,6 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="b162ffc7-ad36-47b6-85a6-c9dbc20dece4" name="edu.thetacenter.ua" url="http://edu.thetacenter.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="e64a2600-3492-426e-a2e0-fe97cb40a94c" name="turbo-rss-stats" url="http://demo.local/yt-stats/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="34f75ecd-876f-4b8a-951d-6e376e35d914" name="gotogermany" url="http://gotogermany.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="3bae6b10-667e-4fb8-a0b3-80734a9d123b" name="csgo.local" url="http://csgo.local">
