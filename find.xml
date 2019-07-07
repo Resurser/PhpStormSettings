@@ -13,14 +13,12 @@
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>.pcss</mask>
     <mask>*.ini</mask>
     <mask>*.html</mask>
     <mask>*.pcss</mask>
     <mask>*.css</mask>
     <mask>*.postcss*</mask>
     <mask>*.*css*</mask>
-    <mask>css</mask>
     <mask>*.*css</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
