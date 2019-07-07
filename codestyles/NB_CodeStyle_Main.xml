@@ -142,7 +142,6 @@
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
-    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br,span" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
@@ -1461,7 +1460,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="95" />
+    <option name="RIGHT_MARGIN" value="90" />
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="95" />
     <indentOptions>
