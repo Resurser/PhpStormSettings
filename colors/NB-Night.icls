@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-10T20:30:11</property>
+    <property name="modified">2019-07-11T14:36:54</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -44,7 +44,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="202828" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="6c4500" />
-    <option name="SELECTED_INDENT_GUIDE" value="6d6a1f" />
+    <option name="SELECTED_INDENT_GUIDE" value="3b8171" />
     <option name="SELECTED_TEARLINE_COLOR" value="46dad2" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
     <option name="SELECTION_FOREGROUND" value="9fc5c8" />
@@ -63179,8 +63179,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="274f4e" />
+        <option name="BACKGROUND" value="106366" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="1e9f87" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63472,7 +63473,7 @@
         <option name="BACKGROUND" value="243336" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="1b4b55" />
-        <option name="ERROR_STRIPE_COLOR" value="3e9d9d" />
+        <option name="ERROR_STRIPE_COLOR" value="36b9c" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
