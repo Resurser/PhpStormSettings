@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-12T08:56:52</property>
+    <property name="modified">2019-07-12T16:46:44</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -20,7 +20,7 @@
     <option name="DOCUMENTATION_COLOR" value="141a28" />
     <option name="ERROR_HINT" value="280f0e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
     <option name="GUTTER_BACKGROUND" value="262729" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
@@ -50,7 +50,7 @@
     <option name="SELECTION_FOREGROUND" value="9fc5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="525659" />
     <option name="SEPARATOR_BELOW_COLOR" value="1d3141" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="fdfdff" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="8cff10" />
     <option name="TEARLINE_COLOR" value="1f615d" />
     <option name="TOOLTIP" value="202828" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
@@ -129,7 +129,7 @@
     <option name="BRACE_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="163a48" />
+        <option name="BACKGROUND" value="48461b" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c2b11c" />
       </value>
@@ -137,7 +137,7 @@
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="163a48" />
+        <option name="BACKGROUND" value="482234" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="d93f52" />
       </value>
@@ -311,11 +311,11 @@
     <option name="CUSP_BRACKETS_ATTR">
       <value>
         <option name="FOREGROUND" value="f2efb8" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="58d0d0" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c95971" />
@@ -345,7 +345,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6564" />
+        <option name="FOREGROUND" value="626b6a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -380,7 +380,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5e6b69" />
+        <option name="FOREGROUND" value="626b6a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -399,7 +399,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="756332" />
+        <option name="FOREGROUND" value="7b6d2b" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -483,7 +483,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6564" />
+        <option name="FOREGROUND" value="626b6a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -605,7 +605,6 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="f2efb8" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="58d0d0" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -646,8 +645,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="35625e" />
-        <option name="BACKGROUND" value="212a2b" />
+        <option name="FOREGROUND" value="3d716c" />
+        <option name="BACKGROUND" value="16262a" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="294446" />
       </value>
@@ -63179,7 +63178,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="106366" />
+        <option name="BACKGROUND" value="1c4066" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="1e9f87" />
       </value>
@@ -63266,7 +63265,7 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="163a48" />
+        <option name="BACKGROUND" value="482c14" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="d68304" />
       </value>
@@ -63295,11 +63294,10 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="PROPERTIES.VALUE">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-      </value>
-    </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -63469,11 +63467,11 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3e9d9d" />
+        <option name="FOREGROUND" value="47b3b3" />
         <option name="BACKGROUND" value="243336" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="1b4b55" />
-        <option name="ERROR_STRIPE_COLOR" value="36b9c" />
+        <option name="ERROR_STRIPE_COLOR" value="47b3b3" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
@@ -63545,7 +63543,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e0d22" />
+        <option name="BACKGROUND" value="222434" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="d76005" />
       </value>
