@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-12T16:46:44</property>
+    <property name="modified">2019-07-15T05:20:44</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="2b2f2a" />
+    <option name="CARET_ROW_COLOR" value="252c2d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -21,13 +21,13 @@
     <option name="ERROR_HINT" value="280f0e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
-    <option name="GUTTER_BACKGROUND" value="262729" />
+    <option name="GUTTER_BACKGROUND" value="13151a" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
     <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
     <option name="HTML_TAG_TREE_LEVEL3" value="935dda" />
     <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
-    <option name="INDENT_GUIDE" value="363833" />
+    <option name="INDENT_GUIDE" value="252d2d" />
     <option name="INFORMATION_HINT" value="202828" />
     <option name="LINE_NUMBERS_COLOR" value="49c5c2" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dee565" />
@@ -41,16 +41,17 @@
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
     <option name="RECENT_LOCATIONS_SELECTION" value="202828" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="6c4500" />
+    <option name="RIGHT_MARGIN_COLOR" value="62335f" />
     <option name="SELECTED_INDENT_GUIDE" value="3b8171" />
     <option name="SELECTED_TEARLINE_COLOR" value="46dad2" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
     <option name="SELECTION_FOREGROUND" value="9fc5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="525659" />
     <option name="SEPARATOR_BELOW_COLOR" value="1d3141" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="8cff10" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="95ee05" />
     <option name="TEARLINE_COLOR" value="1f615d" />
     <option name="TOOLTIP" value="202828" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
@@ -144,24 +145,26 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="c5ca81" />
-        <option name="EFFECT_COLOR" value="998830" />
+        <option name="FOREGROUND" value="70caa3" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="5aacaf" />
+        <option name="BACKGROUND" value="2c2f31" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="2ecebb" />
-        <option name="BACKGROUND" value="306a83" />
+        <option name="FOREGROUND" value="3ebfce" />
+        <option name="BACKGROUND" value="27586b" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="648b8c" />
+        <option name="FOREGROUND" value="689192" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -63455,7 +63458,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ccceba" />
-        <option name="BACKGROUND" value="222222" />
+        <option name="BACKGROUND" value="1b1b1b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
