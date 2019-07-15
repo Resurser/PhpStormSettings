@@ -237,6 +237,7 @@
     <option name="myIgnoreUnusedFunctionParameters" value="true" />
   </inspection_tool>
   <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="Json5StandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -256,6 +257,7 @@
     <option name="UNUSEDCODE" value="true" />
     <option name="NAMING" value="true" />
   </inspection_tool>
+  <inspection_tool class="MissingInheritDocInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="MissingIssetImplementationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingSinceTagDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -312,24 +314,27 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="PhpConstantReassignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpDocRedundantThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpDocSignatureInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpIllegalStringOffsetInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="STRICT_TYPE_CHECKING" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_regex" value="[a-z_][A-Za-z\d_]*" />
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
@@ -342,9 +347,8 @@
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpNonCanonicalElementsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpParamsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_regex" value="[a-z_][A-Za-z\d_]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="25" />
@@ -392,7 +396,7 @@
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="TYPO" enabled_by_default="false" />
-  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false">
     <option name="m_regex" value="[_a-zA-Z][_a-z\d]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="40" />
@@ -524,6 +528,7 @@
   <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypeScriptConfig" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptFieldCanBeMadeReadonly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="TypeScriptLibrary" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="TypeScriptPreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptSuspiciousConstructorParameterAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -571,6 +576,7 @@
   <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YAMLDuplicatedKeys" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="YAMLRecursiveAlias" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="YAMLSchemaDeprecation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="YAMLSchemaValidation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YAMLUnresolvedAlias" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="YAMLUnusedAnchor" enabled="false" level="WARNING" enabled_by_default="false" />
