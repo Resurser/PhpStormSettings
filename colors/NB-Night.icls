@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-20T00:38:04</property>
+    <property name="modified">2019-07-21T18:21:33</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -378,7 +378,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9673dc" />
+        <option name="FOREGROUND" value="9562df" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -504,7 +504,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="4dbbc2" />
+        <option name="FOREGROUND" value="50c2b8" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="bdce8c" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -519,7 +524,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="8d95dc" />
+        <option name="FOREGROUND" value="868edc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -546,7 +551,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="7cae64" />
+        <option name="FOREGROUND" value="5aae61" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
