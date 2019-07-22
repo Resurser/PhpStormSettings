@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-21T18:21:33</property>
+    <property name="modified">2019-07-22T11:46:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -17,19 +17,20 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
-    <option name="DOCUMENTATION_COLOR" value="141a28" />
-    <option name="ERROR_HINT" value="280f0e" />
+    <option name="DOCUMENTATION_COLOR" value="2e2c1b" />
+    <option name="ERROR_HINT" value="2e1115" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
-    <option name="GUTTER_BACKGROUND" value="13151a" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="dfcd30" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="d67333" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="cd5ea9" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="935dda" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="38bad5" />
+    <option name="GUTTER_BACKGROUND" value="1b1c1d" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="ec3fa7" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="561bf8" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
     <option name="INDENT_GUIDE" value="93434" />
     <option name="INFORMATION_HINT" value="202828" />
-    <option name="LINE_NUMBERS_COLOR" value="49c5c2" />
+    <option name="LINE_NUMBERS_COLOR" value="29a8c8" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dee565" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
     <option name="MODIFIED_LINES_COLOR" value="24369" />
@@ -42,7 +43,7 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="202828" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="263131" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="754006" />
     <option name="SELECTED_INDENT_GUIDE" value="3bb8b1" />
@@ -53,7 +54,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="1d3141" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="95ee05" />
     <option name="TEARLINE_COLOR" value="1f615d" />
-    <option name="TOOLTIP" value="202828" />
+    <option name="TOOLTIP" value="202e24" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3314c" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
@@ -152,20 +153,18 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="61a0af" />
-        <option name="BACKGROUND" value="252729" />
+        <option name="BACKGROUND" value="202223" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="3ebfce" />
-        <option name="BACKGROUND" value="2e3e4d" />
+        <option name="FOREGROUND" value="71c8c8" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="689192" />
-        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
