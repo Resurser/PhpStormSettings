@@ -3,13 +3,13 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-22T15:25:40</property>
+    <property name="modified">2019-07-23T15:27:38</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="26415" />
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
-    <option name="BORDER_LINES_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="5a5e61" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="272a2a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="90909" />
@@ -62,7 +62,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
     <option name="VISUAL_INDENT_GUIDE" value="3c3c11" />
     <option name="WHITESPACES" value="273f40" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c3f41" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -583,7 +583,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="7a0f26" />
+        <option name="BACKGROUND" value="710e23" />
         <option name="ERROR_STRIPE_COLOR" value="ca2131" />
       </value>
     </option>
@@ -601,8 +601,8 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="d2346" />
-        <option name="ERROR_STRIPE_COLOR" value="215bb0" />
+        <option name="BACKGROUND" value="c2142" />
+        <option name="ERROR_STRIPE_COLOR" value="17369c" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
