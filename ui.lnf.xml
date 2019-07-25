@@ -5,7 +5,6 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
@@ -16,6 +15,7 @@
     <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
     <option name="MAX_LOOKUP_WIDTH2" value="506" />
     <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="smoothScrolling" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
