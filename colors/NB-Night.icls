@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-23T15:27:38</property>
+    <property name="modified">2019-07-25T05:42:13</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -305,9 +305,9 @@
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="509ebe" />
+        <option name="FOREGROUND" value="d8d5" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="509ebe" />
+        <option name="EFFECT_COLOR" value="d8d5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -440,7 +440,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c4b03e" />
+        <option name="FOREGROUND" value="ccbe2c" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -473,7 +473,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d9875e" />
+        <option name="FOREGROUND" value="cd9a24" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -503,12 +503,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="50c2b8" />
+        <option name="FOREGROUND" value="fa4d7" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="bdce8c" />
+        <option name="FOREGROUND" value="818f9c" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -550,7 +550,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="5aae61" />
+        <option name="FOREGROUND" value="3dc680" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -715,7 +715,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="39a1be" />
+        <option name="FOREGROUND" value="fbcf8" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -778,8 +778,8 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1e5565" />
-        <option name="EFFECT_COLOR" value="1e5565" />
+        <option name="FOREGROUND" value="f6d9b" />
+        <option name="EFFECT_COLOR" value="f799b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63464,7 +63464,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ccceba" />
+        <option name="FOREGROUND" value="d3dae4" />
         <option name="BACKGROUND" value="1b1b1b" />
       </value>
     </option>
