@@ -3,7 +3,7 @@
     <property name="created">2019-07-25T19:43:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-25T19:52:40</property>
+    <property name="modified">2019-07-26T03:39:23</property>
     <property name="originalScheme">NB-Night copy1</property>
   </metaInfo>
   <colors>
@@ -362,8 +362,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="d194d1" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="d688bf" />
         <option name="EFFECT_COLOR" value="5f445f" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -416,12 +415,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="a183b9" />
+        <option name="FOREGROUND" value="8688c9" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="dda04c" />
+        <option name="FOREGROUND" value="caa85b" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="614a31" />
         <option name="EFFECT_TYPE" value="4" />
@@ -451,10 +450,10 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="d194d1" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="5f465f" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="d688bf" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="634763" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -487,7 +486,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cdbd56" />
+        <option name="FOREGROUND" value="bdc445" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -508,7 +507,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d09088" />
+        <option name="FOREGROUND" value="c79342" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -720,7 +719,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d1b08" />
-        <option name="EFFECT_COLOR" value="a7a62d" />
+        <option name="EFFECT_COLOR" value="9d9c29" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
@@ -63184,10 +63183,9 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e4e4e4" />
-        <option name="BACKGROUND" value="57245d" />
+        <option name="BACKGROUND" value="652e6d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ca5ed2" />
-        <option name="ERROR_STRIPE_COLOR" value="ca5ed2" />
+        <option name="ERROR_STRIPE_COLOR" value="ac52b3" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63544,7 +63542,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d1c16" />
-        <option name="EFFECT_COLOR" value="a7a62d" />
+        <option name="EFFECT_COLOR" value="9d9c29" />
         <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
       </value>
     </option>
