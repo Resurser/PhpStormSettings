@@ -3,7 +3,7 @@
     <property name="created">2019-07-25T19:43:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-26T04:06:15</property>
+    <property name="modified">2019-07-26T04:29:57</property>
     <property name="originalScheme">NB-Night copy1</property>
   </metaInfo>
   <colors>
@@ -444,7 +444,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="c88687" />
+        <option name="FOREGROUND" value="cb8d9b" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -458,8 +458,8 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="eeced3" />
-        <option name="BACKGROUND" value="480a05" />
+        <option name="FOREGROUND" value="ee9f15" />
+        <option name="BACKGROUND" value="690e07" />
         <option name="EFFECT_COLOR" value="e12100" />
         <option name="ERROR_STRIPE_COLOR" value="e12100" />
         <option name="EFFECT_TYPE" value="2" />
@@ -467,15 +467,15 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d08348" />
+        <option name="FOREGROUND" value="d08852" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="ebb036" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="c08337" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="dba317" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="dba317" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -502,7 +502,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cea79b" />
+        <option name="FOREGROUND" value="cea193" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -538,7 +538,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="c88687" />
+        <option name="FOREGROUND" value="c88b98" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="6a4546" />
         <option name="EFFECT_TYPE" value="1" />
@@ -559,7 +559,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="2bc1b3" />
+        <option name="FOREGROUND" value="31c594" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -626,8 +626,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="480a05" />
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="BACKGROUND" value="690e07" />
+        <option name="EFFECT_COLOR" value="ff593f" />
         <option name="ERROR_STRIPE_COLOR" value="db0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -787,16 +787,14 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="727a19" />
-        <option name="ERROR_STRIPE_COLOR" value="6c2224" />
+        <option name="EFFECT_COLOR" value="9a973b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="c1518" />
+        <option name="BACKGROUND" value="f1c1f" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="c2828" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63533,8 +63531,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="492a03" />
-        <option name="EFFECT_COLOR" value="ec8604" />
+        <option name="BACKGROUND" value="4f310f" />
+        <option name="EFFECT_COLOR" value="f4b744" />
         <option name="ERROR_STRIPE_COLOR" value="be4505" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
