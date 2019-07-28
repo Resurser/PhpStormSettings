@@ -3,7 +3,7 @@
     <property name="created">2019-07-25T19:43:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-26T17:51:39</property>
+    <property name="modified">2019-07-28T23:50:26</property>
     <property name="originalScheme">NB-Night copy1</property>
   </metaInfo>
   <colors>
@@ -352,7 +352,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e283dd" />
+        <option name="FOREGROUND" value="58c7e2" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -415,7 +415,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8688c9" />
+        <option name="FOREGROUND" value="7b95c9" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -63301,10 +63301,10 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -63603,12 +63603,12 @@
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="cb73c5" />
+        <option name="FOREGROUND" value="9f85dc" />
       </value>
     </option>
     <option name="round bracket level 4">
       <value>
-        <option name="FOREGROUND" value="57c0c1" />
+        <option name="FOREGROUND" value="c185a0" />
       </value>
     </option>
     <option name="square bracket level 2">
