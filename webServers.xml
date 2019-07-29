@@ -27,6 +27,9 @@
       <webServer id="6234d5cb-c67b-402f-a3b5-91ce43ffa5d9" name="eusign.local" url="http://eusign.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="afe32e84-83cd-437e-86d4-c1fbbe9f555a" name="yarmel" url="http://yarmel.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

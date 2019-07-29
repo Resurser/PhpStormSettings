@@ -83,6 +83,7 @@
     <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
   </inspection_tool>
   <inspection_tool class="DuplicateSectionInFile" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="DuplicatedCode" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
   <inspection_tool class="Duplicates" enabled="true" level="SERVER PROBLEM" enabled_by_default="true">
     <option name="myFilterOutGeneratedCode" value="true" />
   </inspection_tool>
@@ -106,6 +107,7 @@
   </inspection_tool>
   <inspection_tool class="EncryptionInitializationVectorRandomnessInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_NON_THROWN_EXCEPTIONS" value="true" />
   </inspection_tool>
@@ -230,6 +232,7 @@
     <option name="mySeverity" value="OnlySuspicious" />
   </inspection_tool>
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSJQueryEfficiency" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -282,7 +285,7 @@
   </inspection_tool>
   <inspection_tool class="NestedNotOperatorsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedPositiveIfStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="UNUSED ENTRY" enabled_by_default="false" />
+  <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeJsCodingAssistanceForCoreModules" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false">
@@ -395,12 +398,11 @@
     <option name="DONT_REPORT_CATCH_EXCEPTION" value="false" />
     <option name="DONT_REPORT_INSIDE_LIST" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true">
+  <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DONT_REPORT_ABSTRACT_CLASS" value="true" />
     <option name="DONT_REPORT_ANONYMOUS" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false">
     <option name="m_regex" value="[_a-zA-Z][_a-z\d]*" />
