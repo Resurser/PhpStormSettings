@@ -1,5 +1,5 @@
 <code_scheme name="NB_CodeStyle_Main" version="173">
-  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="SOFT_MARGINS" value="90" />
