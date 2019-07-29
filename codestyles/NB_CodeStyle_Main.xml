@@ -378,6 +378,8 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
+    <option name="CONSTRAINT_WRAP_3" value="true" />
+    <option name="CONSTRAINT_WRAP_4" value="true" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
@@ -1771,7 +1773,12 @@
           </rules>
         </token>
       </tokens>
-      <groups />
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
       <rules>
         <section>
           <rule>
@@ -1965,6 +1972,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
