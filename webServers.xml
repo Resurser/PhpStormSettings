@@ -30,6 +30,9 @@
       <webServer id="afe32e84-83cd-437e-86d4-c1fbbe9f555a" name="yarmel" url="http://yarmel.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d0925061-4ff1-4189-96e1-374054290d0b" name="woweb" url="http://woweb.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
