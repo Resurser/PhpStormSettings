@@ -3,7 +3,7 @@
     <property name="created">2019-07-25T19:43:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-31T00:09:31</property>
+    <property name="modified">2019-07-31T01:15:49</property>
     <property name="originalScheme">NB-Night copy1</property>
   </metaInfo>
   <colors>
@@ -404,7 +404,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="d8d74a" />
+        <option name="FOREGROUND" value="c6ad3e" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
