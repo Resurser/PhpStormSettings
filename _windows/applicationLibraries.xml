@@ -321,5 +321,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="widgets" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_platform.twitter.com_widgets.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_platform.twitter.com_widgets.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
