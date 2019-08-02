@@ -3,7 +3,6 @@
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -182,7 +181,7 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="m_regex" value="[_a-z][A-Za-z\d]*" />
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="36" />
