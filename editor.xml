@@ -25,7 +25,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="40" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="25" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
@@ -70,9 +70,7 @@
     <filter name="TODO">
       <pattern index="2" />
     </filter>
-    <filter name="ALARM">
-      <pattern index="-1" />
-    </filter>
+    <filter name="ALARM" />
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
