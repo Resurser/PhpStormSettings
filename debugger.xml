@@ -7,6 +7,7 @@
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
+      <option name="showDebuggerOnBreakpoint" value="false" />
     </general>
     <debuggers>
       <debugger id="javascript">
