@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-13T18:30:11</property>
+    <property name="modified">2019-08-13T22:41:02</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -231,12 +231,12 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="454545" />
+        <option name="FOREGROUND" value="4b4b4b" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cc4c4f" />
+        <option name="FOREGROUND" value="cc614a" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -257,7 +257,9 @@
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5babca" />
+      </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
@@ -269,17 +271,17 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e35a4c" />
+        <option name="FOREGROUND" value="dc4b3d" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="57a985" />
+        <option name="FOREGROUND" value="579fbe" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="519bb8" />
+        <option name="FOREGROUND" value="5dbe97" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -357,7 +359,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="ec9342" />
+        <option name="FOREGROUND" value="e48e3f" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -375,7 +377,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9562df" />
+        <option name="FOREGROUND" value="846acc" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -506,7 +508,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="bdce8c" />
+        <option name="FOREGROUND" value="cecb65" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -521,7 +523,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="868edc" />
+        <option name="FOREGROUND" value="829adc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1005,15 +1007,27 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c14c42" />
+        <option name="FOREGROUND" value="d24848" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="6e6e6e" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bdc02f" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b69bbb" />
+      </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b37400" />
+        <option name="FOREGROUND" value="bf7c00" />
       </value>
     </option>
     <option name="List/map to object conversion">
