@@ -133,7 +133,6 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br,span" />
@@ -154,7 +153,7 @@
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="JSX_ATTRIBUTE_VALUE" value="Quotes" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -1474,9 +1473,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="100" />
-    <option name="WRAP_ON_TYPING" value="1" />
-    <option name="SOFT_MARGINS" value="105" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -1487,7 +1485,7 @@
         <section>
           <rule>
             <match>
-              <XML_TAG />
+              <XML_ATTRIBUTE />
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -1495,7 +1493,7 @@
         <section>
           <rule>
             <match>
-              <XML_ATTRIBUTE />
+              <XML_TAG />
             </match>
             <order>BY_NAME</order>
           </rule>
