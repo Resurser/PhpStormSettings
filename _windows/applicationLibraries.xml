@@ -8,18 +8,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/jquery" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/jquery.pnotify" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/notify" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/select2" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -264,17 +252,6 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_html5shiv_3.7.3_html5shiv-printshiv.js" />
       </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jquery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-      </properties>
-      <CLASSES />
-      <DOCUMENTATION>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.jquery.com_resources_api.xml.xml" />
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
       <SOURCES />
     </library>
     <library name="respond" type="javaScript">

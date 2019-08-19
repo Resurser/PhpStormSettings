@@ -107,7 +107,6 @@
   </inspection_tool>
   <inspection_tool class="EncryptionInitializationVectorRandomnessInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_NON_THROWN_EXCEPTIONS" value="true" />
   </inspection_tool>
