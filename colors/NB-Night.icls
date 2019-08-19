@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-13T22:41:02</property>
+    <property name="modified">2019-08-19T18:17:45</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -60,7 +60,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="200535" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
-    <option name="VISUAL_INDENT_GUIDE" value="3c3c11" />
+    <option name="VISUAL_INDENT_GUIDE" value="2c2e2e" />
     <option name="WHITESPACES" value="273f40" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -433,7 +433,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="54bea3" />
+        <option name="FOREGROUND" value="5dbe95" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -966,11 +966,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.REGEXP">
-      <value>
-        <option name="FOREGROUND" value="e9607d" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FONT_TYPE" value="1" />
