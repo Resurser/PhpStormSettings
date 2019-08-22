@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -10,7 +11,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>.pcss</mask>
-    <mask>*.ini</mask>
     <mask>*.html</mask>
     <mask>*.pcss</mask>
     <mask>*.css</mask>
@@ -22,5 +22,6 @@
     <mask>*.*css</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
