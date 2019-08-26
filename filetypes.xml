@@ -8,6 +8,7 @@
       <mapping ext="tpl" type="PHP" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping pattern="*.postcss.css" type="SCSS" />
+      <mapping pattern="*.postcss.*css" type="SCSS" />
       <mapping ext="pcss" type="SCSS" />
       <mapping pattern="*.smarty.tpl" type="Smarty" />
       <mapping ext="smarty" type="Smarty" />

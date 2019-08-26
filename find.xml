@@ -20,7 +20,7 @@
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.ini</mask>
-    <mask>*.*css</mask>
     <mask>*.php</mask>
+    <mask>*.*css</mask>
   </component>
 </application>
