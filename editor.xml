@@ -25,14 +25,15 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="25" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="20" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
