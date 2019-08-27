@@ -3,13 +3,13 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-27T05:30:10</property>
+    <property name="modified">2019-08-27T05:44:08</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="26415" />
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
-    <option name="BORDER_LINES_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="3c3f41" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="28282b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -28,7 +28,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="561bf8" />
     <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
     <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
-    <option name="INDENT_GUIDE" value="93434" />
+    <option name="INDENT_GUIDE" value="11363b" />
     <option name="INFORMATION_HINT" value="242c2d" />
     <option name="LINE_NUMBERS_COLOR" value="29bbc0" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
@@ -45,8 +45,8 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
     <option name="RECENT_LOCATIONS_SELECTION" value="242c2d" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="754006" />
-    <option name="SELECTED_INDENT_GUIDE" value="3bb8b1" />
+    <option name="RIGHT_MARGIN_COLOR" value="5b2721" />
+    <option name="SELECTED_INDENT_GUIDE" value="40adb8" />
     <option name="SELECTED_TEARLINE_COLOR" value="42cec6" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
     <option name="SELECTION_FOREGROUND" value="aac5c8" />
@@ -64,7 +64,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
     <option name="VISUAL_INDENT_GUIDE" value="2c2e2e" />
     <option name="WHITESPACES" value="3f4037" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c3f41" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -178,7 +178,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e3a0f" />
+        <option name="BACKGROUND" value="43c0d" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -317,6 +317,26 @@
     </option>
     <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_1">
+      <value>
+        <option name="FOREGROUND" value="adae67" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_10">
+      <value>
+        <option name="FOREGROUND" value="56ae99" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_2">
+      <value>
+        <option name="FOREGROUND" value="6dae68" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_3">
+      <value>
+        <option name="FOREGROUND" value="65ae8d" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="509ebe" />
@@ -628,7 +648,7 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="f2efb8" />
-        <option name="EFFECT_COLOR" value="58d0d0" />
+        <option name="EFFECT_COLOR" value="59d4d4" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
