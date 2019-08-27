@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-27T04:56:22</property>
+    <property name="modified">2019-08-27T05:30:10</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="2a2d2d" />
+    <option name="CARET_ROW_COLOR" value="28282b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -21,7 +21,7 @@
     <option name="ERROR_HINT" value="2e1115" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
-    <option name="GUTTER_BACKGROUND" value="2e3537" />
+    <option name="GUTTER_BACKGROUND" value="353d3f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="ec3fa7" />
@@ -30,7 +30,7 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
     <option name="INDENT_GUIDE" value="93434" />
     <option name="INFORMATION_HINT" value="242c2d" />
-    <option name="LINE_NUMBERS_COLOR" value="2aafc0" />
+    <option name="LINE_NUMBERS_COLOR" value="29bbc0" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
     <option name="MODIFIED_LINES_COLOR" value="24369" />
@@ -47,11 +47,11 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="754006" />
     <option name="SELECTED_INDENT_GUIDE" value="3bb8b1" />
-    <option name="SELECTED_TEARLINE_COLOR" value="46dad2" />
+    <option name="SELECTED_TEARLINE_COLOR" value="42cec6" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
-    <option name="SELECTION_FOREGROUND" value="9fc5c8" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="525659" />
-    <option name="SEPARATOR_BELOW_COLOR" value="1d3141" />
+    <option name="SELECTION_FOREGROUND" value="aac5c8" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
+    <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ee8b97" />
     <option name="ScrollBar.hoverThumbColor" value="e1faf8ac" />
     <option name="ScrollBar.thumbColor" value="d4d9dc64" />
@@ -127,7 +127,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="e1e1e1" />
+        <option name="BACKGROUND" value="233447" />
+        <option name="ERROR_STRIPE_COLOR" value="2593e1" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -148,32 +149,36 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="d7df74" />
-        <option name="BACKGROUND" value="285c52" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="FOREGROUND" value="eaeaea" />
+        <option name="BACKGROUND" value="2f6a69" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="e8e8e8" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="79bdc7" />
-        <option name="BACKGROUND" value="314d4e" />
+        <option name="FOREGROUND" value="b7b7b7" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="30d3d4" />
-        <option name="BACKGROUND" value="2d6469" />
+        <option name="FOREGROUND" value="e1e1e1" />
+        <option name="BACKGROUND" value="285a59" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="cdcdcd" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="7a8285" />
-        <option name="BACKGROUND" value="1c3f42" />
+        <option name="FOREGROUND" value="858785" />
+        <option name="BACKGROUND" value="464746" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3f281f" />
+        <option name="BACKGROUND" value="e3a0f" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -421,9 +426,10 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="5368db" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="124f55" />
+        <option name="FOREGROUND" value="9570cc" />
+        <option name="BACKGROUND" value="372545" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -670,6 +676,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="4588a4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -716,7 +723,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="39a1be" />
+        <option name="FOREGROUND" value="509ebe" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -725,7 +732,7 @@
       <value>
         <option name="BACKGROUND" value="1d1b08" />
         <option name="EFFECT_COLOR" value="a7a62d" />
-        <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
+        <option name="ERROR_STRIPE_COLOR" value="cac104" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -792,8 +799,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="727a19" />
-        <option name="ERROR_STRIPE_COLOR" value="6c2224" />
+        <option name="EFFECT_COLOR" value="83864c" />
+        <option name="ERROR_STRIPE_COLOR" value="614933" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -873,6 +880,11 @@
     <option name="JADE_FILTER_NAME">
       <value>
         <option name="FOREGROUND" value="ea406f" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="509ebe" />
       </value>
     </option>
     <option name="JAVA_COMMA">
@@ -63488,8 +63500,8 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d2720" />
-        <option name="EFFECT_COLOR" value="5960e" />
-        <option name="ERROR_STRIPE_COLOR" value="6bb11" />
+        <option name="EFFECT_COLOR" value="58e0e" />
+        <option name="ERROR_STRIPE_COLOR" value="6a811" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -63566,7 +63578,7 @@
       <value>
         <option name="BACKGROUND" value="1d1c16" />
         <option name="EFFECT_COLOR" value="a7a62d" />
-        <option name="ERROR_STRIPE_COLOR" value="d7ce04" />
+        <option name="ERROR_STRIPE_COLOR" value="cac104" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
@@ -63618,12 +63630,12 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="c9a400" />
+        <option name="FOREGROUND" value="c9b606" />
       </value>
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="cb54bd" />
+        <option name="FOREGROUND" value="d469bc" />
       </value>
     </option>
     <option name="round bracket level 4">
@@ -63638,7 +63650,7 @@
     </option>
     <option name="square bracket level 3">
       <value>
-        <option name="FOREGROUND" value="cb54bd" />
+        <option name="FOREGROUND" value="cb6dbd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
