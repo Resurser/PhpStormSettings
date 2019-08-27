@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-26T16:36:16</property>
+    <property name="modified">2019-08-27T04:56:22</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -155,20 +155,20 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="b0b8be" />
+        <option name="FOREGROUND" value="79bdc7" />
         <option name="BACKGROUND" value="314d4e" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="80c7c8" />
+        <option name="FOREGROUND" value="30d3d4" />
         <option name="BACKGROUND" value="2d6469" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="818265" />
-        <option name="BACKGROUND" value="3e3e40" />
+        <option name="FOREGROUND" value="7a8285" />
+        <option name="BACKGROUND" value="1c3f42" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
