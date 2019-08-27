@@ -71,7 +71,6 @@
     <filter name="TODO">
       <pattern index="2" />
     </filter>
-    <filter name="ALARM" />
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
