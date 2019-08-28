@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Linters" />
     <notification groupId="Quokka Notifications" displayType="NONE" />
     <notification groupId="Settings Error" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" />
