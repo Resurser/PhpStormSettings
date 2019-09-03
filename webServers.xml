@@ -33,6 +33,9 @@
       <webServer id="d0925061-4ff1-4189-96e1-374054290d0b" name="woweb" url="http://woweb.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fba6a0b7-3187-45ed-a179-796c483ea847" name="need4study" url="http://need4study.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
