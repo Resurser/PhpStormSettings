@@ -155,13 +155,12 @@
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="PROPERTY_PREFIX" value="__" />
-    <option name="FILE_NAME_STYLE" value="MIXED" />
+    <option name="FILE_NAME_STYLE" value="SNAKE_CASE" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
-    <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
@@ -553,6 +552,7 @@
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
@@ -560,7 +560,6 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
