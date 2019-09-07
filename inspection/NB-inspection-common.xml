@@ -45,13 +45,14 @@
   <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssOptimizeSimilarProperties" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="myCustomPropertiesEnabled" value="false" />
+    <option name="myCustomPropertiesEnabled" value="true" />
     <option name="myIgnoreVendorSpecificProperties" value="true" />
     <option name="myCustomPropertiesList">
       <value>
-        <list size="2">
+        <list size="3">
           <item index="0" class="java.lang.String" itemvalue="text-rendering" />
           <item index="1" class="java.lang.String" itemvalue="transition-transform" />
+          <item index="2" class="java.lang.String" itemvalue="rotate" />
         </list>
       </value>
     </option>
