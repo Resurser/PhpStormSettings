@@ -7,6 +7,7 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="PARAMETER_INFO_DELAY" value="6000" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="SMART_BACKSPACE" value="2" />
