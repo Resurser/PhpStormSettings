@@ -2,10 +2,14 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="XML" />
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
+        <added pattern="*.obj(*)" />
         <removed pattern="" />
       </blacklist>
+      <blacklist language="YAML" />
+      <blacklist language="SQL" />
     </blacklists>
   </component>
 </application>
