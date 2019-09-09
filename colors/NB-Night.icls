@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-30T19:21:21</property>
+    <property name="modified">2019-09-09T11:00:01</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,17 +11,17 @@
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
     <option name="BORDER_LINES_COLOR" value="3c3f41" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="28282b" />
+    <option name="CARET_ROW_COLOR" value="21242b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="7e0505" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
-    <option name="DOCUMENTATION_COLOR" value="242c2d" />
-    <option name="ERROR_HINT" value="2e1115" />
+    <option name="DOCUMENTATION_COLOR" value="2d2a21" />
+    <option name="ERROR_HINT" value="371815" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
-    <option name="GUTTER_BACKGROUND" value="353d3f" />
+    <option name="GUTTER_BACKGROUND" value="323a3c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="ec3fa7" />
@@ -29,13 +29,13 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
     <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
     <option name="INDENT_GUIDE" value="11363b" />
-    <option name="INFORMATION_HINT" value="242c2d" />
-    <option name="LINE_NUMBERS_COLOR" value="29bbc0" />
+    <option name="INFORMATION_HINT" value="152a37" />
+    <option name="LINE_NUMBERS_COLOR" value="2ebebd" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
     <option name="MODIFIED_LINES_COLOR" value="24369" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
-    <option name="QUESTION_HINT" value="282819" />
+    <option name="QUESTION_HINT" value="373623" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
     <option name="QUOKKA.ERROR_SOURCE" value="430421" />
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
@@ -43,26 +43,26 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="242c2d" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="303030" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="5b2721" />
+    <option name="RIGHT_MARGIN_COLOR" value="632517" />
     <option name="SELECTED_INDENT_GUIDE" value="40adb8" />
-    <option name="SELECTED_TEARLINE_COLOR" value="42cec6" />
+    <option name="SELECTED_TEARLINE_COLOR" value="59cddb" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
     <option name="SELECTION_FOREGROUND" value="aac5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ee8b97" />
-    <option name="ScrollBar.hoverThumbColor" value="e1faf8ac" />
-    <option name="ScrollBar.thumbColor" value="d4d9dc64" />
-    <option name="TEARLINE_COLOR" value="1f615d" />
-    <option name="TOOLTIP" value="242c2d" />
+    <option name="ScrollBar.hoverThumbColor" value="faf53cac" />
+    <option name="ScrollBar.thumbColor" value="e8fcff41" />
+    <option name="TEARLINE_COLOR" value="26545a" />
+    <option name="TOOLTIP" value="303030" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3314c" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="200535" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
-    <option name="VISUAL_INDENT_GUIDE" value="2c2e2e" />
+    <option name="VISUAL_INDENT_GUIDE" value="36351e" />
     <option name="WHITESPACES" value="3f4037" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c3f41" />
   </colors>
@@ -201,7 +201,8 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="EFFECT_COLOR" value="1e8284" />
+        <option name="BACKGROUND" value="303030" />
+        <option name="EFFECT_COLOR" value="299b97" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -689,10 +690,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3d716c" />
-        <option name="BACKGROUND" value="16262a" />
+        <option name="FOREGROUND" value="2b8770" />
+        <option name="BACKGROUND" value="f1e12" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="294446" />
+        <option name="EFFECT_COLOR" value="2b8770" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -837,20 +838,21 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="385657" />
-        <option name="BACKGROUND" value="5163a" />
+        <option name="FOREGROUND" value="535457" />
+        <option name="BACKGROUND" value="20306" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="4a8661" />
-        <option name="BACKGROUND" value="153a48" />
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="BACKGROUND" value="324e4f" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="3b7c7c" />
-        <option name="BACKGROUND" value="153a48" />
+        <option name="FOREGROUND" value="2fa5a3" />
+        <option name="BACKGROUND" value="14c5b" />
+        <option name="EFFECT_COLOR" value="8e959a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">

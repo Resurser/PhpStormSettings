@@ -5,9 +5,10 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="115" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="90" />
+  <option name="SOFT_MARGINS" value="105" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
