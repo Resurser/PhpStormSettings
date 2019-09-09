@@ -3,13 +3,13 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-09T15:22:23</property>
+    <property name="modified">2019-09-09T17:56:52</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="26415" />
+    <option name="ADDED_LINES_COLOR" value="30643a" />
     <option name="ANNOTATIONS_COLOR" value="88bfbd" />
-    <option name="BORDER_LINES_COLOR" value="3c3f41" />
+    <option name="BORDER_LINES_COLOR" value="202223" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="21242b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -33,7 +33,7 @@
     <option name="LINE_NUMBERS_COLOR" value="2ebebd" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
-    <option name="MODIFIED_LINES_COLOR" value="24369" />
+    <option name="MODIFIED_LINES_COLOR" value="235f69" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
     <option name="QUESTION_HINT" value="373623" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
@@ -64,7 +64,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
     <option name="VISUAL_INDENT_GUIDE" value="36351e" />
     <option name="WHITESPACES" value="3f4037" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c3f41" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
