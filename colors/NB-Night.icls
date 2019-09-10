@@ -3,17 +3,17 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-10T03:39:57</property>
+    <property name="modified">2019-09-10T04:49:30</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="30643a" />
-    <option name="ANNOTATIONS_COLOR" value="88bfbd" />
-    <option name="BORDER_LINES_COLOR" value="202223" />
+    <option name="ADDED_LINES_COLOR" value="1a901d" />
+    <option name="ANNOTATIONS_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="21242b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DELETED_LINES_COLOR" value="7e0505" />
+    <option name="DELETED_LINES_COLOR" value="db9d03" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
@@ -28,12 +28,12 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="561bf8" />
     <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
     <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
-    <option name="INDENT_GUIDE" value="11363b" />
+    <option name="INDENT_GUIDE" value="13323b" />
     <option name="INFORMATION_HINT" value="303030" />
     <option name="LINE_NUMBERS_COLOR" value="2ebebd" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
-    <option name="MODIFIED_LINES_COLOR" value="235f69" />
+    <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
     <option name="QUESTION_HINT" value="152a37" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
@@ -45,7 +45,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
     <option name="RECENT_LOCATIONS_SELECTION" value="303030" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="632517" />
+    <option name="RIGHT_MARGIN_COLOR" value="8d6c07" />
     <option name="SELECTED_INDENT_GUIDE" value="40adb8" />
     <option name="SELECTED_TEARLINE_COLOR" value="59cddb" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
@@ -57,14 +57,14 @@
     <option name="ScrollBar.thumbColor" value="e8fcff41" />
     <option name="TEARLINE_COLOR" value="26545a" />
     <option name="TOOLTIP" value="303030" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="53d3f" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="3314c" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="31534" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="200535" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="d0528" />
-    <option name="VISUAL_INDENT_GUIDE" value="36351e" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="3f4037" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="494c4f" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -690,10 +690,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2b8770" />
-        <option name="BACKGROUND" value="f1e12" />
+        <option name="FOREGROUND" value="206651" />
+        <option name="BACKGROUND" value="161e1a" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="2b8770" />
+        <option name="EFFECT_COLOR" value="1e5f4f" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
