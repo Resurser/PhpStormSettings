@@ -147,7 +147,7 @@
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
-    <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_QUOTE_STYLE" value="None" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
