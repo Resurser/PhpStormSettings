@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-09T17:56:52</property>
+    <property name="modified">2019-09-10T03:39:57</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -17,8 +17,8 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
-    <option name="DOCUMENTATION_COLOR" value="2d2a21" />
-    <option name="ERROR_HINT" value="371815" />
+    <option name="DOCUMENTATION_COLOR" value="282c2d" />
+    <option name="ERROR_HINT" value="341d12" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="164141" />
     <option name="GUTTER_BACKGROUND" value="323a3c" />
@@ -29,13 +29,13 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
     <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
     <option name="INDENT_GUIDE" value="11363b" />
-    <option name="INFORMATION_HINT" value="152a37" />
+    <option name="INFORMATION_HINT" value="303030" />
     <option name="LINE_NUMBERS_COLOR" value="2ebebd" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d0cd41" />
     <option name="METHOD_SEPARATORS_COLOR" value="213a3a" />
     <option name="MODIFIED_LINES_COLOR" value="235f69" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
-    <option name="QUESTION_HINT" value="373623" />
+    <option name="QUESTION_HINT" value="152a37" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
     <option name="QUOKKA.ERROR_SOURCE" value="430421" />
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
@@ -201,8 +201,8 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="BACKGROUND" value="303030" />
-        <option name="EFFECT_COLOR" value="299b97" />
+        <option name="BACKGROUND" value="636363" />
+        <option name="EFFECT_COLOR" value="23827e" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
