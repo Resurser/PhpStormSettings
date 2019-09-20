@@ -60,12 +60,12 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="([!]{3,})(.*?)[!]{3,}">
-      <option name="FOREGROUND" value="257fc2" />
-      <option name="BACKGROUND" value="61e24" />
+    <pattern icon="important" useCustomColors="true" pattern="[!]{2,}(.*?)[!]{2,}">
+      <option name="FOREGROUND" value="3fabb0" />
+      <option name="BACKGROUND" value="142124" />
       <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="1f6f91" />
-      <option name="ERROR_STRIPE_COLOR" value="6486" />
+      <option name="EFFECT_COLOR" value="276b6e" />
+      <option name="ERROR_STRIPE_COLOR" value="348589" />
       <option name="EFFECT_TYPE" value="4" />
     </pattern>
     <filter name="TODO">
