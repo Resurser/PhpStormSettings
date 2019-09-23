@@ -3,16 +3,16 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-21T15:46:59</property>
+    <property name="modified">2019-09-24T00:00:20</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="1a901d" />
-    <option name="ANNOTATIONS_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="21242b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="DELETED_LINES_COLOR" value="db9d03" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
@@ -24,10 +24,10 @@
     <option name="GUTTER_BACKGROUND" value="323a3c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="ec3fa7" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="561bf8" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="ff5eb" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="7ff23" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="e24753" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="652fe5" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="INDENT_GUIDE" value="13323b" />
     <option name="INFORMATION_HINT" value="303030" />
     <option name="LINE_NUMBERS_COLOR" value="2ebebd" />
@@ -57,8 +57,8 @@
     <option name="ScrollBar.thumbColor" value="e8fcff41" />
     <option name="TEARLINE_COLOR" value="26545a" />
     <option name="TOOLTIP" value="303030" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
@@ -134,9 +134,9 @@
     <option name="BRACE_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="48461b" />
+        <option name="BACKGROUND" value="342048" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c2b11c" />
+        <option name="EFFECT_COLOR" value="a961d5" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -144,7 +144,7 @@
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="482234" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="d93f52" />
+        <option name="EFFECT_COLOR" value="d95895" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -178,7 +178,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="463923" />
+        <option name="BACKGROUND" value="2e4131" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -273,7 +273,8 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5babca" />
+        <option name="FOREGROUND" value="2dacb1" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -292,6 +293,7 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="579fbe" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -307,7 +309,7 @@
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a9a900" />
+        <option name="FOREGROUND" value="aeae00" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -447,9 +449,9 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="4ca5c3" />
-        <option name="BACKGROUND" value="112a4c" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="55b1b9" />
+        <option name="BACKGROUND" value="f2644" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -476,7 +478,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c4b03e" />
+        <option name="FOREGROUND" value="c4b63d" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -544,7 +546,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cec67c" />
+        <option name="FOREGROUND" value="cea7cc" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -1040,27 +1042,27 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="986ea6" />
+        <option name="FOREGROUND" value="9f73b3" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d24848" />
+        <option name="FOREGROUND" value="d25459" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="6e6e6e" />
+        <option name="FOREGROUND" value="6f6f6f" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bdc02f" />
+        <option name="FOREGROUND" value="62bfc0" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b69bbb" />
+        <option name="FOREGROUND" value="5ebb64" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -63330,7 +63332,7 @@
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="482c14" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="d68304" />
+        <option name="EFFECT_COLOR" value="d963c9" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
@@ -63652,17 +63654,17 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="c9b606" />
+        <option name="FOREGROUND" value="d2cf06" />
       </value>
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="d469bc" />
+        <option name="FOREGROUND" value="e274d9" />
       </value>
     </option>
     <option name="round bracket level 4">
       <value>
-        <option name="FOREGROUND" value="69b7c1" />
+        <option name="FOREGROUND" value="4fcdd0" />
       </value>
     </option>
     <option name="square bracket level 2">

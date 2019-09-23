@@ -1,0 +1,11 @@
+<application>
+  <component name="InlayHintsSettings">
+    <settingsMapElement>
+      <JavaScript.js.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="3" />
+        </Settings>
+      </JavaScript.js.chain.hints>
+    </settingsMapElement>
+  </component>
+</application>
