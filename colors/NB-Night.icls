@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-24T02:00:12</property>
+    <property name="modified">2019-09-25T16:22:07</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -12,7 +12,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="21242b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="db9d03" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
@@ -20,7 +20,7 @@
     <option name="DOCUMENTATION_COLOR" value="282c2d" />
     <option name="ERROR_HINT" value="341d12" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="848154" />
     <option name="GUTTER_BACKGROUND" value="323a3c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
@@ -52,7 +52,7 @@
     <option name="SELECTION_FOREGROUND" value="aac5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="44ee02" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="ee09dd" />
     <option name="ScrollBar.hoverThumbColor" value="" />
     <option name="ScrollBar.thumbColor" value="" />
     <option name="TEARLINE_COLOR" value="26545a" />
@@ -178,7 +178,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e4131" />
+        <option name="BACKGROUND" value="411412" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -261,7 +261,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d2644c" />
+        <option name="FOREGROUND" value="d75145" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -287,8 +287,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="2dacb1" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="5bbdc1" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -306,12 +305,12 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="579fbe" />
+        <option name="FOREGROUND" value="30bdc1" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="5dbe97" />
+        <option name="FOREGROUND" value="8591be" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -707,10 +706,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="227d5b" />
-        <option name="BACKGROUND" value="161e1a" />
+        <option name="FOREGROUND" value="2e8b6a" />
+        <option name="BACKGROUND" value="202c26" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="153f30" />
+        <option name="EFFECT_COLOR" value="194c3a" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -771,9 +770,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1a1807" />
-        <option name="EFFECT_COLOR" value="a7a62d" />
-        <option name="ERROR_STRIPE_COLOR" value="cac104" />
+        <option name="BACKGROUND" value="211e09" />
+        <option name="EFFECT_COLOR" value="bfb033" />
+        <option name="ERROR_STRIPE_COLOR" value="d8cf04" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -1062,12 +1061,12 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d2644c" />
+        <option name="FOREGROUND" value="d75145" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="6e6e6e" />
+        <option name="FOREGROUND" value="7c7c7c" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -1082,7 +1081,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bf7c00" />
+        <option name="FOREGROUND" value="c98200" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -63620,8 +63619,8 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d1c16" />
-        <option name="EFFECT_COLOR" value="a7a62d" />
-        <option name="ERROR_STRIPE_COLOR" value="cac104" />
+        <option name="EFFECT_COLOR" value="bfb033" />
+        <option name="ERROR_STRIPE_COLOR" value="d8cf04" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
