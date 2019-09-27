@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="Open EUSign-JS manual" description="Open EUSign JS library manual" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="C:\Program Files\SumatraPDF\SumatraPDF.exe" />
-      <option name="PARAMETERS" value="&quot;d:\web.server\domains\instaco\.docs\manuals\EUSignJavaScriptAppendixJ.pdf&quot;" />
-      <option name="WORKING_DIRECTORY" value="C:/Program Files/SumatraPDF" />
-    </exec>
-  </tool>
-</toolSet>
