@@ -2,7 +2,6 @@
   <option name="myName" value="NB_inspection__n4s" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="BadExpressionStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -23,7 +22,7 @@
   </inspection_tool>
   <inspection_tool class="CsvValidation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ES6ConvertVarToLetConst" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="configuration">
       <list>
