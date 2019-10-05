@@ -280,11 +280,14 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
-    <option name="LINK_WEIGHT" value="4" />
-    <option name="THROWS_WEIGHT" value="3" />
-    <option name="PARAM_WEIGHT" value="1" />
-    <option name="RETURN_WEIGHT" value="2" />
-    <option name="VAR_WEIGHT" value="0" />
+    <option name="LINK_WEIGHT" value="7" />
+    <option name="THROWS_WEIGHT" value="5" />
+    <option name="PARAM_WEIGHT" value="3" />
+    <option name="RETURN_WEIGHT" value="4" />
+    <option name="METHOD_WEIGHT" value="1" />
+    <option name="PROPERTY_WEIGHT" value="0" />
+    <option name="SEE_WEIGHT" value="6" />
+    <option name="VAR_WEIGHT" value="2" />
     <option name="GROUP_USE_WRAP" value="1" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
@@ -299,9 +302,8 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
-    <option name="PHPDOC_USE_FQCN" value="true" />
+    <option name="NULL_TYPE_POSITION" value="DONT_FORCE" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
-    <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
@@ -695,7 +697,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -706,25 +707,26 @@
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
-    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
@@ -975,13 +977,6 @@
         <section>
           <rule>
             <match>
-              <TRAIT>true</TRAIT>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
               <INTERFACE>true</INTERFACE>
             </match>
           </rule>
@@ -990,6 +985,13 @@
           <rule>
             <match>
               <CLASS>true</CLASS>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <TRAIT>true</TRAIT>
             </match>
           </rule>
         </section>

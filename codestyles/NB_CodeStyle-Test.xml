@@ -1,17 +1,17 @@
-<code_scheme name="NB_CodeStyle_tmp" version="173">
+<code_scheme name="NB_CodeStyle-Test" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="115" />
+  <option name="RIGHT_MARGIN" value="110" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="105" />
+  <option name="SOFT_MARGINS" value="110" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
@@ -145,9 +145,10 @@
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,DOCTYPE" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
-    <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_QUOTE_STYLE" value="None" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
@@ -173,6 +174,9 @@
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
   <LessCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </LessCodeStyleSettings>
   <MSSQLCodeStyleSettings version="2">
@@ -267,8 +271,6 @@
   </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
-    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="CONCAT_SPACES" value="false" />
@@ -276,6 +278,9 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="PHPDOC_PARAM_SPACES_BETWEEN_TAG_AND_TYPE" value="2" />
+    <option name="PHPDOC_PARAM_SPACES_BETWEEN_TYPE_AND_NAME" value="2" />
+    <option name="PHPDOC_PARAM_SPACES_BETWEEN_NAME_AND_DESCRIPTION" value="2" />
     <option name="LINK_WEIGHT" value="4" />
     <option name="THROWS_WEIGHT" value="3" />
     <option name="PARAM_WEIGHT" value="1" />
@@ -285,14 +290,13 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
-    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACES_WITHIN_SHORT_ECHO_TAGS" value="false" />
-    <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
@@ -368,6 +372,8 @@
   </SassCodeStyleSettings>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
@@ -470,6 +476,18 @@
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="DB2">
     <indentOptions>
@@ -677,28 +695,26 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="80" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
@@ -708,7 +724,7 @@
     <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />
@@ -811,6 +827,14 @@
         <group>
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>BY_NAME</order>
+        </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
         </group>
       </groups>
       <rules>
@@ -961,13 +985,6 @@
         <section>
           <rule>
             <match>
-              <TRAIT>true</TRAIT>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
               <INTERFACE>true</INTERFACE>
             </match>
           </rule>
@@ -976,6 +993,13 @@
           <rule>
             <match>
               <CLASS>true</CLASS>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <TRAIT>true</TRAIT>
             </match>
           </rule>
         </section>
@@ -1008,6 +1032,18 @@
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
