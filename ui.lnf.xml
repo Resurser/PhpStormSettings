@@ -20,6 +20,7 @@
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="true" />
     <option name="SORT_TABS_ALPHABETICALLY" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
