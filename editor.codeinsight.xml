@@ -15,8 +15,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
-    <option name="AUTOREPARSE_DELAY" value="450" />
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="AUTOREPARSE_DELAY" value="350" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">

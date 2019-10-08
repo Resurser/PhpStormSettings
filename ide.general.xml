@@ -21,5 +21,6 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>

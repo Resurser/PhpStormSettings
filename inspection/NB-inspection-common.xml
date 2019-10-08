@@ -496,6 +496,7 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="SenselessCommaInArrayDefinitionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SenselessProxyMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="TYPO" enabled_by_default="false" />
