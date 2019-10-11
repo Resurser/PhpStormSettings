@@ -39,6 +39,9 @@
       <webServer id="98443de4-b509-44a3-9bae-ba420746316f" name="poidem.local" url="http://poidem.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="41c26848-624a-4d72-a7ac-8adb2ec33dd1" name="shop.mycona.local" url="http://shop.mycona.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
