@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.org/BreadcrumbList" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/fd039187_BreadcrumbList.html" />
+    <resource url="http://schema.org/ListItem" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/f635c397_ListItem.html" />
+    <resource url="https://schema.org/ListItem" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/43e307ba_ListItem.html" />
+    <resource url="https://schema.org/WebPage" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/1f39effa_WebPage.html" />
+  </component>
+</application>
