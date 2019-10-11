@@ -1,5 +1,25 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="HideIgnoredFiles" is_action="true" action_type="-1" position="42">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Ignore.TemplateGroup" is_group="true" action_type="-1" position="41">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Ignore.UnignoreGroup" is_group="true" action_type="-1" position="40">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Ignore.IgnoreGroup" is_group="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -8,6 +28,31 @@
     <group value="ShowErrorDescription" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Ignore.New" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value=".ignore" is_group="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="35">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value=".ignore" is_group="true" action_type="1" position="36">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="37">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
