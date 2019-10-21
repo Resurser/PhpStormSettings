@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-22T00:54:35</property>
+    <property name="modified">2019-10-22T01:49:41</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -570,7 +570,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="aac858" />
+        <option name="FOREGROUND" value="b2cf40" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -580,7 +580,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="d3d761" />
+        <option name="FOREGROUND" value="cd9439" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -63713,7 +63713,7 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="d6dc37" />
+        <option name="FOREGROUND" value="d0bb28" />
       </value>
     </option>
     <option name="round bracket level 3">
@@ -63728,7 +63728,7 @@
     </option>
     <option name="square bracket level 2">
       <value>
-        <option name="FOREGROUND" value="d6dc37" />
+        <option name="FOREGROUND" value="d0bb28" />
       </value>
     </option>
     <option name="square bracket level 3">
