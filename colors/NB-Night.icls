@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-22T00:39:58</property>
+    <property name="modified">2019-10-22T00:54:35</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -438,7 +438,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="987fcc" />
+        <option name="FOREGROUND" value="a284d2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -570,7 +570,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="aec877" />
+        <option name="FOREGROUND" value="aac858" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
