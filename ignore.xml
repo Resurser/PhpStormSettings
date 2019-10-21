@@ -31,7 +31,10 @@
       <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
     <userTemplates>
-      <template name="Common">dist/</template>
+      <template name="Common">dist/
+.idea
+.docs
+node_modules/</template>
     </userTemplates>
   </component>
 </application>
