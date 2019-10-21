@@ -266,6 +266,7 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
+  <inspection_tool class="LongInheritanceChainInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -418,7 +419,6 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="40" />
   </inspection_tool>
-  <inspection_tool class="PhpVariableVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PointlessArithmeticExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PostCssCustomMedia" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PostCssCustomProperties" enabled="false" level="WARNING" enabled_by_default="false" />
