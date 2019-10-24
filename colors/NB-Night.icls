@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-24T18:43:46</property>
+    <property name="modified">2019-10-25T01:21:58</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -502,7 +502,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d2c63e" />
+        <option name="FOREGROUND" value="cdbb4f" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -565,12 +565,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="7ec8bd" />
+        <option name="FOREGROUND" value="73bdc8" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="e5e6a1" />
+        <option name="FOREGROUND" value="d7d38d" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -585,7 +585,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="b298b4" />
+        <option name="FOREGROUND" value="828fb4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -614,7 +614,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="5eb962" />
+        <option name="FOREGROUND" value="59be62" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -811,9 +811,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="211e09" />
-        <option name="EFFECT_COLOR" value="bfb033" />
-        <option name="ERROR_STRIPE_COLOR" value="d8cf04" />
+        <option name="BACKGROUND" value="2c2307" />
+        <option name="EFFECT_COLOR" value="9a9b30" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c004" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -63587,7 +63587,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d2720" />
-        <option name="EFFECT_COLOR" value="58e0e" />
+        <option name="EFFECT_COLOR" value="8208" />
         <option name="ERROR_STRIPE_COLOR" value="6a811" />
       </value>
     </option>
@@ -63663,16 +63663,16 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1d1c16" />
-        <option name="EFFECT_COLOR" value="bfb033" />
-        <option name="ERROR_STRIPE_COLOR" value="d8cf04" />
+        <option name="BACKGROUND" value="2c2307" />
+        <option name="EFFECT_COLOR" value="9a9b30" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c004" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="222434" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="d76005" />
+        <option name="EFFECT_COLOR" value="d76c24" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
