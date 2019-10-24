@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-22T16:39:12</property>
+    <property name="modified">2019-10-24T10:32:18</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -415,12 +415,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e1a13c" />
+        <option name="FOREGROUND" value="e192c4" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="e18450" />
+        <option name="FOREGROUND" value="e1a140" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -481,7 +481,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="d5b746" />
+        <option name="FOREGROUND" value="d5b33b" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -502,7 +502,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ccb648" />
+        <option name="FOREGROUND" value="d2c63e" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -512,7 +512,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ddac3c" />
+        <option name="FOREGROUND" value="dda638" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -535,7 +535,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e17f6d" />
+        <option name="FOREGROUND" value="d28e6a" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -565,22 +565,22 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="77b1c8" />
+        <option name="FOREGROUND" value="7ec8bd" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b2cf40" />
+        <option name="FOREGROUND" value="e5e6a1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d29f38" />
+        <option name="FOREGROUND" value="d3a774" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="cd9439" />
+        <option name="FOREGROUND" value="cdad45" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -606,7 +606,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ddac3c" />
+        <option name="FOREGROUND" value="dda83e" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="644d1c" />
         <option name="EFFECT_TYPE" value="1" />
@@ -627,7 +627,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="c998cd" />
+        <option name="FOREGROUND" value="d29ccf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -63713,12 +63713,12 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="d0bb28" />
+        <option name="FOREGROUND" value="d7cd2e" />
       </value>
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="e68ce0" />
+        <option name="FOREGROUND" value="e69450" />
       </value>
     </option>
     <option name="round bracket level 4">
@@ -63733,7 +63733,7 @@
     </option>
     <option name="square bracket level 3">
       <value>
-        <option name="FOREGROUND" value="e68ce0" />
+        <option name="FOREGROUND" value="89bfe6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

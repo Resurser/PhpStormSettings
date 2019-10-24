@@ -9,9 +9,6 @@
           <option name="postfix" value="]" />
         </DecorationPartConfig>
         <DecorationPartConfig>
-          <option name="type" value="LOCATION" />
-        </DecorationPartConfig>
-        <DecorationPartConfig>
           <option name="type" value="STATUS" />
         </DecorationPartConfig>
         <DecorationPartConfig>
