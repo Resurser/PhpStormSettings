@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-25T01:21:58</property>
+    <property name="modified">2019-10-25T02:27:44</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -241,7 +241,7 @@
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4d88d8" />
+        <option name="FOREGROUND" value="5c96d8" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
@@ -251,12 +251,12 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="2dd4ce" />
+        <option name="FOREGROUND" value="6bd2d1" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="515151" />
+        <option name="FOREGROUND" value="5a5a5a" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -282,7 +282,7 @@
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c85cc8" />
+        <option name="FOREGROUND" value="c675c8" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -326,9 +326,9 @@
         <option name="FOREGROUND" value="aeae00" />
       </value>
     </option>
-    <option name="CSS.IDENT">
+    <option name="CSS.CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="e18972" />
+        <option name="FOREGROUND" value="c88b92" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -339,7 +339,7 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e19241" />
+        <option name="FOREGROUND" value="d28e59" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -502,7 +502,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="cdbb4f" />
+        <option name="FOREGROUND" value="c8be61" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -535,7 +535,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d28e6a" />
+        <option name="FOREGROUND" value="c8906f" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -1097,7 +1097,7 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9f73b3" />
+        <option name="FOREGROUND" value="a781b3" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
