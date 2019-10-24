@@ -9,6 +9,11 @@
     </option>
     <option name="nativeLanguage" value="Ukrainian" />
     <option name="enabledSpellcheck" value="true" />
+    <option name="userWords">
+      <set>
+        <option value="signinfo" />
+      </set>
+    </option>
     <option name="userDisabledRules">
       <set>
         <option value="COMMA_PARENTHESIS_WHITESPACE" />
