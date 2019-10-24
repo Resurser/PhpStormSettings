@@ -4,12 +4,12 @@
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
-          <option name="type" value="LOCATION" />
-        </DecorationPartConfig>
-        <DecorationPartConfig>
           <option name="type" value="BRANCH" />
           <option name="prefix" value="[" />
           <option name="postfix" value="]" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="LOCATION" />
         </DecorationPartConfig>
         <DecorationPartConfig>
           <option name="type" value="STATUS" />
