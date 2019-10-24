@@ -11,6 +11,7 @@
     <option name="enabledSpellcheck" value="true" />
     <option name="userWords">
       <set>
+        <option value="shareinfo" />
         <option value="signinfo" />
       </set>
     </option>
