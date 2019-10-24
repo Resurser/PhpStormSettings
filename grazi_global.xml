@@ -9,6 +9,11 @@
     </option>
     <option name="nativeLanguage" value="Ukrainian" />
     <option name="enabledSpellcheck" value="true" />
+    <option name="userDisabledRules">
+      <set>
+        <option value="COMMA_PARENTHESIS_WHITESPACE" />
+      </set>
+    </option>
     <option name="lastSeenVersion" value="2019.2-4.stable" />
   </component>
 </application>
