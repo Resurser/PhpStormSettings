@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-24T10:32:18</property>
+    <property name="modified">2019-10-24T12:05:35</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -30,8 +30,8 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="INDENT_GUIDE" value="13323b" />
     <option name="INFORMATION_HINT" value="303030" />
-    <option name="LINE_NUMBERS_COLOR" value="5cd6dc" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dcbb43" />
+    <option name="LINE_NUMBERS_COLOR" value="65cad2" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dcd845" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
