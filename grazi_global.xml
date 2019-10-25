@@ -15,6 +15,7 @@
         <option value="mydisk" />
         <option value="shareinfo" />
         <option value="signinfo" />
+        <option value="інфо" />
       </set>
     </option>
     <option name="userDisabledRules">
