@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-25T05:04:33</property>
+    <property name="modified">2019-10-25T05:25:55</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -63720,17 +63720,17 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="d7cd2e" />
+        <option name="FOREGROUND" value="d1d747" />
       </value>
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="e69450" />
+        <option name="FOREGROUND" value="e6a958" />
       </value>
     </option>
     <option name="round bracket level 4">
       <value>
-        <option name="FOREGROUND" value="7bbde1" />
+        <option name="FOREGROUND" value="cb8ee1" />
       </value>
     </option>
     <option name="square bracket level 2">
@@ -63740,7 +63740,7 @@
     </option>
     <option name="square bracket level 3">
       <value>
-        <option name="FOREGROUND" value="89bfe6" />
+        <option name="FOREGROUND" value="cb8ee1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
