@@ -11,6 +11,7 @@
     <option name="enabledSpellcheck" value="true" />
     <option name="userWords">
       <set>
+        <option value="'надіслано" />
         <option value="cпец" />
         <option value="mydisk" />
         <option value="shareinfo" />
