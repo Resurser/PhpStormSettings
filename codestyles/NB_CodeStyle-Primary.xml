@@ -158,7 +158,7 @@
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
