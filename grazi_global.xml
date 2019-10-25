@@ -18,6 +18,7 @@
         <option value="mydisk" />
         <option value="shareinfo" />
         <option value="signinfo" />
+        <option value="toolbal" />
         <option value="інфо" />
       </set>
     </option>
