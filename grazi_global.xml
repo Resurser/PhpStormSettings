@@ -25,6 +25,7 @@
     <option name="userDisabledRules">
       <set>
         <option value="COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="UPPERCASE_SENTENCE_START" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.2-4.stable" />
