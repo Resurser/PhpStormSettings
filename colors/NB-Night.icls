@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-25T23:49:28</property>
+    <property name="modified">2019-10-27T16:42:46</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -509,7 +509,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c8c151" />
+        <option name="FOREGROUND" value="b9b34b" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -519,7 +519,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="dda638" />
+        <option name="FOREGROUND" value="cd8e30" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -542,7 +542,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c88740" />
+        <option name="FOREGROUND" value="c87f45" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -577,7 +577,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="c8c031" />
+        <option name="FOREGROUND" value="bec155" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -613,7 +613,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="dda83e" />
+        <option name="FOREGROUND" value="cd8e30" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="644d1c" />
         <option name="EFFECT_TYPE" value="1" />
