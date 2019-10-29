@@ -64,7 +64,7 @@
       <option name="FOREGROUND" value="35aaa2" />
       <option name="BACKGROUND" value="142828" />
       <option name="EFFECT_COLOR" value="208787" />
-      <option name="ERROR_STRIPE_COLOR" value="55d5dc" />
+      <option name="ERROR_STRIPE_COLOR" value="20aaaa" />
     </pattern>
     <filter name="Attention">
       <pattern index="2" />
