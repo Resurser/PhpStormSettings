@@ -1,10 +1,6 @@
 <application>
-  <component name="CssEmmetOptions">
-    <option name="fuzzySearchEnabled" value="false" />
-  </component>
   <component name="EmmetOptions">
     <option name="addEditPointAtTheEndOfTemplate" value="true" />
-    <option name="emmetExpandShortcut" value="67" />
     <option name="filtersEnabledByDefault">
       <set>
         <option value="t" />

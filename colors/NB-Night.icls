@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-27T16:42:46</property>
+    <property name="modified">2019-10-29T05:37:06</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -17,8 +17,8 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
-    <option name="DOCUMENTATION_COLOR" value="282c2d" />
-    <option name="ERROR_HINT" value="341d12" />
+    <option name="DOCUMENTATION_COLOR" value="1f1f28" />
+    <option name="ERROR_HINT" value="281111" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="847c3c" />
     <option name="GUTTER_BACKGROUND" value="" />
@@ -29,13 +29,13 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="INDENT_GUIDE" value="13323b" />
-    <option name="INFORMATION_HINT" value="303030" />
+    <option name="INFORMATION_HINT" value="161623" />
     <option name="LINE_NUMBERS_COLOR" value="6baaaa" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dcdc63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
-    <option name="QUESTION_HINT" value="152a37" />
+    <option name="QUESTION_HINT" value="1f1628" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
     <option name="QUOKKA.ERROR_SOURCE" value="430421" />
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
@@ -43,7 +43,7 @@
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
     <option name="READONLY_BACKGROUND" value="200e0d" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="303030" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="8d6c07" />
     <option name="SELECTED_INDENT_GUIDE" value="40adb8" />
@@ -56,7 +56,7 @@
     <option name="ScrollBar.hoverThumbColor" value="" />
     <option name="ScrollBar.thumbColor" value="" />
     <option name="TEARLINE_COLOR" value="26545a" />
-    <option name="TOOLTIP" value="303030" />
+    <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
@@ -200,8 +200,7 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="BACKGROUND" value="636363" />
-        <option name="EFFECT_COLOR" value="23827e" />
+        <option name="BACKGROUND" value="1f1f28" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -818,8 +817,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="191206" />
-        <option name="EFFECT_COLOR" value="9a9b30" />
+        <option name="BACKGROUND" value="231b06" />
+        <option name="EFFECT_COLOR" value="858629" />
         <option name="ERROR_STRIPE_COLOR" value="c8c004" />
       </value>
     </option>
@@ -63492,7 +63491,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e4713" />
+        <option name="BACKGROUND" value="e4b10" />
         <option name="ERROR_STRIPE_COLOR" value="89f0e" />
       </value>
     </option>
@@ -63593,8 +63592,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d2720" />
-        <option name="EFFECT_COLOR" value="8208" />
+        <option name="BACKGROUND" value="d280f" />
+        <option name="EFFECT_COLOR" value="57804" />
         <option name="ERROR_STRIPE_COLOR" value="6a811" />
       </value>
     </option>
@@ -63662,24 +63661,24 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5a3503" />
-        <option name="EFFECT_COLOR" value="ffb230" />
-        <option name="ERROR_STRIPE_COLOR" value="bc6300" />
+        <option name="BACKGROUND" value="502d00" />
+        <option name="EFFECT_COLOR" value="ffb01f" />
+        <option name="ERROR_STRIPE_COLOR" value="9b4e00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="191206" />
-        <option name="EFFECT_COLOR" value="9a9b30" />
+        <option name="BACKGROUND" value="231b06" />
+        <option name="EFFECT_COLOR" value="858629" />
         <option name="ERROR_STRIPE_COLOR" value="c8c004" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="222434" />
+        <option name="BACKGROUND" value="1b1123" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="d76c24" />
+        <option name="EFFECT_COLOR" value="dc5265" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

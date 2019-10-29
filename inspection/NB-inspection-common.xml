@@ -217,7 +217,6 @@
   <inspection_tool class="InconsistentQueryBuildInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="IncorrectRandomRangeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="InnerHTMLJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="InvisibleCharacter" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
   </inspection_tool>
