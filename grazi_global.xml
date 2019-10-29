@@ -26,6 +26,7 @@
       <set>
         <option value="COMMA_PARENTHESIS_WHITESPACE" />
         <option value="MORFOLOGIK_RULE_UK_UA" />
+        <option value="RU_UNPAIRED_BRACKETS" />
         <option value="UPPERCASE_SENTENCE_START" />
       </set>
     </option>
