@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-29T09:44:38</property>
+    <property name="modified">2019-10-30T22:12:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="2b2b26" />
+    <option name="CARET_ROW_COLOR" value="1c1c11" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="db9d03" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -53,8 +53,8 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="f9f136" />
-    <option name="ScrollBar.hoverThumbColor" value="" />
-    <option name="ScrollBar.thumbColor" value="" />
+    <option name="ScrollBar.hoverThumbColor" value="33b41" />
+    <option name="ScrollBar.thumbColor" value="252728" />
     <option name="TEARLINE_COLOR" value="26545a" />
     <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
@@ -893,9 +893,9 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="161623" />
+        <option name="BACKGROUND" value="c1818" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="161623" />
+        <option name="ERROR_STRIPE_COLOR" value="131c1c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63587,7 +63587,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ccceba" />
-        <option name="BACKGROUND" value="c0c0c" />
+        <option name="BACKGROUND" value="101010" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
