@@ -148,6 +148,7 @@
   <inspection_tool class="GenericObjectTypeUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HbEmptyBlock" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -500,7 +501,7 @@
   <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="false" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
