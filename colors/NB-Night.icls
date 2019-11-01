@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-30T22:12:12</property>
+    <property name="modified">2019-11-01T22:48:25</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -53,8 +53,8 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="f9f136" />
-    <option name="ScrollBar.hoverThumbColor" value="33b41" />
-    <option name="ScrollBar.thumbColor" value="252728" />
+    <option name="ScrollBar.hoverThumbColor" value="78c9a" />
+    <option name="ScrollBar.thumbColor" value="3c3f41" />
     <option name="TEARLINE_COLOR" value="26545a" />
     <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
