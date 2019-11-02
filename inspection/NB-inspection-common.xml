@@ -83,9 +83,10 @@
     <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
   </inspection_tool>
   <inspection_tool class="DuplicateSectionInFile" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="DuplicatedCode" enabled="true" level="SERVER PROBLEM" enabled_by_default="true">
+  <inspection_tool class="DuplicatedCode" enabled="false" level="SERVER PROBLEM" enabled_by_default="false">
     <Languages>
       <language minSize="165" name="JavaScript" />
+      <language minSize="18" name="Style Sheets" />
     </Languages>
   </inspection_tool>
   <inspection_tool class="Duplicates" enabled="true" level="SERVER PROBLEM" enabled_by_default="true">
