@@ -21,6 +21,7 @@
   <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableInLoopTerminationConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CaseSensitivityServiceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckImageSize" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -40,6 +41,8 @@
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ContainerConstant" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ContainerSettingDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CryptographicallySecureAlgorithmsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CryptographicallySecureRandomnessInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -75,13 +78,6 @@
   <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="CURRENT_FILE" value="true" />
-    <option name="MODULE_WITH_DEPENDENCIES" value="false" />
-    <option name="CHECK_DUPLICATE_VALUES" value="true" />
-    <option name="CHECK_DUPLICATE_KEYS" value="true" />
-    <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
-  </inspection_tool>
   <inspection_tool class="DuplicateSectionInFile" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="DuplicatedCode" enabled="false" level="SERVER PROBLEM" enabled_by_default="false">
     <Languages>
@@ -112,6 +108,7 @@
   </inspection_tool>
   <inspection_tool class="EncryptionInitializationVectorRandomnessInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="EventMethodCall" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_NON_THROWN_EXCEPTIONS" value="true" />
   </inspection_tool>
@@ -141,6 +138,7 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
+  <inspection_tool class="FormTypeAsClassConstant" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FunctionNamingConventionJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_regex" value="[a-z][_A-Za-z]*" />
     <option name="m_minLength" value="3" />
@@ -214,6 +212,7 @@
   <inspection_tool class="IgnoreDuplicateEntry" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IgnoreIncorrectEntry" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ImplicitMagicMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="IncompleteProperty" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="IncompleteThrowStatementsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="InconsistentQueryBuildInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -255,6 +254,7 @@
   </inspection_tool>
   <inspection_tool class="JSValidateJSDoc" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="Json5StandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -279,6 +279,7 @@
   <inspection_tool class="MissingInheritDocInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="MissingIssetImplementationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MissingService" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingSinceTagDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MkdirRaceConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MktimeUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -321,7 +322,9 @@
   </inspection_tool>
   <inspection_tool class="PassingByReferenceCorrectnessInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhingDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpArrayFillCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpArrayFilterCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpArrayMapCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpAssignmentReplaceableWithOperatorAssignmentInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
@@ -332,18 +335,21 @@
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
+  <inspection_tool class="PhpClosureCanBeConvertedToShortArrowFunctionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
   </inspection_tool>
   <inspection_tool class="PhpConstantReassignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpConstructorStyleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpDocFieldTypeMismatchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDocRedundantThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDocSignatureInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpExpressionWithoutClarifyingParenthesesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
@@ -354,6 +360,10 @@
     <option name="STRICT_TYPE_CHECKING" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayFillInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayFilterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayMapInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpMethodMayBeStaticInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpMethodNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_regex" value="[a-z_][A-Za-z\d_]*" />
     <option name="m_minLength" value="2" />
@@ -366,25 +376,28 @@
   <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpParamsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_regex" value="[a-z_][A-Za-z\d_]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="25" />
   </inspection_tool>
-  <inspection_tool class="PhpShortOpenTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpRedundantCatchClauseInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpRedundantClosingTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpRouteMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myIgnoreWhileWithoutBody" value="true" />
     <option name="myIgnoreForWithoutBody" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpTemplateMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpTooManyParametersInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="limit" value="8" />
   </inspection_tool>
-  <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpTranslationDomainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpTranslationKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedCallbackInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="ERROR" enabled_by_default="true">
+  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true">
@@ -400,9 +413,15 @@
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnitCoversFunctionWithoutScopeResolutionOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnitMissingTargetForTestInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpUnitTestsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="SUGGEST_TO_USE_ASSERTSAME" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnnecessaryParenthesesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpUnreachableStatementInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ENABLE_IN_FILE_SCOPE" value="true" />
@@ -420,6 +439,7 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="40" />
   </inspection_tool>
+  <inspection_tool class="PhpWrongCatchClausesOrderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PointlessArithmeticExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PostCssCustomMedia" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PostCssCustomProperties" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -437,6 +457,7 @@
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="RouteSettingDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="Schema" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ScssLintInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -502,7 +523,7 @@
   <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="false" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
@@ -536,10 +557,25 @@
   <inspection_tool class="SuspiciousReturnInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SuspiciousSemicolonInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SwitchContinuationInLoopInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="Symfony2XmlDuplicateParameterKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Symfony2XmlDuplicateServiceKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Symfony2YamlDuplicateParameterKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Symfony2YamlDuplicateServiceKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Symfony2YamlRouteDuplicateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SyntaxError" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="TaggedExtendsInterfaceClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TaskProblemsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TodoComment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="TrailingSpacesInProperty" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigAssetMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigAssetsTagMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigRouteInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigTemplateMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigTranslationDomain" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigTranslationKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigVariableDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TwigVariablePathInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptAbstractClassConstructorCanBeMadeProtected" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -548,6 +584,7 @@
   <inspection_tool class="TypeScriptLibrary" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="TypeScriptPreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TypeScriptSmartCast" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptSuspiciousConstructorParameterAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptUMDGlobal" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -570,6 +607,7 @@
   </inspection_tool>
   <inspection_tool class="UnusedConstructorDependenciesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedGotoLabelInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnusedProperty" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UsageOfSilenceOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VoidExpressionJS" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="VueDataFunction" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -580,12 +618,15 @@
   </inspection_tool>
   <inspection_tool class="WebpackConfigHighlighting" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WithStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="WrongPropertyKeyValueDelimiter" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlDefaultAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlDeprecatedElement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XmlHighlighting" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XmlInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XmlPathReference" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="XmlServiceArgumentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="XmlServiceInstanceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlWrongRootElement" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -599,4 +640,12 @@
   <inspection_tool class="YAMLSchemaValidation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YAMLUnresolvedAlias" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="YAMLUnusedAnchor" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlControllerMethod" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlDeprecatedClasses" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlQuotedEscapedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlServiceArgumentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlUnquotedColon" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="YamlXmlServiceInstanceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
