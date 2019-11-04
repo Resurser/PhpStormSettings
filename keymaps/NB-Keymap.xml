@@ -208,6 +208,7 @@
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
   </action>
+  <action id="ShowFilePath" />
   <action id="ShowGulpTasks">
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
@@ -219,6 +220,9 @@
   <action id="ShowUmlDiagramPopup" />
   <action id="StringManipulation.AlignToColumns">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
