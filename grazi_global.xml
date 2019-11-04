@@ -103,6 +103,7 @@
         <option value="EUPHONY_CONJ_I_Y" />
         <option value="EUPHONY_PREP_O_OB" />
         <option value="EUPHONY_PREP_V_U" />
+        <option value="E_PRIME_LOOSE" />
         <option value="Frazeologizm_nevernij" />
         <option value="GDE_COMMA" />
         <option value="GLAVNAJA_SUT" />
@@ -518,6 +519,7 @@
         <option value="Vo_izbezhanie" />
         <option value="WHITESPACE_RULE" />
         <option value="WORDS_WITH_DASH" />
+        <option value="WORD_CONTAINS_UNDERSCORE" />
         <option value="WORD_REPEAT_RULE" />
         <option value="YASNE_DILO" />
         <option value="YEMNIST_VS_MISTKIST" />
@@ -900,7 +902,6 @@
         <option value="EUPUB_VERIFICATIONS" />
         <option value="EUPUB_VISA" />
         <option value="EXACT_SAME" />
-        <option value="E_PRIME_LOOSE" />
         <option value="E_PRIME_STRICT" />
         <option value="FOR_ALL_INTENTS_AND_PURPOSES" />
         <option value="FOR_THE_MOST_PART" />
@@ -982,7 +983,6 @@
         <option value="WIKIPEDIA_CONTRACTIONS" />
         <option value="WIKIPEDIA_CURRENTLY" />
         <option value="WITH_OR_IN_REFERENCE_OR_REGARD_TO" />
-        <option value="WORD_CONTAINS_UNDERSCORE" />
         <option value="WORLD_AROUND_IT" />
         <option value="WORTHWHILE" />
         <option value="YEAR_20001" />
