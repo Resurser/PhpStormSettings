@@ -42,6 +42,9 @@
       <webServer id="41c26848-624a-4d72-a7ac-8adb2ec33dd1" name="shop.mycona.local" url="http://shop.mycona.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e5b018f5-fbbd-464c-a77b-4be16d7e0040" name="androidp1" url="http://www.androidp1.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
