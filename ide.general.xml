@@ -23,6 +23,5 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
-    <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
   </component>
 </application>
