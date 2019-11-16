@@ -13,4 +13,8 @@
   <action id="QuickList.$Separator$" />
   <action id="ChangesView.Revert" />
   <action id="ChangesView.RemoveDeleted" />
+  <action id="QuickList.$Separator$" />
+  <action id="Ignore.New" />
+  <action id="MarkExcludeRoot" />
+  <action id="MarkAsContentRoot" />
 </list>
