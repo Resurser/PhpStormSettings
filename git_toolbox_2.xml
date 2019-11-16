@@ -5,11 +5,10 @@
       <list>
         <DecorationPartConfig>
           <option name="type" value="BRANCH" />
-          <option name="prefix" value="[" />
-          <option name="postfix" value="]" />
         </DecorationPartConfig>
         <DecorationPartConfig>
           <option name="type" value="STATUS" />
+          <option name="prefix" value=": " />
         </DecorationPartConfig>
         <DecorationPartConfig>
           <option name="type" value="TAGS_ON_HEAD" />
@@ -18,6 +17,9 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="commitDialogCompletionMode" value="ON_DEMAND" />
+    <option name="blameInlineAuthorNameType" value="INITIALS" />
+    <option name="blameStatusAuthorNameType" value="EMAIL_USER" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
