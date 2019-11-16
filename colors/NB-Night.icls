@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-16T09:14:52</property>
+    <property name="modified">2019-11-16T12:59:16</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="1b1f12" />
+    <option name="CARET_ROW_COLOR" value="202220" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="db9d03" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -21,17 +21,17 @@
     <option name="ERROR_HINT" value="281111" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="847c3c" />
-    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="e24753" />
     <option name="HTML_TAG_TREE_LEVEL3" value="652fe5" />
     <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
-    <option name="INDENT_GUIDE" value="13323b" />
+    <option name="INDENT_GUIDE" value="214046" />
     <option name="INFORMATION_HINT" value="161623" />
     <option name="LINE_NUMBERS_COLOR" value="5bb2b4" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dcd92b" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dcb518" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="303131" />
@@ -41,20 +41,20 @@
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
-    <option name="READONLY_BACKGROUND" value="200e0d" />
+    <option name="READONLY_BACKGROUND" value="1e0a08" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2b120e" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="8d6c07" />
-    <option name="SELECTED_INDENT_GUIDE" value="2cb6b8" />
+    <option name="RIGHT_MARGIN_COLOR" value="701e18" />
+    <option name="SELECTED_INDENT_GUIDE" value="50b9c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="59cddb" />
     <option name="SELECTION_BACKGROUND" value="1a4579" />
     <option name="SELECTION_FOREGROUND" value="aac5c8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="f9f136" />
-    <option name="ScrollBar.hoverThumbColor" value="78c9a" />
-    <option name="ScrollBar.thumbColor" value="3c3f41" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="f4f91e" />
+    <option name="ScrollBar.hoverThumbColor" value="" />
+    <option name="ScrollBar.thumbColor" value="" />
     <option name="TEARLINE_COLOR" value="26545a" />
     <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
@@ -126,8 +126,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="233447" />
-        <option name="ERROR_STRIPE_COLOR" value="2593e1" />
+        <option name="BACKGROUND" value="474847" />
+        <option name="ERROR_STRIPE_COLOR" value="a8aaa8" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -634,8 +634,8 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d76157" />
-        <option name="EFFECT_COLOR" value="c6483d" />
+        <option name="FOREGROUND" value="d7755e" />
+        <option name="EFFECT_COLOR" value="e24d3e" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1094,7 +1094,7 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="32bfbf" />
+        <option name="EFFECT_COLOR" value="9f7ebf" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -63487,8 +63487,8 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e4b10" />
-        <option name="ERROR_STRIPE_COLOR" value="89f0e" />
+        <option name="BACKGROUND" value="104311" />
+        <option name="ERROR_STRIPE_COLOR" value="baf0b" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
@@ -63582,15 +63582,15 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="bdb6af" />
-        <option name="BACKGROUND" value="171717" />
+        <option name="FOREGROUND" value="bdbcaf" />
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d280f" />
         <option name="EFFECT_COLOR" value="57804" />
-        <option name="ERROR_STRIPE_COLOR" value="6a811" />
+        <option name="ERROR_STRIPE_COLOR" value="baf0b" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -63672,9 +63672,9 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1b1123" />
+        <option name="BACKGROUND" value="222023" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="dc5265" />
+        <option name="EFFECT_COLOR" value="e6791c" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
