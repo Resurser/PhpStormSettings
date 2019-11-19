@@ -39,7 +39,8 @@
   <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CompactArgumentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConditionalExpressionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ContainerConstant" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ContainerSettingDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -139,9 +140,9 @@
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
   <inspection_tool class="FormTypeAsClassConstant" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="FunctionNamingConventionJS" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][_A-Za-z]*" />
-    <option name="m_minLength" value="3" />
+    <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="GenericObjectTypeUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -238,16 +239,14 @@
   </inspection_tool>
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSJQueryEfficiency" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="JSJQueryEfficiency" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JSSwitchVariableDeclarationIssue" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreNonBlockScope" value="true" />
   </inspection_tool>
   <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSUnresolvedFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="myStrictlyCheckGlobalDefinitions" value="true" />
-  </inspection_tool>
+  <inspection_tool class="JSUnresolvedFunction" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSUnresolvedLibraryURL" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myIgnoreUnusedFunctionParameters" value="true" />
