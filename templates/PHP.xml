@@ -3,7 +3,9 @@
     <context>
       <option name="HTML" value="true" />
       <option name="JADE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
+      <option name="SQL" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
