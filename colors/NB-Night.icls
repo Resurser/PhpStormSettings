@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-20T01:03:53</property>
+    <property name="modified">2019-11-20T01:45:13</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -414,7 +414,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="626a6a" />
+        <option name="FOREGROUND" value="627868" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -430,9 +430,9 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="dc7c97" />
+        <option name="FOREGROUND" value="dc879c" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="693a47" />
+        <option name="EFFECT_COLOR" value="784a55" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -449,26 +449,26 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="626a6a" />
+        <option name="FOREGROUND" value="627868" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="477782" />
+        <option name="FOREGROUND" value="3c7787" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="3a7d67" />
+        <option name="FOREGROUND" value="498056" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="7d7a2f" />
+        <option name="FOREGROUND" value="886436" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -486,7 +486,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="d5b529" />
+        <option name="FOREGROUND" value="e1a246" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -523,9 +523,9 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="dc7c97" />
+        <option name="FOREGROUND" value="dc879c" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="5f3441" />
+        <option name="EFFECT_COLOR" value="784a55" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -553,7 +553,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="677d6d" />
+        <option name="FOREGROUND" value="627868" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -565,7 +565,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c99fdc" />
+        <option name="FOREGROUND" value="dc92a5" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -575,7 +575,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="dcb35c" />
+        <option name="FOREGROUND" value="dca677" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
