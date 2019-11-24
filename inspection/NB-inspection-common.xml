@@ -39,7 +39,9 @@
   <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CompactArgumentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ComposeUnknownKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="ComposeUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="ConditionalExpressionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ContainerConstant" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -77,7 +79,9 @@
   <inspection_tool class="DeprecatedConstructorStyleInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="DisallowWritingIntoStaticPropertiesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DockerFileAddOrCopySemantic" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DockerFileArgumentCount" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="DockerFileAssignments" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="DuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateSectionInFile" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="DuplicatedCode" enabled="false" level="SERVER PROBLEM" enabled_by_default="false">
@@ -90,7 +94,6 @@
     <option name="myFilterOutGeneratedCode" value="true" />
   </inspection_tool>
   <inspection_tool class="ES6BindWithArrowFunction" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ES6CheckImport" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertModuleExportToExport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
@@ -253,9 +256,7 @@
   </inspection_tool>
   <inspection_tool class="JSValidateJSDoc" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="Json5StandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="JsonDuplicatePropertyKeys" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -301,6 +302,7 @@
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="CHECK_FOR_FILES_CONTAINING_BOM" value="true" />
   </inspection_tool>
+  <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonSecureUniqidUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="REPORT_DUPLICATE_CONDITIONS" value="false" />
@@ -452,6 +454,7 @@
   <inspection_tool class="RealpathInSteamContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReferenceMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RepeatedSpace" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
@@ -561,7 +564,6 @@
   <inspection_tool class="Symfony2YamlDuplicateParameterKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Symfony2YamlDuplicateServiceKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Symfony2YamlRouteDuplicateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SyntaxError" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TaggedExtendsInterfaceClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TaskProblemsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -633,12 +635,6 @@
   <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="YAMLDuplicatedKeys" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="YAMLRecursiveAlias" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="YAMLSchemaDeprecation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="YAMLSchemaValidation" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="YAMLUnresolvedAlias" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="YAMLUnusedAnchor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YamlClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YamlControllerMethod" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YamlDeprecatedClasses" enabled="false" level="WARNING" enabled_by_default="false" />
