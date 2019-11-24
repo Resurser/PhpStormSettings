@@ -9,7 +9,6 @@
     <ignoreAction name="React/Convert to functional component" />
     <ignoreAction name="PHP/Convert HEREDOC/NOWDOC to string literal" />
     <ignoreAction name="PHP/Convert array to traditional syntax" />
-    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
     <ignoreAction name="PHP/Swap call arguments" />
     <ignoreAction name="TypeScript/Convert field to parameter property" />
     <ignoreAction name="TypeScript/Convert parameter property to class field" />
@@ -20,5 +19,8 @@
     <ignoreAction name="TypeScript/Make 'private'" />
     <ignoreAction name="TypeScript/Make 'protected'" />
     <ignoreAction name="TypeScript/Make 'public'" />
+    <ignoreAction name="TypeScript/Add explicit enum values" />
+    <ignoreAction name="TypeScript/Disable coloring of type guard narrowed types" />
+    <ignoreAction name="TypeScript/Introduce parameter-properties for unused parameters" />
   </component>
 </application>
