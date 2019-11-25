@@ -75,6 +75,6 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
-    <option name="tagTreeHighlightingOpacity" value="20" />
+    <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
 </application>

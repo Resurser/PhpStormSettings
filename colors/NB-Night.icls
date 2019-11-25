@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-25T02:01:48</property>
+    <property name="modified">2019-11-25T02:49:22</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -31,7 +31,7 @@
     <option name="INDENT_GUIDE" value="1a413a" />
     <option name="INFORMATION_HINT" value="161623" />
     <option name="LINE_NUMBERS_COLOR" value="5c8786" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4fffee" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f0ef3c" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="2c3a3c" />
@@ -545,7 +545,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d28747" />
+        <option name="FOREGROUND" value="e19449" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -63303,10 +63303,10 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
-        <option name="BACKGROUND" value="254962" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="268ba5" />
-        <option name="ERROR_STRIPE_COLOR" value="4053dc" />
+        <option name="BACKGROUND" value="1d394c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2894b0" />
+        <option name="ERROR_STRIPE_COLOR" value="447fdc" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
