@@ -22,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.*css*</mask>
+    <mask>lang.ru*ini</mask>
   </component>
 </application>
