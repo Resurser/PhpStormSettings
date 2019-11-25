@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-24T18:48:03</property>
+    <property name="modified">2019-11-25T02:01:48</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -28,10 +28,10 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="652fe5" />
     <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
-    <option name="INDENT_GUIDE" value="214046" />
+    <option name="INDENT_GUIDE" value="1a413a" />
     <option name="INFORMATION_HINT" value="161623" />
     <option name="LINE_NUMBERS_COLOR" value="5c8786" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f0ef43" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4fffee" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
     <option name="NOTIFICATION_BACKGROUND" value="2c3a3c" />
@@ -46,8 +46,8 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="701e18" />
-    <option name="SELECTED_INDENT_GUIDE" value="50b9c2" />
-    <option name="SELECTED_TEARLINE_COLOR" value="55cdc7" />
+    <option name="SELECTED_INDENT_GUIDE" value="44b4aa" />
+    <option name="SELECTED_TEARLINE_COLOR" value="4fe1d4" />
     <option name="SELECTION_BACKGROUND" value="28466e" />
     <option name="SELECTION_FOREGROUND" value="a3d4d7" />
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
@@ -55,7 +55,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="f4f91e" />
     <option name="ScrollBar.hoverThumbColor" value="2e4247" />
     <option name="ScrollBar.thumbColor" value="2f3032" />
-    <option name="TEARLINE_COLOR" value="435f62" />
+    <option name="TEARLINE_COLOR" value="215047" />
     <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
@@ -63302,11 +63302,11 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e2e2e2" />
-        <option name="BACKGROUND" value="6c2882" />
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="BACKGROUND" value="254962" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="d171d7" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_COLOR" value="268ba5" />
+        <option name="ERROR_STRIPE_COLOR" value="4053dc" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63603,7 +63603,7 @@
         <option name="BACKGROUND" value="243336" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="1b4b55" />
-        <option name="ERROR_STRIPE_COLOR" value="36cac9" />
+        <option name="ERROR_STRIPE_COLOR" value="41ddc3" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
