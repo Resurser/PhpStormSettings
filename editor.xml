@@ -1,4 +1,22 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="PARAMETER_INFO_DELAY" value="6000" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SMART_BACKSPACE" value="2" />
+    <option name="REFORMAT_ON_PASTE" value="4" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
+    <option name="AUTOREPARSE_DELAY" value="350" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="LINE_SPACING" value="1.1" />
@@ -26,7 +44,6 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="30" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="3000" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
@@ -37,7 +54,6 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="InspectionProfileManager">
     <list size="8">
@@ -56,6 +72,9 @@
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
@@ -76,5 +95,8 @@
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="tagTreeHighlightingOpacity" value="15" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>

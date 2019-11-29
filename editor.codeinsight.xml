@@ -1,30 +1,6 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
-    <option name="PARAMETER_INFO_DELAY" value="6000" />
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SMART_BACKSPACE" value="2" />
-    <option name="REFORMAT_ON_PASTE" value="4" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
-    <option name="AUTOREPARSE_DELAY" value="350" />
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
-  </component>
   <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
