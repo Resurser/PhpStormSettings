@@ -86,8 +86,8 @@
   <inspection_tool class="DuplicateSectionInFile" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="DuplicatedCode" enabled="false" level="SERVER PROBLEM" enabled_by_default="false">
     <Languages>
-      <language minSize="165" name="JavaScript" />
       <language minSize="18" name="Style Sheets" />
+      <language minSize="165" name="JavaScript" />
     </Languages>
   </inspection_tool>
   <inspection_tool class="Duplicates" enabled="true" level="SERVER PROBLEM" enabled_by_default="true">
@@ -525,11 +525,6 @@
   <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="processCode" value="false" />
-    <option name="processLiterals" value="true" />
-    <option name="processComments" value="true" />
-  </inspection_tool>
   <inspection_tool class="SqlAddNotNullColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlAmbiguousColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
