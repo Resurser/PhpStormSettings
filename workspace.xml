@@ -1,5 +1,10 @@
 <application>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
     <settingsMapElement>
       <JavaScript.js.chain.hints>
         <Settings>
