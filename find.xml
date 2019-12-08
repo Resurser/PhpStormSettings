@@ -20,8 +20,8 @@
     <mask>*.styl</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>lang.ru*ini</mask>
     <mask>*.*css*</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
