@@ -1,9 +1,16 @@
 <toolSet name="External Tools">
-  <tool name="open.server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="OpenServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="D:\web.server\Open Server x64.exe" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="D:/web.server" />
+    </exec>
+  </tool>
+  <tool name="Navicat.MySQL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\PremiumSoft\Navicat Premium\navicat.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/PremiumSoft/Navicat Premium" />
     </exec>
   </tool>
 </toolSet>
