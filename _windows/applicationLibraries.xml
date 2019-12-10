@@ -229,6 +229,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="datatables.net" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="https://datatables.net/reference/api/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="gulp" type="javaScript">
       <CLASSES />
       <DOCUMENTATION>
