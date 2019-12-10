@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-12-10T04:16:57</property>
+    <property name="modified">2019-12-10T05:41:23</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -134,16 +134,16 @@
       <value>
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="2f1b3c" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="346b9c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="aae1" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="2f1b3c" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="346b9c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="aae1" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -63305,9 +63305,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d0cfd7" />
-        <option name="BACKGROUND" value="61376e" />
+        <option name="FOREGROUND" value="e4e3eb" />
+        <option name="BACKGROUND" value="392346" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="d070e7" />
         <option name="ERROR_STRIPE_COLOR" value="c24dc3" />
       </value>
     </option>
@@ -63394,8 +63395,8 @@
       <value>
         <option name="FOREGROUND" value="f2f2df" />
         <option name="BACKGROUND" value="2f1b3c" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="346b9c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="aae1" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
