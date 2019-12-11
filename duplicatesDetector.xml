@@ -1,5 +1,10 @@
 <application>
   <component name="DuplicatesDetector">
+    <entry key="ActionScript">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
     <entry key="JavaScript">
       <language>
         <option name="enabledIndex" value="false" />
