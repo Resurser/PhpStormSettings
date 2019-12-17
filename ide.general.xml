@@ -3,6 +3,7 @@
     <option name="defaultProjectDirectory" value="D:\web.server\domains" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="supportScreenReaders" value="true" />
     <option name="useDefaultBrowser" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
@@ -22,5 +23,6 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="1003" />
   </component>
 </application>
