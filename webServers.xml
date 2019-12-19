@@ -48,6 +48,9 @@
       <webServer id="e4cd7e9e-8d80-4c84-b4cc-730d7baff6c4" name="NZ" url="http://zastavna.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2b9dc405-1986-473b-aba7-688c97d05f23" name="poidem" url="http://poidem2.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
