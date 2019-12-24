@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-12-17T11:30:49</property>
+    <property name="modified">2019-12-24T10:13:32</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -47,14 +47,16 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="701e18" />
     <option name="SELECTED_INDENT_GUIDE" value="44b4aa" />
-    <option name="SELECTED_TEARLINE_COLOR" value="4fe1d4" />
+    <option name="SELECTED_TEARLINE_COLOR" value="4ee1e1" />
     <option name="SELECTION_BACKGROUND" value="28466e" />
     <option name="SELECTION_FOREGROUND" value="a3d4d7" />
     <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
     <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="f4f91e" />
     <option name="ScrollBar.hoverThumbColor" value="2e4247" />
-    <option name="ScrollBar.thumbColor" value="2f3032" />
+    <option name="ScrollBar.thumbColor" value="" />
+    <option name="TAB_UNDERLINE" value="cdff" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="3f8da5" />
     <option name="TEARLINE_COLOR" value="215047" />
     <option name="TOOLTIP" value="1f1f28" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
@@ -462,7 +464,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="877161" />
+        <option name="FOREGROUND" value="645a87" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63587,6 +63589,17 @@
     <option name="String">
       <value>
         <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="5c96" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="394e72" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
