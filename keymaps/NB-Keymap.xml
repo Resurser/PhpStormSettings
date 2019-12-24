@@ -186,7 +186,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="f10" />
@@ -265,7 +265,7 @@
   </action>
   <action id="XDebugger.SetValue" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction">
-    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="uuidgenerator.random">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
