@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-12-24T10:13:32</property>
+    <property name="modified">2019-12-28T02:37:46</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -640,14 +640,14 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d7755e" />
+        <option name="FOREGROUND" value="c37a77" />
         <option name="EFFECT_COLOR" value="e24d3e" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c3a19e" />
+        <option name="FOREGROUND" value="c37a77" />
         <option name="EFFECT_COLOR" value="cd0000" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -63300,7 +63300,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="be7572" />
+        <option name="FOREGROUND" value="c37a77" />
         <option name="EFFECT_COLOR" value="cd0000" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -63706,7 +63706,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e66d6c" />
+        <option name="FOREGROUND" value="c37a77" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="f7281b" />
         <option name="ERROR_STRIPE_COLOR" value="ee0000" />

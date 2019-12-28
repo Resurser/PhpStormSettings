@@ -141,6 +141,7 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
