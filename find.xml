@@ -16,12 +16,12 @@
     <mask>*.postcss*</mask>
     <mask>css</mask>
     <mask>*.ini</mask>
-    <mask>*.*css</mask>
     <mask>*.styl</mask>
     <mask>lang.ru*ini</mask>
     <mask>*.twig</mask>
     <mask>*.*css*</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.*css</mask>
   </component>
 </application>
