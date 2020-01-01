@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-01-01T21:51:13</property>
+    <property name="modified">2020-01-01T23:53:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -34,7 +34,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f0de46" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="215bb0" />
-    <option name="NOTIFICATION_BACKGROUND" value="2c3a3c" />
+    <option name="NOTIFICATION_BACKGROUND" value="253530" />
     <option name="QUESTION_HINT" value="1f1628" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
     <option name="QUOKKA.ERROR_SOURCE" value="430421" />
@@ -58,7 +58,7 @@
     <option name="TAB_UNDERLINE" value="cdff" />
     <option name="TAB_UNDERLINE_INACTIVE" value="3f8da5" />
     <option name="TEARLINE_COLOR" value="215047" />
-    <option name="TOOLTIP" value="1f1f28" />
+    <option name="TOOLTIP" value="262028" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
