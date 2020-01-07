@@ -14,7 +14,7 @@
         <entry key="js.implementing" value="true" />
         <entry key="js.overridden" value="true" />
         <entry key="js.overriding" value="true" />
-        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="false" />
       </map>
     </option>
   </component>

@@ -1,10 +1,9 @@
 <application>
   <component name="CompletionMLRankingSettings">
-    <option name="rankingEnabled" value="true" />
-    <option name="enabledLanguages">
-      <set>
-        <option value="php" />
-      </set>
+    <option name="language2state">
+      <map>
+        <entry key="JavaScript" value="true" />
+      </map>
     </option>
   </component>
 </application>
