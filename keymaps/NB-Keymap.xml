@@ -86,6 +86,7 @@
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorMatchBrace" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt v" />
@@ -147,6 +148,21 @@
   <action id="JumpToLastWindow" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl h" />
+  </action>
+  <action id="MarkAsContentRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl n" />
+  </action>
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl e" />
+  </action>
+  <action id="MarkResourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl r" />
+  </action>
+  <action id="MarkSourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl s" />
+  </action>
+  <action id="MarkTestSourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl t" />
   </action>
   <action id="Move" />
   <action id="NewElement">
@@ -248,6 +264,9 @@
   </action>
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="UnmarkResourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl n" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
