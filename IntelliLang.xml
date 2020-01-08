@@ -112,5 +112,9 @@
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(0, sqlFunctionCall().name("xmlparse", "xmlvalidate"))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("Sybase").functionArgument(1, sqlFunctionCall().name("xmlextract"))]]></place>
     </injection>
+    <injection language="HTML" injector-id="twig">
+      <display-name>html: Twig Injection</display-name>
+      <place><![CDATA[twigCustomStatement("{{")]]></place>
+    </injection>
   </component>
 </application>
