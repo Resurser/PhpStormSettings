@@ -240,6 +240,9 @@
       <SOURCES />
     </library>
     <library name="gulp" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+      </properties>
       <CLASSES />
       <DOCUMENTATION>
         <root url="https://gulpjs.org/" />
@@ -279,6 +282,7 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.2_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
+        <root url="file://D:/web.server/domains/poidem2.local/modules/backend/assets/js/vendor/jquery.min.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
@@ -297,7 +301,7 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
       </CLASSES>
       <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
+        <root url="https://api.jquery.com/" />
       </DOCUMENTATION>
       <SOURCES />
     </library>
