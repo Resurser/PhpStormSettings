@@ -340,6 +340,8 @@
         <option value="Privet_druzja" />
         <option value="Punct_and_spaces" />
         <option value="RAHUVATYSIA_SCHO" />
+        <option value="READABILITY_RULE_DIFFICULT" />
+        <option value="READABILITY_RULE_SIMPLE" />
         <option value="RIBNAJA_UHA" />
         <option value="ROKOVYI_FATALNYI" />
         <option value="ROMAN_DIGITS_SUFFIX" />
@@ -947,8 +949,6 @@
         <option value="PASSIONATE_BY_ABOUT_2" />
         <option value="POPULAR_AMONG_WITH" />
         <option value="QUESTION_X_WHETHER" />
-        <option value="READABILITY_RULE_DIFFICULT" />
-        <option value="READABILITY_RULE_SIMPLE" />
         <option value="REASON_WHY" />
         <option value="REFERRING_BACK" />
         <option value="REGARD_AS_BEING" />
