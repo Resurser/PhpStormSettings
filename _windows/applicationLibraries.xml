@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/datatables.net" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-colreorder" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/gulp" type="javaScript">
       <CLASSES />
       <SOURCES />
