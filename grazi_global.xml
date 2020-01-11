@@ -317,6 +317,7 @@
         <option value="PRY_BAZHANNI" />
         <option value="PRY_PORIVNYANNI" />
         <option value="PT_BI" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
         <option value="PUNCT_DPT" />
         <option value="PUNCT_VB_INF_OBOROT" />
         <option value="PUNKT_KOTORIJ" />
