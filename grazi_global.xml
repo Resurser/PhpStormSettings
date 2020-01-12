@@ -440,6 +440,7 @@
         <option value="UK_SIMPLE_REPLACE_SOFT" />
         <option value="UK_SIMPLE_REPLACE_SPELLING_1992" />
         <option value="UL_VS_VUL" />
+        <option value="UPPERCASE_SENTENCE_START" />
         <option value="UPPER_INDEX_FOR_M" />
         <option value="UYAVLYATY_Z_SEBE" />
         <option value="U_VSIH_VIDNOSHENNYAH" />
@@ -973,7 +974,6 @@
         <option value="TOO_LONG_SENTENCE" />
         <option value="TYPE_OF" />
         <option value="UNTIL_SUCH_TIME_AS" />
-        <option value="UPPERCASE_SENTENCE_START" />
         <option value="WAITING_MY_PATIENT" />
         <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
         <option value="WHITESPACE_PARAGRAPH" />
