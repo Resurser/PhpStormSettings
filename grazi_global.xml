@@ -107,6 +107,7 @@
         <option value="GDE_COMMA" />
         <option value="GLAVNAJA_SUT" />
         <option value="Genitsya" />
+        <option value="HASH_SYMBOL" />
         <option value="HOTITY_VIDMITYTY" />
         <option value="HRECKY_HORIKH" />
         <option value="HRUDNI_DITY" />
@@ -521,6 +522,10 @@
         <option value="Vo_chto_by_to_ni_stalo" />
         <option value="Vo_izbezhanie" />
         <option value="WHITESPACE_RULE" />
+        <option value="WIKIPEDIA_12_AM" />
+        <option value="WIKIPEDIA_12_PM" />
+        <option value="WIKIPEDIA_CONTRACTIONS" />
+        <option value="WIKIPEDIA_CURRENTLY" />
         <option value="WORDS_WITH_DASH" />
         <option value="WORD_CONTAINS_UNDERSCORE" />
         <option value="WORD_REPEAT_RULE" />
@@ -910,7 +915,6 @@
         <option value="FOR_THE_MOST_PART" />
         <option value="FOR_THE_PURPOSE_OF" />
         <option value="FRAME" />
-        <option value="HASH_SYMBOL" />
         <option value="HAVE_A_TENDENCY" />
         <option value="HAVE_THE_ABILITY_TO" />
         <option value="HONEST_TRUTH" />
@@ -978,10 +982,6 @@
         <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
         <option value="WHITESPACE_PARAGRAPH" />
         <option value="WHITESPACE_PARAGRAPH_BEGIN" />
-        <option value="WIKIPEDIA_12_AM" />
-        <option value="WIKIPEDIA_12_PM" />
-        <option value="WIKIPEDIA_CONTRACTIONS" />
-        <option value="WIKIPEDIA_CURRENTLY" />
         <option value="WITH_OR_IN_REFERENCE_OR_REGARD_TO" />
         <option value="WORLD_AROUND_IT" />
         <option value="WORTHWHILE" />
