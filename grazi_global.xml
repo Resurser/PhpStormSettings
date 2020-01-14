@@ -103,6 +103,7 @@
         <option value="EUPHONY_PREP_O_OB" />
         <option value="EUPHONY_PREP_V_U" />
         <option value="E_PRIME_LOOSE" />
+        <option value="E_PRIME_STRICT" />
         <option value="Frazeologizm_nevernij" />
         <option value="GDE_COMMA" />
         <option value="GLAVNAJA_SUT" />
@@ -910,7 +911,6 @@
         <option value="EUPUB_VERIFICATIONS" />
         <option value="EUPUB_VISA" />
         <option value="EXACT_SAME" />
-        <option value="E_PRIME_STRICT" />
         <option value="FOR_ALL_INTENTS_AND_PURPOSES" />
         <option value="FOR_THE_MOST_PART" />
         <option value="FOR_THE_PURPOSE_OF" />
