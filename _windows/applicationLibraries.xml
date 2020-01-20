@@ -313,6 +313,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="require" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_require.js_2.3.5_require.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_require.js_2.3.5_require.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="respond" type="javaScript">
       <properties>
         <sourceFilesUrls>
