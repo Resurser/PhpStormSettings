@@ -97,6 +97,11 @@
         <option value="DoubleNOT" />
         <option value="Dvojnoe_negate_s_NE" />
         <option value="EAdj_NN_number_2_4" />
+        <option value="ENGLISH_WORD_REPEAT_RULE" />
+        <option value="EN_A_VS_AN" />
+        <option value="EN_COMPOUNDS" />
+        <option value="EN_DASH_RULE" />
+        <option value="EN_WORD_COHERENCY" />
         <option value="ESLI_TO" />
         <option value="EST_CHEM_ZANJATSA" />
         <option value="EUPHONY_CONJ_I_Y" />
@@ -791,7 +796,6 @@
         <option value="EMPHATIC_REFLEXIVE_PRONOUNS" />
         <option value="EMPTY_LINE" />
         <option value="END_RESULT_OR_PRODUCT" />
-        <option value="EN_DASH_RULE" />
         <option value="EN_UNPAIRED_BRACKETS" />
         <option value="EUPUB_ACTOR" />
         <option value="EUPUB_ACTORNESS" />
