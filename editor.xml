@@ -19,6 +19,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
+    <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -91,10 +92,7 @@
     <filter name="Attention">
       <pattern index="2" />
     </filter>
-    <filter name="Todo">
-      <pattern index="-1" />
-      <pattern index="-1" />
-    </filter>
+    <filter name="Todo" />
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
