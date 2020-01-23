@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-01-10T08:09:08</property>
+    <property name="modified">2020-01-23T13:39:12</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -128,8 +128,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="464527" />
-        <option name="ERROR_STRIPE_COLOR" value="a8aaa8" />
+        <option name="BACKGROUND" value="464345" />
+        <option name="ERROR_STRIPE_COLOR" value="b2b4b4" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -727,7 +727,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="459681" />
+        <option name="FOREGROUND" value="46966b" />
         <option name="BACKGROUND" value="202c26" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="194c3a" />
@@ -63621,9 +63621,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="35917e" />
+        <option name="FOREGROUND" value="229a9b" />
         <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="41ddc3" />
+        <option name="ERROR_STRIPE_COLOR" value="29a9b" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
