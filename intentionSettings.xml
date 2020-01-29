@@ -22,5 +22,9 @@
     <ignoreAction name="TypeScript/Add explicit enum values" />
     <ignoreAction name="TypeScript/Disable coloring of type guard narrowed types" />
     <ignoreAction name="TypeScript/Introduce parameter-properties for unused parameters" />
+    <ignoreAction name="PHP/Replace 'if' with 'switch'" />
+    <ignoreAction name="PHP/Replace 'switch' with 'if'" />
+    <ignoreAction name="PHP/Symfony2MethodCreateService" />
+    <ignoreAction name="yaml/Symfony" />
   </component>
 </application>

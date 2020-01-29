@@ -18,9 +18,10 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="LINE_SPACING" value="1.1" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -67,9 +68,6 @@
       <item index="6" class="java.lang.String" itemvalue="WARNING" />
       <item index="7" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />

@@ -93,7 +93,7 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EmmetPreview">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
@@ -107,6 +107,7 @@
   </action>
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">

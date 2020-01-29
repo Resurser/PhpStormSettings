@@ -1,5 +1,82 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="&lt;anonymous-group-13&gt;" is_group="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPopupMenu3" is_group="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterToggleGlobalIndentLines" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterToggleGlobalLineNumbers" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -10,7 +87,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Ignore.New" is_group="true" action_type="1" position="29">
+    <group value="Ignore.New" is_group="true" action_type="1" position="26">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
