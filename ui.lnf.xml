@@ -8,13 +8,14 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="22" />
+    <option name="EDITOR_TAB_LIMIT" value="24" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="506" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="false" />
