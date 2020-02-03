@@ -22,7 +22,7 @@
     <mask>*.*css*</mask>
     <mask>*.htm</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.*css</mask>
+    <mask>*.php</mask>
   </component>
 </application>
