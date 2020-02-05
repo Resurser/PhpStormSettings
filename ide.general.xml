@@ -18,9 +18,9 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="tabs.alphabetical" value="true" />
-    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
+    <entry key="debugger.valueTooltipAutoShow" value="false" />
   </component>
 </application>
