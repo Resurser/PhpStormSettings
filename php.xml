@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="76199d0f-714f-47be-8ba9-c9b02e2db5d2" name="PHP 7.1.32" home="D:\web.server\modules\php\PHP_7.1-x64\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="D:\web.server\modules\php\PHP_7.1-x64\ext\php_xdebug.dll" />
