@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping pattern=".config" type="JSON" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="tpl" type="PHP" />
+      <mapping ext="htm" type="PHP" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping pattern="*.postcss.css" type="SCSS" />
       <mapping pattern="*.postcss.*css" type="SCSS" />
@@ -14,6 +14,7 @@
       <mapping ext="smarty" type="Smarty" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <mapping pattern="*.twig.php" type="Twig" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="pcss" approved="true" type="PostCSS" />
       <removed_mapping pattern="*.postcss.*" approved="true" type="Sass" />
