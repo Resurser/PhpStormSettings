@@ -3,17 +3,17 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-07T13:15:24</property>
+    <property name="modified">2020-02-09T02:44:45</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="1a901d" />
+    <option name="ADDED_LINES_COLOR" value="328244" />
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
-    <option name="BORDER_LINES_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="616669" />
     <option name="CARET_COLOR" value="c7cfce" />
     <option name="CARET_ROW_COLOR" value="2b2d2b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
-    <option name="DELETED_LINES_COLOR" value="db9d03" />
+    <option name="DELETED_LINES_COLOR" value="b8460b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
@@ -33,7 +33,7 @@
     <option name="LINE_NUMBERS_COLOR" value="548786" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f0de46" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
-    <option name="MODIFIED_LINES_COLOR" value="215bb0" />
+    <option name="MODIFIED_LINES_COLOR" value="236f89" />
     <option name="NOTIFICATION_BACKGROUND" value="253530" />
     <option name="QUESTION_HINT" value="1f1628" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
@@ -66,7 +66,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="3f4037" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="494c4f" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">

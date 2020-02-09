@@ -45,6 +45,7 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="30" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="TOOLTIPS_DELAY_MS" value="400" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
@@ -70,9 +71,6 @@
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
-  </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
