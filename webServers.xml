@@ -51,6 +51,9 @@
       <webServer id="2b9dc405-1986-473b-aba7-688c97d05f23" name="poidem" url="http://poidem2.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="27bcd169-aa1d-4306-8c3f-d031b61e8f85" name="raport_uso.local" url="http://raport-uso.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
