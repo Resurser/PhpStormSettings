@@ -286,6 +286,7 @@
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingService" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingSinceTagDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MissingTranslationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MkdirRaceConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MktimeUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MockingFinalClassesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -569,6 +570,7 @@
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TodoComment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TrailingSpacesInProperty" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TranslationsCorrectnessInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TwigAssetMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TwigAssetsTagMissingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TwigRouteInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -609,6 +611,7 @@
   <inspection_tool class="UnusedConstructorDependenciesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedGotoLabelInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedProperty" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnusedTranslationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UsageOfSilenceOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VoidExpressionJS" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="VueDataFunction" enabled="false" level="WARNING" enabled_by_default="false" />
