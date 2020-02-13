@@ -1,10 +1,10 @@
-<scheme name="NB-Night" version="142" parent_scheme="Darcula">
+<scheme name="NB-Light" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-23T20:20:44</property>
+    <property name="created">2020-02-13T11:38:57</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-13T11:38:34</property>
-    <property name="originalScheme">NB-Dark-Night</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="modified">2020-02-13T11:39:29</property>
+    <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="328244" />
@@ -640,7 +640,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c37a77" />
+        <option name="FOREGROUND" value="da8885" />
         <option name="EFFECT_COLOR" value="e24d3e" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -63608,8 +63608,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="cfcfa9" />
-        <option name="BACKGROUND" value="232323" />
+        <option name="FOREGROUND" value="d7d7b0" />
+        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
