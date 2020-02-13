@@ -7,7 +7,6 @@
   </option>
   <option name="RIGHT_MARGIN" value="110" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="SOFT_MARGINS" value="110" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
