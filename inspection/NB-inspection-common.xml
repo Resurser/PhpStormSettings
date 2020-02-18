@@ -272,7 +272,7 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="LongInheritanceChainInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="COMPLAIN_THRESHOLD" value="6" />
+    <option name="COMPLAIN_THRESHOLD" value="8" />
   </inspection_tool>
   <inspection_tool class="LongLine" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
