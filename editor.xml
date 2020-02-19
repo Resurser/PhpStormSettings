@@ -14,7 +14,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
     <option name="AUTOREPARSE_DELAY" value="350" />
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
@@ -42,7 +42,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="30" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="20" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="TOOLTIPS_DELAY_MS" value="400" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
