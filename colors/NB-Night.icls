@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-15T18:41:42</property>
+    <property name="modified">2020-02-20T14:44:37</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -63621,9 +63621,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="229a9b" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="29a9b" />
+        <option name="FOREGROUND" value="317eaf" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="26709b" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
