@@ -16,12 +16,12 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
     <entry key="debugger.valueTooltipAutoShow" value="false" />
     <entry key="ide.tooltip.initialDelay" value="802" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
