@@ -14,7 +14,6 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
     <option name="AUTOREPARSE_DELAY" value="350" />
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
