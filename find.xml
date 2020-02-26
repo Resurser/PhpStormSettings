@@ -22,8 +22,8 @@
     <mask>*.js</mask>
     <mask>*.*css</mask>
     <mask>*.svg</mask>
-    <mask>*.styl</mask>
     <mask>*.ini</mask>
     <mask>*.php</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
