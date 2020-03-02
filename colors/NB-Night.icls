@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-20T14:44:37</property>
+    <property name="modified">2020-03-03T00:44:07</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="616669" />
     <option name="CARET_COLOR" value="c7cfce" />
-    <option name="CARET_ROW_COLOR" value="2b2d2b" />
+    <option name="CARET_ROW_COLOR" value="29291f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="b8460b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -50,8 +50,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="5ac9cd" />
     <option name="SELECTION_BACKGROUND" value="28466e" />
     <option name="SELECTION_FOREGROUND" value="a3d4d7" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="395944" />
-    <option name="SEPARATOR_BELOW_COLOR" value="293d44" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="89d7a4" />
+    <option name="SEPARATOR_BELOW_COLOR" value="7ab6cb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="f4f91e" />
     <option name="ScrollBar.hoverThumbColor" value="2e4247" />
     <option name="ScrollBar.thumbColor" value="" />
