@@ -10,6 +10,11 @@
         <option name="enabledIndex" value="false" />
       </language>
     </entry>
+    <entry key="Kotlin">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
     <entry key="PHP">
       <language>
         <option name="anonymizeIdentifiers" value="false" />
