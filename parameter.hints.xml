@@ -12,11 +12,13 @@
       <blacklist language="SQL" />
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
+    <option id="php.pass.by.reference" value="false" />
     <disabledLanguages>
       <language id="TypeScript" />
       <language id="XML" />
       <language id="JavaScript" />
       <language id="Vue" />
+      <language id="PHP" />
       <language id="SQL" />
       <language id="yaml" />
     </disabledLanguages>
