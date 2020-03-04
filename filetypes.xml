@@ -9,8 +9,8 @@
       <mapping ext="htm" type="PHP" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".env-test-local" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="*.postcss.css" type="SCSS" />
       <mapping pattern="*.postcss.*css" type="SCSS" />
       <mapping ext="pcss" type="SCSS" />
