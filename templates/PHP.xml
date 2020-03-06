@@ -28,4 +28,17 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="&lt;_" value="&lt;?=$page-&gt;_['$END$']?&gt;" description="echo lang. string by key $page-&gt;_['...']" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="__" value="$page-&gt;_['$END$']" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
