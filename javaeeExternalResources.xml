@@ -4,5 +4,6 @@
     <resource url="http://schema.org/Person" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/1b5f379b_Person.html" />
     <resource url="https://schema.org/BreadcrumbList" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/f827ef6a_BreadcrumbList.html" />
     <resource url="https://schema.org/ListItem" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/43e307ba_ListItem.html" />
+    <resource url="https://schema.org/WebPage" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/1f39effa_WebPage.html" />
   </component>
 </application>
