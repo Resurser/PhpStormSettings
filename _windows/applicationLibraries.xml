@@ -16,10 +16,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/jquery" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/select2" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -291,20 +287,9 @@
       <SOURCES />
     </library>
     <library name="jquery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.2_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.2_jquery.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
-        <root url="file://D:/web.server/domains/poidem2.local/modules/backend/assets/js/vendor/jquery.min.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
+        <root url="https://api.jquery.com/" />
       </DOCUMENTATION>
       <SOURCES />
     </library>
