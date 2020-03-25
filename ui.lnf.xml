@@ -49,7 +49,6 @@
     <option name="MAX_LOOKUP_WIDTH2" value="506" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
-    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="false" />
