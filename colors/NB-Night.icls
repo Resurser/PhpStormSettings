@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-04-05T02:13:40</property>
+    <property name="modified">2020-04-05T02:30:50</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -429,7 +429,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="f58f68" />
+        <option name="FOREGROUND" value="f5b761" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -447,7 +447,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="dcb137" />
+        <option name="FOREGROUND" value="dc9831" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -482,7 +482,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="d7d82f" />
+        <option name="FOREGROUND" value="d6d72f" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -495,7 +495,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="cd8a73" />
+        <option name="FOREGROUND" value="cd965d" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -508,7 +508,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cc91c2" />
+        <option name="FOREGROUND" value="d29fb7" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -599,13 +599,14 @@
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="dcb137" />
+        <option name="FOREGROUND" value="dc896e" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="76adc3" />
+        <option name="FOREGROUND" value="59a8c3" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="305a69" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -613,6 +614,7 @@
       <value>
         <option name="FOREGROUND" value="cda24c" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="6e562a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
