@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-04-05T05:04:19</property>
+    <property name="modified">2020-04-05T19:28:52</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -143,7 +143,7 @@
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="f2f2df" />
-        <option name="BACKGROUND" value="34d7a" />
+        <option name="BACKGROUND" value="6d3d7a" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="79247c" />
       </value>
@@ -620,7 +620,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="75bf79" />
+        <option name="FOREGROUND" value="6bc466" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -63393,7 +63393,7 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="f5f5e2" />
-        <option name="BACKGROUND" value="3446c" />
+        <option name="BACKGROUND" value="5e3a6c" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="8e2a92" />
       </value>
@@ -63501,7 +63501,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1d4620" />
+        <option name="BACKGROUND" value="12410f" />
         <option name="ERROR_STRIPE_COLOR" value="baf0b" />
       </value>
     </option>
@@ -63698,7 +63698,7 @@
       <value>
         <option name="BACKGROUND" value="222023" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="e6791c" />
+        <option name="EFFECT_COLOR" value="e68f01" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
