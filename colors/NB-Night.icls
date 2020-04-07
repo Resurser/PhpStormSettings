@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-04-05T23:34:31</property>
+    <property name="modified">2020-04-07T14:54:31</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -439,7 +439,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c09bd7" />
+        <option name="FOREGROUND" value="c99bd7" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="705a7e" />
         <option name="EFFECT_TYPE" value="1" />
@@ -452,7 +452,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="5077b9" />
+        <option name="FOREGROUND" value="5284c8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -464,7 +464,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="645a87" />
+        <option name="FOREGROUND" value="695f8c" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -508,7 +508,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ae7fd2" />
+        <option name="FOREGROUND" value="d2a2c7" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -520,7 +520,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ac88be" />
+        <option name="FOREGROUND" value="89aacd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -531,7 +531,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c09bd7" />
+        <option name="FOREGROUND" value="c99bd7" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="7a648d" />
         <option name="EFFECT_TYPE" value="1" />
@@ -591,7 +591,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="c4a0c4" />
+        <option name="FOREGROUND" value="878ac4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -604,7 +604,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ac8abe" />
+        <option name="FOREGROUND" value="89aacd" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="61496e" />
         <option name="EFFECT_TYPE" value="1" />
