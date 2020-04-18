@@ -21,10 +21,10 @@
     <mask>*.svg</mask>
     <mask>*.ini</mask>
     <mask>*.*css</mask>
-    <mask>*.php</mask>
     <mask>*.styl</mask>
     <mask>*</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
