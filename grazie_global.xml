@@ -7,21 +7,7 @@
         <option value="Ukrainian" />
       </set>
     </option>
-    <option name="nativeLanguage" value="English (GB)" />
     <option name="enabledCommitIntegration" value="true" />
-    <option name="userWords">
-      <set>
-        <option value="'надіслано" />
-        <option value="cпец" />
-        <option value="datatables" />
-        <option value="footable" />
-        <option value="mydisk" />
-        <option value="shareinfo" />
-        <option value="signinfo" />
-        <option value="toolbal" />
-        <option value="інфо" />
-      </set>
-    </option>
     <option name="userDisabledRules">
       <set>
         <option value="ABBREVIATIONS_MISSING_DOT" />
@@ -994,6 +980,5 @@
         <option value="in_excess_of" />
       </set>
     </option>
-    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
   </component>
 </application>
