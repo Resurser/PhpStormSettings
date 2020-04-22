@@ -1,26 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="30">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="29">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="&lt;anonymous-group-13&gt;" is_group="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="19">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPopupMenu3" is_group="true" action_type="-1" position="18">
+    <group seperator="true" action_type="-1" position="18">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -47,54 +27,6 @@
       <path value="View" />
       <path value="Code Editor View Actions" />
       <path value="Code View Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <path value="External Tools" />
-      <path value="External Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Editor Tab Popup Menu" />
-      <path value="Editor Tab Popup Menu Actions (1)" />
-      <path value="External Tools" />
-      <path value="External Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_OpenServer" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Scope View Popup Menu" />
-      <path value="Project View Popup Menu" />
-      <path value="External Tools" />
-      <path value="External Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <path value="External Tools" />
-      <path value="External Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Editor Tab Popup Menu" />
-      <path value="Editor Tab Popup Menu Actions (1)" />
-      <path value="External Tools" />
-      <path value="External Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_Navicat.MySQL" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Scope View Popup Menu" />
-      <path value="Project View Popup Menu" />
-      <path value="External Tools" />
-      <path value="External Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ExternalJavaDoc" is_action="true" action_type="1" position="2">
