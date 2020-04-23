@@ -81,8 +81,8 @@
     <pattern pattern="\btodo\b.*" />
     <pattern icon="question" pattern="\bfixme\b.*" />
     <pattern icon="important" useCustomColors="true" pattern="[!]{2,}(.*?)[!]{2,}">
-      <option name="FOREGROUND" value="6dbabe" />
-      <option name="BACKGROUND" value="153349" />
+      <option name="FOREGROUND" value="62c2c7" />
+      <option name="BACKGROUND" value="122b3d" />
       <option name="ERROR_STRIPE_COLOR" value="4ab0b9" />
     </pattern>
     <filter name="Attention">
