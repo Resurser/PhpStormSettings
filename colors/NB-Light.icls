@@ -3,7 +3,7 @@
     <property name="created">2020-02-13T11:38:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-13T11:39:29</property>
+    <property name="modified">2020-05-01T19:43:24</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -588,7 +588,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="e1d23b" />
+        <option name="FOREGROUND" value="cfe140" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -63609,7 +63609,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d7d7b0" />
-        <option name="BACKGROUND" value="3b3b3b" />
+        <option name="BACKGROUND" value="1f1f1f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
