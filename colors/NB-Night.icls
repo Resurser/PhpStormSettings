@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-05-01T19:21:36</property>
+    <property name="modified">2020-05-01T20:16:11</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -429,30 +429,30 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="f5b761" />
+        <option name="FOREGROUND" value="ed8d7f" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="f59a4d" />
+        <option name="FOREGROUND" value="eaa04d" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c49bd7" />
+        <option name="FOREGROUND" value="d794b9" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="745d7d" />
+        <option name="EFFECT_COLOR" value="604b69" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="dc9831" />
+        <option name="FOREGROUND" value="ed8d7f" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="5284c8" />
+        <option name="FOREGROUND" value="9786d2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -495,50 +495,51 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="cd975a" />
+        <option name="FOREGROUND" value="d79277" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="d9c056" />
+        <option name="FOREGROUND" value="d7c470" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="55502e" />
+        <option name="EFFECT_COLOR" value="4b4830" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cd98c3" />
+        <option name="FOREGROUND" value="cd9b9e" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="cec66b" />
+        <option name="FOREGROUND" value="d4ca6a" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="7da9cd" />
+        <option name="FOREGROUND" value="98b9d7" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="d28e6f" />
+        <option name="FOREGROUND" value="d79277" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c49bd7" />
-        <option name="EFFECT_COLOR" value="6b5873" />
+        <option name="FOREGROUND" value="d794b9" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="604b69" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="999b9b" />
+        <option name="FOREGROUND" value="ea6e73" />
         <option name="EFFECT_COLOR" value="ff382d" />
         <option name="ERROR_STRIPE_COLOR" value="ff382d" />
         <option name="EFFECT_TYPE" value="2" />
@@ -546,7 +547,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cd8153" />
+        <option name="FOREGROUND" value="de824a" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -570,27 +571,27 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="7abed3" />
+        <option name="FOREGROUND" value="c7afeb" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b5b4b1" />
+        <option name="FOREGROUND" value="cbc996" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c8b589" />
+        <option name="FOREGROUND" value="cba16c" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="e1d23b" />
+        <option name="FOREGROUND" value="e1c74e" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="968dcd" />
+        <option name="FOREGROUND" value="8dadc5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -598,12 +599,12 @@
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="dc896e" />
+        <option name="FOREGROUND" value="ed8d7f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="7da9cd" />
+        <option name="FOREGROUND" value="98b9d7" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="3c505f" />
         <option name="EFFECT_TYPE" value="1" />
@@ -611,9 +612,9 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="d28e6f" />
+        <option name="FOREGROUND" value="d79277" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="5f4629" />
+        <option name="EFFECT_COLOR" value="5b422b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -632,7 +633,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cd82bb" />
+        <option name="FOREGROUND" value="7bc5cd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -809,7 +810,12 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="d18841" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4085cb" />
@@ -63422,8 +63428,10 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="b383c6" />
+        <option name="FOREGROUND" value="bb8adb" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="462755" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_THIS_VAR">
@@ -63601,8 +63609,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="d799e1" />
       </value>
     </option>
     <option name="TEXT">
