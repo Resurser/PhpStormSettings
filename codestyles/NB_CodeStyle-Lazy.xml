@@ -208,7 +208,6 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MSSQLCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="0" />
@@ -226,6 +225,9 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
+    <option name="TABLE_TYPES_ALIGN" value="false" />
+    <option name="TABLE_DEFAULTS_ALIGN" value="false" />
+    <option name="TABLE_NULLABILITIES_ALIGN" value="false" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -397,7 +399,9 @@
     <option name="CONSTRAINT_WRAP_4" value="true" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_DECLARE_EL_WRAP" value="2" />
+    <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="CORTEGE_CLOSING" value="9" />
