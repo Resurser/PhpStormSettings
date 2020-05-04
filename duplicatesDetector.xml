@@ -17,8 +17,9 @@
     </entry>
     <entry key="PHP">
       <language>
+        <option name="anonymizeFunctions" value="true" />
         <option name="anonymizeIdentifiers" value="false" />
-        <option name="enabledIndex" value="false" />
+        <option name="anonymizeLiterals" value="true" />
       </language>
     </entry>
     <entry key="TypeScript">

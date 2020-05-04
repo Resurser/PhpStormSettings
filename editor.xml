@@ -12,7 +12,7 @@
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-tamaranga">
+  <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
     <option name="AUTOREPARSE_DELAY" value="350" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
@@ -44,6 +44,7 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="20" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="TOOLTIPS_DELAY_MS" value="400" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
@@ -54,7 +55,6 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="InspectionProfileManager">
     <list size="8">
@@ -68,9 +68,14 @@
       <item index="7" class="java.lang.String" itemvalue="ERROR" />
     </list>
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
-    <option name="elementHighlighting" value="true" />
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
   </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
   <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
   </component>
@@ -91,7 +96,6 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
-    <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
