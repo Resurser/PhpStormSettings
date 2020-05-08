@@ -8,6 +8,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping ext="htm" type="PHP" />
       <mapping ext="tpl" type="PHP" />
+      <mapping pattern="add_i18n_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env-test-local" type="PLAIN_TEXT" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
