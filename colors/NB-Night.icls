@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-05-08T05:18:41</property>
+    <property name="modified">2020-05-09T02:51:10</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -703,9 +703,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="691913" />
-        <option name="EFFECT_COLOR" value="ff382d" />
-        <option name="ERROR_STRIPE_COLOR" value="c32319" />
+        <option name="BACKGROUND" value="601711" />
+        <option name="EFFECT_COLOR" value="fe3273" />
+        <option name="ERROR_STRIPE_COLOR" value="b92220" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -896,13 +896,13 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="71736d" />
-        <option name="ERROR_STRIPE_COLOR" value="71736d" />
+        <option name="ERROR_STRIPE_COLOR" value="585a55" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="1d212a" />
+        <option name="BACKGROUND" value="1b242d" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -63627,10 +63627,11 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3282b4" />
-        <option name="BACKGROUND" value="b1430" />
+        <option name="FOREGROUND" value="628f9b" />
+        <option name="BACKGROUND" value="f2538" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="26709b" />
+        <option name="ERROR_STRIPE_COLOR" value="314cb9" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
@@ -63687,9 +63688,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="422911" />
-        <option name="EFFECT_COLOR" value="ffb700" />
-        <option name="ERROR_STRIPE_COLOR" value="967200" />
+        <option name="BACKGROUND" value="38210f" />
+        <option name="EFFECT_COLOR" value="ffc913" />
+        <option name="ERROR_STRIPE_COLOR" value="875c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
