@@ -20,6 +20,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Segoe UI" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
