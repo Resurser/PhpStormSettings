@@ -36,13 +36,4 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="__" value="$page-&gt;_['$END$']" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JSON" value="true" />
-      <option name="PHP" value="true" />
-      <option name="Twig" value="true" />
-    </context>
-  </template>
 </templateSet>
