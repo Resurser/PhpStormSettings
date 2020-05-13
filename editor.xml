@@ -85,9 +85,10 @@
     <option name="namespaceQualification" value="Never" />
   </component>
   <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
     <pattern icon="question" pattern="\bfixme\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="[!]{2,}(.*?)[!]{2,}">
+    <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*">
       <option name="FOREGROUND" value="62c2c7" />
       <option name="BACKGROUND" value="122b3d" />
       <option name="ERROR_STRIPE_COLOR" value="4ab0b9" />
