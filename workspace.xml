@@ -5,7 +5,13 @@
         <option value="JavaScript.js.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="disabledLanguages">
+      <set>
+        <option value="JavaScript" />
+        <option value="PHP" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
     <settingsMapElement>
       <JavaScript.js.chain.hints>
         <Settings>
