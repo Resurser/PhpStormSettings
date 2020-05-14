@@ -287,7 +287,14 @@
       <SOURCES />
     </library>
     <library name="jquery" type="javaScript">
-      <CLASSES />
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+      </CLASSES>
       <DOCUMENTATION>
         <root url="https://api.jquery.com/" />
       </DOCUMENTATION>
@@ -299,13 +306,30 @@
         <option name="frameworkVersion" value="1.9.1" />
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="https://api.jquery.com/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.ui.touch-punch" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jqueryui-touch-punch_0.2.3_jquery.ui.touch-punch.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jqueryui-touch-punch_0.2.3_jquery.ui.touch-punch.min.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://jqueryui.com/demos" />
       </DOCUMENTATION>
       <SOURCES />
     </library>
