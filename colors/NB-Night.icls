@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-05-13T21:55:08</property>
+    <property name="modified">2020-05-21T02:05:39</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -18,7 +18,7 @@
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
     <option name="DOCUMENTATION_COLOR" value="1f1f28" />
-    <option name="ERROR_HINT" value="281111" />
+    <option name="ERROR_HINT" value="2d110e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="346525" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
@@ -29,7 +29,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="INDENT_GUIDE" value="15494b" />
-    <option name="INFORMATION_HINT" value="161623" />
+    <option name="INFORMATION_HINT" value="14272d" />
     <option name="LINE_NUMBERS_COLOR" value="489a9b" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f0de46" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
@@ -381,7 +381,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="cbc855" />
+        <option name="EFFECT_COLOR" value="2d959e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63628,10 +63628,10 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="628f9b" />
-        <option name="BACKGROUND" value="f2538" />
+        <option name="FOREGROUND" value="a9999" />
+        <option name="BACKGROUND" value="6273c" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="314cb9" />
+        <option name="ERROR_STRIPE_COLOR" value="786c2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -88,11 +88,19 @@
   <component name="TodoConfiguration">
     <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
-    <pattern icon="question" pattern="\bfixme\b.*" />
+    <pattern icon="question" useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="ac7423" />
+      <option name="BACKGROUND" value="f2e42" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="314cb9" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
     <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*">
-      <option name="FOREGROUND" value="62c2c7" />
-      <option name="BACKGROUND" value="122b3d" />
-      <option name="ERROR_STRIPE_COLOR" value="4ab0b9" />
+      <option name="FOREGROUND" value="96aaa6" />
+      <option name="BACKGROUND" value="72f47" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="786c2" />
+      <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <filter name="Attention">
       <pattern index="2" />
