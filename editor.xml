@@ -96,7 +96,7 @@
       <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*">
-      <option name="FOREGROUND" value="96aaa6" />
+      <option name="FOREGROUND" value="a857aa" />
       <option name="BACKGROUND" value="72f47" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="786c2" />
