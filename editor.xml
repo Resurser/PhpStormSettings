@@ -95,12 +95,12 @@
       <option name="ERROR_STRIPE_COLOR" value="314cb9" />
       <option name="EFFECT_TYPE" value="5" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*">
-      <option name="FOREGROUND" value="a857aa" />
-      <option name="BACKGROUND" value="72f47" />
+    <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*[!]{2,}">
+      <option name="FOREGROUND" value="39898" />
+      <option name="BACKGROUND" value="202d41" />
       <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="303030" />
       <option name="ERROR_STRIPE_COLOR" value="786c2" />
-      <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <filter name="Attention">
       <pattern index="2" />
