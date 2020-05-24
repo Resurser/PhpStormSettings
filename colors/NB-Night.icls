@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-05-21T02:05:39</property>
+    <property name="modified">2020-05-24T14:09:30</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -826,9 +826,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="26280b" />
-        <option name="EFFECT_COLOR" value="b1b43d" />
-        <option name="ERROR_STRIPE_COLOR" value="c3bc04" />
+        <option name="BACKGROUND" value="27280b" />
+        <option name="EFFECT_COLOR" value="a5a005" />
+        <option name="ERROR_STRIPE_COLOR" value="ebe404" />
       </value>
     </option>
     <option name="IGNORE.COMMENT">
@@ -63698,8 +63698,8 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="26280b" />
-        <option name="EFFECT_COLOR" value="b1b43d" />
-        <option name="ERROR_STRIPE_COLOR" value="c3bc04" />
+        <option name="EFFECT_COLOR" value="a5a005" />
+        <option name="ERROR_STRIPE_COLOR" value="ebe404" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
