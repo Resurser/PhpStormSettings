@@ -1,7 +1,7 @@
 <application>
   <component name="RainbowSettings">
-    <option name="customNotifyShowed" value="true" />
     <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="version" value="5.20" />
+    <option name="enableRainbowSquigglyBrackets" value="false" />
+    <option name="version" value="6.5" />
   </component>
 </application>

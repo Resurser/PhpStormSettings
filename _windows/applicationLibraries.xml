@@ -243,17 +243,6 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
-    <library name="fc23724e6ef9d536fb895d15f6851ae2_1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__web.webpushs.com_js_push_fc23724e6ef9d536fb895d15f6851ae2_1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__web.webpushs.com_js_push_fc23724e6ef9d536fb895d15f6851ae2_1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="gulp" type="javaScript">
       <properties>
         <option name="frameworkName" value="Node.js Core Modules" />

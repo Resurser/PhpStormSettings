@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="OpenServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Paint.NET" description="Image editor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="D:\web.server\Open Server x64.exe" />
+      <option name="COMMAND" value="C:\Program Files\paint.net\PaintDotNet.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="D:/web.server" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/paint.net" />
     </exec>
   </tool>
   <tool name="Navicat.MySQL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
@@ -11,6 +11,13 @@
       <option name="COMMAND" value="C:\Program Files\PremiumSoft\Navicat Premium\navicat.exe" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="C:/Program Files/PremiumSoft/Navicat Premium" />
+    </exec>
+  </tool>
+  <tool name="OpenServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\web.server\Open Server x64.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/web.server" />
     </exec>
   </tool>
 </toolSet>
