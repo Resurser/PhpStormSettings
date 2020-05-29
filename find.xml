@@ -22,10 +22,10 @@
     <mask>*.ini</mask>
     <mask>*</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.styl</mask>
     <mask>*.php</mask>
     <mask>*.*css</mask>
     <mask>*.sass</mask>
+    <mask>*.js</mask>
   </component>
 </application>
