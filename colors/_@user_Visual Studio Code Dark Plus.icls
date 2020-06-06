@@ -3,12 +3,20 @@
     <property name="created">2020-01-29T12:29:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-29T12:36:52</property>
+    <property name="modified">2020-06-06T22:50:44</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
+    <option name="FILESTATUS_ADDED" value="74ba75" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="966f1e" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MODIFIED" value="6ab2d8" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="74a9d2" />
+    <option name="FILESTATUS_UNKNOWN" value="d1704d" />
+    <option name="FILESTATUS_addedOutside" value="74b464" />
+    <option name="FILESTATUS_modifiedOutside" value="7788c7" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="LINE_NUMBERS_COLOR" value="848484" />
