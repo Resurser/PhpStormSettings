@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-06T22:54:08</property>
+    <property name="modified">2020-06-06T23:02:08</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="616669" />
     <option name="CARET_COLOR" value="d0debf" />
-    <option name="CARET_ROW_COLOR" value="232a25" />
+    <option name="CARET_ROW_COLOR" value="25251e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="b8460b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -41,20 +41,20 @@
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
-    <option name="READONLY_BACKGROUND" value="311714" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="311714" />
+    <option name="READONLY_BACKGROUND" value="1d0e0e" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="230e0b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
     <option name="RIGHT_MARGIN_COLOR" value="50512b" />
     <option name="SELECTED_INDENT_GUIDE" value="d6e73" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ebea6f" />
+    <option name="SELECTED_TEARLINE_COLOR" value="53e3dd" />
     <option name="SELECTION_BACKGROUND" value="1b3f6e" />
     <option name="SELECTION_FOREGROUND" value="aad3c9" />
     <option name="SEPARATOR_ABOVE_COLOR" value="acaeae" />
     <option name="SEPARATOR_BELOW_COLOR" value="7ab6cb" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="f9a5" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4f56f" />
     <option name="ScrollBar.hoverThumbColor" value="2e4247" />
-    <option name="ScrollBar.thumbColor" value="" />
+    <option name="ScrollBar.thumbColor" value="31320f" />
     <option name="TAB_UNDERLINE" value="64c6ff" />
     <option name="TAB_UNDERLINE_INACTIVE" value="3e889c" />
     <option name="TEARLINE_COLOR" value="255f5c" />
@@ -65,7 +65,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
-    <option name="WHITESPACES" value="404236" />
+    <option name="WHITESPACES" value="3e3842" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
@@ -128,7 +128,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="323737" />
+        <option name="BACKGROUND" value="1e2323" />
         <option name="ERROR_STRIPE_COLOR" value="d9dbdb" />
       </value>
     </option>
@@ -63634,7 +63634,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cacdb6" />
-        <option name="BACKGROUND" value="1d1d1a" />
+        <option name="BACKGROUND" value="1a1a1b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
