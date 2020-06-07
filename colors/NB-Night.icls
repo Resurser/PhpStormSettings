@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-07T08:00:53</property>
+    <property name="modified">2020-06-08T00:00:04</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -440,7 +440,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e57b95" />
+        <option name="FOREGROUND" value="e59958" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
