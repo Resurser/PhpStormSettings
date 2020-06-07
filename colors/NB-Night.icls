@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-07T06:54:22</property>
+    <property name="modified">2020-06-07T08:00:53</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -525,7 +525,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="cdc77d" />
+        <option name="FOREGROUND" value="cdc36e" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
