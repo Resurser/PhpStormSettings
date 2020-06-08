@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env*" type=".env file" />
-      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <mapping ext="blade" type="Blade" />
       <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping pattern=".config" type="JSON" />

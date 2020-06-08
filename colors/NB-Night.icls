@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-08T00:14:18</property>
+    <property name="modified">2020-06-08T15:05:28</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -510,9 +510,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="dca54e" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="4b3e33" />
+        <option name="FOREGROUND" value="dda646" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -834,7 +832,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2d2c0c" />
+        <option name="BACKGROUND" value="2b2b17" />
         <option name="EFFECT_COLOR" value="b4af05" />
         <option name="ERROR_STRIPE_COLOR" value="ebe404" />
       </value>
@@ -911,7 +909,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="19222f" />
+        <option name="BACKGROUND" value="242d32" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -63714,8 +63712,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="26280b" />
-        <option name="EFFECT_COLOR" value="b4af05" />
+        <option name="BACKGROUND" value="2b2b17" />
+        <option name="EFFECT_COLOR" value="a5b42b" />
         <option name="ERROR_STRIPE_COLOR" value="ebe404" />
       </value>
     </option>
