@@ -20,6 +20,7 @@
         <option name="anonymizeFunctions" value="true" />
         <option name="anonymizeIdentifiers" value="false" />
         <option name="anonymizeLiterals" value="true" />
+        <option name="enabledIndex" value="false" />
       </language>
     </entry>
     <entry key="TypeScript">

@@ -1799,16 +1799,7 @@
           </rules>
         </token>
       </tokens>
-      <groups>
-        <group>
-          <type>GETTERS_AND_SETTERS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>BREADTH_FIRST</order>
-        </group>
-      </groups>
+      <groups />
       <rules>
         <section>
           <rule>
