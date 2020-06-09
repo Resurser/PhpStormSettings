@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-09T05:40:13</property>
+    <property name="modified">2020-06-09T08:59:54</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -235,8 +235,6 @@
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="303234" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
@@ -263,6 +261,7 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d75145" />
+        <option name="BACKGROUND" value="212324" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -311,7 +310,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="8591be" />
+        <option name="FOREGROUND" value="87abbe" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -1122,6 +1121,7 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d75145" />
+        <option name="BACKGROUND" value="212324" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
