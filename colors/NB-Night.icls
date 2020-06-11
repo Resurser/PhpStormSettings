@@ -3,7 +3,7 @@
     <property name="created">2019-04-23T20:20:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-06-09T08:59:54</property>
+    <property name="modified">2020-06-11T15:38:24</property>
     <property name="originalScheme">NB-Dark-Night</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="616669" />
     <option name="CARET_COLOR" value="d0debf" />
-    <option name="CARET_ROW_COLOR" value="252320" />
+    <option name="CARET_ROW_COLOR" value="282621" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="b8460b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -457,7 +457,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="ed8d7f" />
+        <option name="FOREGROUND" value="d7dcd9" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -581,7 +581,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b9b7d2" />
+        <option name="FOREGROUND" value="d8dcdd" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -604,7 +604,7 @@
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="ed8d7f" />
+        <option name="FOREGROUND" value="ed9945" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -906,7 +906,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="1c292b" />
+        <option name="BACKGROUND" value="282b25" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -63452,7 +63452,7 @@
     </option>
     <option name="PHP_THIS_VAR">
       <value>
-        <option name="FOREGROUND" value="dc9081" />
+        <option name="FOREGROUND" value="d799e1" />
         <option name="EFFECT_COLOR" value="4b2446" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -63629,7 +63629,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cacdb6" />
-        <option name="BACKGROUND" value="191915" />
+        <option name="BACKGROUND" value="1d1d18" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
