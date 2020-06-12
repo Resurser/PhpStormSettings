@@ -57,6 +57,9 @@
       <webServer id="54ee7da3-0fc6-49c8-b97c-45fae33ccec4" name="onlinemarathons" url="http://onlinemarathons.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="c628bedb-6d05-45d4-b4fa-51b78e2845ec" name="lab.local" url="http://lab.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
