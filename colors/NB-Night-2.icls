@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-13T23:00:58</property>
+    <property name="modified">2020-06-15T01:34:45</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -630,7 +630,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="66aec2" />
+        <option name="FOREGROUND" value="48cdad" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
