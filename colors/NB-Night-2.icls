@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-15T01:34:45</property>
+    <property name="modified">2020-06-20T23:20:44</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -898,7 +898,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="252b29" />
+        <option name="BACKGROUND" value="212426" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
