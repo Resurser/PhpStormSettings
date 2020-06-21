@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-20T23:20:44</property>
+    <property name="modified">2020-06-21T04:14:29</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -546,7 +546,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="eb8160" />
+        <option name="FOREGROUND" value="eb8e56" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -63633,7 +63633,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="10a2a1" />
+        <option name="FOREGROUND" value="10afae" />
         <option name="BACKGROUND" value="151c32" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="786c2" />

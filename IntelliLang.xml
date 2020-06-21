@@ -54,6 +54,9 @@
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regtype" fragment="SQL_TYPE_ELEMENT" hosts="PostgreSQL">
       <display-name>(?i)regtype</display-name>
     </injection>
+    <injection language="XML" injector-id="sql" pattern="(?i)xml(type)?">
+      <display-name>(?i)xml(type)?</display-name>
+    </injection>
     <injection language="RegExp" injector-id="sql">
       <display-name>ClickHouse RegExp</display-name>
       <place disabled="true"><![CDATA[sqlElement().forDialects("ClickHouse").functionArgument(1, sqlFunctionCall().name("match", "extract", "extractAll", "Merge").params(sqlExpressions().count(2)))]]></place>
@@ -78,6 +81,11 @@
       <place disabled="true"><![CDATA[sqlElement().forDialects("H2").binaryExpressionArgument(1, sqlBinaryExpression().operation(leafTokens("regexp").or("not", "regexp")))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("H2").functionArgument(1, sqlFunctionCall().name("regexp_like").params(sqlExpressions().count(2, 3)))]]></place>
       <place disabled="true"><![CDATA[sqlElement().forDialects("H2").functionArgument(1, sqlFunctionCall().name("regexp_replace").params(sqlExpressions().count(3, 4)))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="sql">
+      <display-name>HSQL RegExp</display-name>
+      <place disabled="true"><![CDATA[sqlElement().forDialects("HSQLDB").functionArgument(1, sqlFunctionCall().name("regexp_matches", "regexp_substring", "regexp_substring_array").params(sqlExpressions().count(2)))]]></place>
+      <place disabled="true"><![CDATA[sqlElement().forDialects("HSQLDB").functionArgument(1, sqlFunctionCall().name("regexp_replace").params(sqlExpressions().count(3)))]]></place>
     </injection>
     <injection language="RegExp" injector-id="sql">
       <display-name>Oracle RegExp</display-name>
