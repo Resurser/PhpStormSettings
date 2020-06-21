@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-21T05:28:24</property>
+    <property name="modified">2020-06-21T07:03:54</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -462,7 +462,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="aa98d2" />
+        <option name="FOREGROUND" value="aa8ed2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -531,7 +531,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="cb8ecf" />
+        <option name="FOREGROUND" value="cba0cf" />
         <option name="EFFECT_COLOR" value="65526e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -570,7 +570,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="99d2d6" />
+        <option name="FOREGROUND" value="d6afd6" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -580,7 +580,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c19a9a" />
+        <option name="FOREGROUND" value="c7a698" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
