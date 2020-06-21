@@ -7,22 +7,20 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="PARAMETER_INFO_DELAY" value="6000" />
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SMART_BACKSPACE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
-    <option name="AUTOREPARSE_DELAY" value="350" />
+    <option name="AUTOREPARSE_DELAY" value="420" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Segoe UI" />
+    <option name="SECONDARY_FONT_FAMILY" value="Cascadia Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -48,7 +46,6 @@
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="20" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="TOOLTIPS_DELAY_MS" value="400" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
