@@ -22,6 +22,8 @@
     <entry key="ide.tooltip.initialDelay" value="802" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
