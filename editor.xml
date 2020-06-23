@@ -18,7 +18,6 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
