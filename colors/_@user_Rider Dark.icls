@@ -3,7 +3,7 @@
     <property name="created">2020-06-23T04:15:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-23T06:03:59</property>
+    <property name="modified">2020-06-23T06:12:18</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
@@ -24,8 +24,12 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e18183" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e18183" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="7d7d7d" />
+    <option name="FILESTATUS_MODIFIED" value="7fabcd" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7fabcd" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7fabcd" />
     <option name="FILESTATUS_UNKNOWN" value="e18183" />
     <option name="FILESTATUS_changelistConflict" value="e18183" />
+    <option name="FILESTATUS_modifiedOutside" value="7fabcd" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="383838" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
@@ -52,10 +56,10 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="787878" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="88889940" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="383838" />
@@ -64,10 +68,10 @@
     <option name="ScrollBar.Mac.trackColor" value="383838" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.background" value="383838" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.hoverThumbColor" value="88889940" />
