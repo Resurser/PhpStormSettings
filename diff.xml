@@ -94,5 +94,10 @@
         <PlaceSettings />
       </entry>
     </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="MERGE_LST_GUTTER_MARKERS" value="false" />
+      </SharedSettings>
+    </option>
   </component>
 </application>
