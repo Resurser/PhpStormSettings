@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-22T17:51:13</property>
+    <property name="modified">2020-06-23T05:11:42</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -449,7 +449,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="cfa7d7" />
+        <option name="FOREGROUND" value="be97d7" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="6f4b74" />
         <option name="EFFECT_TYPE" value="1" />
@@ -462,7 +462,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="65a3c3" />
+        <option name="FOREGROUND" value="6a95c3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -503,7 +503,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="d398a0" />
+        <option name="FOREGROUND" value="d3a781" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -516,19 +516,19 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d2a278" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="76a5c9" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d2be7a" />
+        <option name="FOREGROUND" value="d2c881" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="86b8d1" />
+        <option name="FOREGROUND" value="86b0d1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -553,14 +553,14 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d67b5c" />
+        <option name="FOREGROUND" value="d87f5b" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="e68843" />
+        <option name="FOREGROUND" value="df7057" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e68843" />
+        <option name="EFFECT_COLOR" value="e37453" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -577,12 +577,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="b699c8" />
+        <option name="FOREGROUND" value="88bbc8" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="dcb37f" />
+        <option name="FOREGROUND" value="dcdab4" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -597,17 +597,12 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="79a7c9" />
+        <option name="FOREGROUND" value="ba9fbc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="DEFAULT_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="e1b369" />
-      </value>
-    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="86b8d1" />
