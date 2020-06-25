@@ -2,10 +2,10 @@
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Linters" />
     <notification groupId="Plugins updates" />
     <notification groupId="Quokka Notifications" displayType="NONE" />
     <notification groupId="Settings Error" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" />
+    <notification groupId="Symfony Support" displayType="NONE" shouldLog="false" />
   </component>
 </application>
