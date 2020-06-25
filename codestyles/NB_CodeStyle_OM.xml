@@ -138,8 +138,7 @@
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,br,hr" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="body" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,form" />
-    <option name="HTML_DO_NOT_ALIGN_CHILDREN_OF_MIN_LINES" value="60" />
+    <option name="HTML_DO_NOT_ALIGN_CHILDREN_OF_MIN_LINES" value="500" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea,code" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
