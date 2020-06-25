@@ -12,15 +12,16 @@
     <option name="SMART_BACKSPACE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-common">
-    <option name="AUTOREPARSE_DELAY" value="420" />
+    <option name="AUTOREPARSE_DELAY" value="350" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
-    <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Cascadia Mono" />
   </component>
   <component name="EditorSettings">
@@ -107,9 +108,6 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
