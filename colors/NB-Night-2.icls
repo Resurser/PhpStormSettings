@@ -3,7 +3,7 @@
     <property name="created">2020-06-13T22:46:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-23T18:43:15</property>
+    <property name="modified">2020-06-26T13:29:11</property>
     <property name="originalScheme">NB-Night</property>
   </metaInfo>
   <colors>
@@ -496,8 +496,8 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="5fbb91" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5cb0d3" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
