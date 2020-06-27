@@ -75,7 +75,6 @@
         <PlaceSettings>
           <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
       </entry>
