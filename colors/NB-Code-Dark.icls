@@ -1,16 +1,16 @@
-<scheme name="NB-Night-2" version="142" parent_scheme="Darcula">
+<scheme name="NB-Code-Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-06-28T18:42:37</property>
+    <property name="created">2020-06-28T19:10:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-28T19:18:28</property>
-    <property name="originalScheme">NB-Night-2</property>
+    <property name="modified">2020-06-28T19:10:46</property>
+    <property name="originalScheme">NB-Night-2 copy10</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="328244" />
     <option name="ANNOTATIONS_COLOR" value="9ea5ab" />
     <option name="BORDER_LINES_COLOR" value="616669" />
-    <option name="CARET_COLOR" value="dedb8e" />
+    <option name="CARET_COLOR" value="deddb3" />
     <option name="CARET_ROW_COLOR" value="252e2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="b8460b" />
@@ -21,7 +21,7 @@
     <option name="ERROR_HINT" value="2d110e" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="6c681e" />
-    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="e24753" />
@@ -30,9 +30,9 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="INDENT_GUIDE" value="353637" />
     <option name="INFORMATION_HINT" value="14272d" />
-    <option name="LINE_NUMBERS_COLOR" value="5aa3aa" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f6f446" />
-    <option name="METHOD_SEPARATORS_COLOR" value="37362c" />
+    <option name="LINE_NUMBERS_COLOR" value="2da6ae" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f5f153" />
+    <option name="METHOD_SEPARATORS_COLOR" value="263637" />
     <option name="MODIFIED_LINES_COLOR" value="236f89" />
     <option name="NOTIFICATION_BACKGROUND" value="21292b" />
     <option name="QUESTION_HINT" value="1f1628" />
@@ -45,11 +45,11 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="230e0b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="4e2d51" />
+    <option name="RIGHT_MARGIN_COLOR" value="50512b" />
     <option name="SELECTED_INDENT_GUIDE" value="d6e73" />
-    <option name="SELECTED_TEARLINE_COLOR" value="4ee2e9" />
-    <option name="SELECTION_BACKGROUND" value="194287" />
-    <option name="SELECTION_FOREGROUND" value="d6d5d7" />
+    <option name="SELECTED_TEARLINE_COLOR" value="53e3dd" />
+    <option name="SELECTION_BACKGROUND" value="195f87" />
+    <option name="SELECTION_FOREGROUND" value="d6d8db" />
     <option name="SEPARATOR_ABOVE_COLOR" value="727373" />
     <option name="SEPARATOR_BELOW_COLOR" value="b386b4" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f56f" />
@@ -78,9 +78,9 @@
     <option name="ScrollBar.thumbBorderColor" value="60606099" />
     <option name="ScrollBar.thumbColor" value="31320f" />
     <option name="ScrollBar.trackColor" value="60606099" />
-    <option name="TAB_UNDERLINE" value="4ea7c8" />
+    <option name="TAB_UNDERLINE" value="3abab4" />
     <option name="TAB_UNDERLINE_INACTIVE" value="999c9b" />
-    <option name="TEARLINE_COLOR" value="275f65" />
+    <option name="TEARLINE_COLOR" value="255f5c" />
     <option name="TOOLTIP" value="262028" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2b4141" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
@@ -931,7 +931,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="25282a" />
+        <option name="BACKGROUND" value="2a2d2f" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -63340,9 +63340,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fbfbfb" />
-        <option name="BACKGROUND" value="35159" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="ebebeb" />
+        <option name="BACKGROUND" value="6264" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63639,12 +63639,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="244655" />
+        <option name="BACKGROUND" value="1d5a57" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="444646" />
+        <option name="BACKGROUND" value="494b4a" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -63654,8 +63654,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d1ceca" />
-        <option name="BACKGROUND" value="222221" />
+        <option name="FOREGROUND" value="d4d7c0" />
+        <option name="BACKGROUND" value="20201f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
