@@ -534,6 +534,11 @@
   <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="false" />
+  </inspection_tool>
   <inspection_tool class="SqlAddNotNullColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlAmbiguousColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="false" level="WARNING" enabled_by_default="false" />

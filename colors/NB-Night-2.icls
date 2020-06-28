@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T18:42:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-28T20:20:25</property>
+    <property name="modified">2020-06-28T20:43:01</property>
     <property name="originalScheme">NB-Night-2</property>
   </metaInfo>
   <colors>
@@ -151,8 +151,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1e2323" />
-        <option name="ERROR_STRIPE_COLOR" value="d9dbdb" />
+        <option name="BACKGROUND" value="302f26" />
+        <option name="ERROR_STRIPE_COLOR" value="e8ebeb" />
       </value>
     </option>
     <option name="BRACE_ATTR">
