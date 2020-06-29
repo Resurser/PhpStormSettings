@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T18:42:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-28T20:43:01</property>
+    <property name="modified">2020-06-30T00:31:42</property>
     <property name="originalScheme">NB-Night-2</property>
   </metaInfo>
   <colors>
@@ -70,7 +70,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="888888" />
     <option name="ScrollBar.Transparent.thumbColor" value="60606099" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="60606099" />
     <option name="ScrollBar.hoverThumbBorderColor" value="60606099" />
     <option name="ScrollBar.hoverThumbColor" value="2e4247" />
@@ -547,7 +547,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d2c57a" />
+        <option name="FOREGROUND" value="d7ce79" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -579,14 +579,14 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e27761" />
+        <option name="FOREGROUND" value="e57a61" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="df7057" />
+        <option name="FOREGROUND" value="d9d408" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e37453" />
+        <option name="EFFECT_COLOR" value="dfda08" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -613,7 +613,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d6ad82" />
+        <option name="FOREGROUND" value="daa87f" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -931,7 +931,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="25282a" />
+        <option name="BACKGROUND" value="212325" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -63655,7 +63655,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d1ceca" />
-        <option name="BACKGROUND" value="222221" />
+        <option name="BACKGROUND" value="1f1f1e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
