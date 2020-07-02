@@ -3,7 +3,7 @@
     <property name="created">2020-07-01T03:12:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-01T05:41:22</property>
+    <property name="modified">2020-07-02T22:22:59</property>
     <property name="originalScheme">NB-Code-Dark copy</property>
   </metaInfo>
   <colors>
@@ -63655,7 +63655,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d4d7c0" />
-        <option name="BACKGROUND" value="20201f" />
+        <option name="BACKGROUND" value="1d1e1c" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
