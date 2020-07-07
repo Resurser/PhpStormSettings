@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,10 +25,10 @@
     <mask>*</mask>
     <mask>*.twig</mask>
     <mask>*.*css</mask>
-    <mask>*.sass</mask>
     <mask>*.ini</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
