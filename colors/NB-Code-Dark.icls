@@ -3,7 +3,7 @@
     <property name="created">2020-07-01T03:12:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-10T12:58:02</property>
+    <property name="modified">2020-07-16T00:31:50</property>
     <property name="originalScheme">NB-Code-Dark copy</property>
   </metaInfo>
   <colors>
@@ -160,7 +160,7 @@
         <option name="FOREGROUND" value="fefef7" />
         <option name="BACKGROUND" value="5c5f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e9191" />
+        <option name="EFFECT_COLOR" value="a9163" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
@@ -169,7 +169,7 @@
         <option name="FOREGROUND" value="fefef7" />
         <option name="BACKGROUND" value="5c5f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e9191" />
+        <option name="EFFECT_COLOR" value="a9163" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
@@ -63340,9 +63340,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ebebeb" />
-        <option name="BACKGROUND" value="6264" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="efefef" />
+        <option name="BACKGROUND" value="5557" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="27a6ae" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -63428,7 +63429,7 @@
         <option name="FOREGROUND" value="fffcf3" />
         <option name="BACKGROUND" value="5c5f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e9191" />
+        <option name="EFFECT_COLOR" value="a9163" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
