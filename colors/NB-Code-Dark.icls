@@ -3,7 +3,7 @@
     <property name="created">2020-07-01T03:12:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-23T01:04:52</property>
+    <property name="modified">2020-07-23T03:11:18</property>
     <property name="originalScheme">NB-Code-Dark copy</property>
   </metaInfo>
   <colors>
@@ -158,9 +158,9 @@
     <option name="BRACE_ATTR">
       <value>
         <option name="FOREGROUND" value="fefef7" />
-        <option name="BACKGROUND" value="5c5f" />
+        <option name="BACKGROUND" value="176569" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="a9163" />
+        <option name="EFFECT_COLOR" value="2c4f91" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
@@ -169,7 +169,6 @@
         <option name="FOREGROUND" value="fefef7" />
         <option name="BACKGROUND" value="5c5f" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="a9163" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
@@ -413,7 +412,6 @@
         <option name="FOREGROUND" value="fafbff" />
         <option name="BACKGROUND" value="464849" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="a54ca4" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
@@ -715,7 +713,6 @@
         <option name="FOREGROUND" value="ffffec" />
         <option name="BACKGROUND" value="464849" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="c543cb" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -63427,9 +63424,9 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="fffcf3" />
-        <option name="BACKGROUND" value="5c5f" />
+        <option name="BACKGROUND" value="176569" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="a9163" />
+        <option name="EFFECT_COLOR" value="2c4f91" />
         <option name="ERROR_STRIPE_COLOR" value="ea3a3" />
       </value>
     </option>
