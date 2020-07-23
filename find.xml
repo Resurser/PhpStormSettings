@@ -24,8 +24,8 @@
     <mask>*.ini</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
-    <mask>*.sass</mask>
     <mask>*.*css</mask>
     <mask>*.php</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
