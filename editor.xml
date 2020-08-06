@@ -43,9 +43,8 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="10" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="350" />
