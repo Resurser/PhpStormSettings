@@ -15,12 +15,6 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
-  <CsvCodeStyleSettings>
-    <option name="SPACE_AFTER_SEPARATOR" value="true" />
-    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
-    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
-    <option name="LEADING_WHITE_SPACES" value="true" />
-  </CsvCodeStyleSettings>
   <DB2CodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
@@ -1970,9 +1964,6 @@
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="csv">
-    <option name="RIGHT_MARGIN" value="-1" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
