@@ -1,0 +1,5 @@
+<application>
+  <component name="ULIDGeneratorSettings">
+    <option name="guidFormat" value="true" />
+  </component>
+</application>
