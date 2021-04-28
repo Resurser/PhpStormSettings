@@ -2,10 +2,8 @@
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
-      <option name="valueLookupDelay" value="500" />
     </data-views>
     <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
     </general>

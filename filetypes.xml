@@ -1,39 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <mapping ext="blade" type="Blade" />
-      <removed_mapping ext="htm" approved="true" type="HTML" />
-      <mapping pattern=".config" type="JSON" />
-      <mapping ext="mp4" type="Native" />
-      <mapping ext="htm" type="PHP" />
-      <mapping ext="tpl" type="PHP" />
-      <mapping pattern="add_i18n_tables.sql" type="PLAIN_TEXT" />
-      <mapping pattern=".env-test-local" type="PLAIN_TEXT" />
-      <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping pattern="*.postcss.css" type="SCSS" />
-      <mapping pattern="*.postcss.*css" type="SCSS" />
-      <mapping ext="pcss" type="SCSS" />
-      <mapping pattern="*.smarty.tpl" type="Smarty" />
-      <mapping ext="smarty" type="Smarty" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <mapping pattern="*.twig.php" type="Twig" />
-      <removed_mapping ext="htm" approved="true" type="HTML" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <removed_mapping ext="pcss" approved="true" type="PostCSS" />
-      <removed_mapping pattern="*.postcss.*" approved="true" type="Sass" />
+      <mapping pattern="*.postcss*" type="SCSS" />
+      <removed_mapping ext="bat" approved="true" type="Batch" />
+      <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>

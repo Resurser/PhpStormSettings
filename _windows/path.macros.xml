@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="pp." value="1" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />

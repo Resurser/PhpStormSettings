@@ -5,20 +5,22 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="115" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="105" />
+  <option name="SOFT_MARGINS" value="110" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -46,9 +48,11 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -76,9 +80,11 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -104,9 +110,41 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="SET_EL_COMMA" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="CORTEGE_CLOSING" value="9" />
+    <option name="CORTEGE_SPACE_AFTER_COMMA" value="false" />
+    <option name="EXPR_BINARY_OP_ALIGN" value="false" />
+    <option name="EXPR_CALL_SPACE_AFTER_COMMA" value="false" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
+    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -133,6 +171,7 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
@@ -141,7 +180,6 @@
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
-    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -168,9 +206,11 @@
   <LessCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </LessCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -201,11 +241,11 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
-    <option name="QUOTE_IDENTIFIER" value="0" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="QUOTE_IDENTIFIER" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -230,10 +270,13 @@
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -265,6 +308,7 @@
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
@@ -294,9 +338,11 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -328,9 +374,11 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <SQLiteCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -362,15 +410,19 @@
   </SassCodeStyleSettings>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
-    <option name="QUOTE_IDENTIFIER" value="0" />
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="QUOTE_IDENTIFIER" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
     <option name="INSERT_INTO_NL" value="2" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
@@ -408,9 +460,11 @@
   <StylusCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
   </StylusCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="INSERT_INTO_NL" value="2" />
@@ -464,1002 +518,6 @@
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
-    <arrangement>
-      <rules>
-        <section>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-family</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-size</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-weight</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-variant</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-size-adjust</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?font-stretch</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?line-height</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?position</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?z-index</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?top</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?right</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?bottom</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?left</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?display</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?visibility</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?float</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?clear</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?overflow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?overflow-x</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?overflow-y</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?clip</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?zoom</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?align-content</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?align-items</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?align-self</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-flow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-basis</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-direction</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-grow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-shrink</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-wrap</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?justify-content</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?order</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?box-sizing</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?min-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?max-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?height</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?min-height</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?max-height</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?margin</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?margin-top</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?margin-right</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?margin-bottom</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?margin-left</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?padding</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?padding-top</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?padding-right</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?padding-bottom</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?padding-left</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?table-layout</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?empty-cells</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?caption-side</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-spacing</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-collapse</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?list-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?list-style-position</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?list-style-type</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?list-style-image</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?content</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?quotes</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?counter-reset</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?counter-increment</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?resize</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?cursor</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?user-select</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?nav-index</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?nav-up</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?nav-right</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?nav-down</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?nav-left</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transition</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transition-delay</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transition-timing-function</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transition-duration</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transition-property</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transform</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?transform-origin</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-name</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-duration</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-play-state</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-timing-function</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-delay</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-iteration-count</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?animation-direction</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-align</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-align-last</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?vertical-align</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?white-space</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-decoration</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-emphasis</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-emphasis-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-emphasis-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-emphasis-position</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-indent</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-justify</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?letter-spacing</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?word-spacing</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-outline</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-transform</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-wrap</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-overflow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-overflow-ellipsis</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-overflow-mode</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?word-wrap</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?word-break</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?tab-size</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?hyphens</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?pointer-events</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?opacity</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-right</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-right-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-right-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-right-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-left</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-left-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-left-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-left-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-radius</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top-left-radius</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-top-right-radius</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom-right-radius</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-bottom-left-radius</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image-source</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image-slice</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image-outset</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?border-image-repeat</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?outline</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?outline-width</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?outline-style</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?outline-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?outline-offset</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-color</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-image</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-repeat</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-attachment</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-position</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-position-x</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-position-y</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-clip</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-origin</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?background-size</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?box-decoration-break</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?box-shadow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?text-shadow</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-      </rules>
-    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="DB2">
     <indentOptions>
@@ -1527,11 +585,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Jade">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -1670,7 +723,6 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
@@ -1705,6 +757,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="110" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />

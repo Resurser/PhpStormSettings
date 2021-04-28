@@ -1,403 +1,48 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/datatables.net" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/datatables.net-colreorder" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/gulp" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/gulp-util" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/select2" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/swiper" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="amp-accordion-0.1" type="javaScript">
+    <library name="fancybox" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-accordion-0.1.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_fancybox_3.5.7_jquery.fancybox.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-accordion-0.1.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_fancybox_3.5.7_jquery.fancybox.js" />
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="amp-ad-0.1" type="javaScript">
+    <library name="font-awesome" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-ad-0.1.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-ad-0.1.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="amp-analytics-0.1" type="javaScript">
+    <library name="select2" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-analytics-0.1.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.1.0-beta.1_dist_css_select2.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.1.0-beta.1_dist_js_select2.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-analytics-0.1.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.1.0-beta.1_dist_css_select2.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.1.0-beta.1_dist_js_select2.js" />
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="amp-bind-0.1" type="javaScript">
+    <library name="swiper" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-bind-0.1.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_swiper_swiper-bundle.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-bind-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-carousel-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-carousel-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-carousel-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-fit-text-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-fit-text-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-fit-text-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-form-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-form-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-form-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-geo-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-geo-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-geo-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-iframe-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-iframe-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-iframe-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-image-lightbox-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-image-lightbox-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-image-lightbox-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-jwplayer-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-jwplayer-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-jwplayer-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-lightbox-gallery-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-lightbox-gallery-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-lightbox-gallery-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-list-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-list-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-list-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-mustache-0.2" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-mustache-0.2.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-mustache-0.2.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-position-observer-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-position-observer-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-position-observer-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-selector-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-selector-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-selector-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-sidebar-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-sidebar-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-sidebar-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-social-share-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-social-share-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-social-share-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="amp-video-0.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-video-0.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0_amp-video-0.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="datatables.net" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-      </properties>
-      <CLASSES />
-      <DOCUMENTATION>
-        <root url="https://datatables.net/reference/api/" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="gulp" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="Node.js Core Modules" />
-      </properties>
-      <CLASSES />
-      <DOCUMENTATION>
-        <root url="https://gulpjs.org/" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="html5shiv" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_html5shiv_3.7.3_html5shiv.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_html5shiv_3.7.3_html5shiv.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="html5shiv-printshiv" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_html5shiv_3.7.3_html5shiv-printshiv.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_html5shiv_3.7.3_html5shiv-printshiv.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jquery" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="https://api.jquery.com/" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="jquery-ui" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <option name="frameworkVersion" value="1.9.1" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_themes_base_jquery-ui.css" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_themes_base_jquery-ui.css" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="https://api.jquery.com/" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="jquery.mobile-1.5.0-alpha.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_mobile_1.5.0-alpha.1_jquery.mobile-1.5.0-alpha.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_mobile_1.5.0-alpha.1_jquery.mobile-1.5.0-alpha.1.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jquery.ui.touch-punch" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery UI" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jqueryui-touch-punch_0.2.3_jquery.ui.touch-punch.min.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jqueryui-touch-punch_0.2.3_jquery.ui.touch-punch.min.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://jqueryui.com/demos" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="require" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_require.js_2.3.5_require.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_require.js_2.3.5_require.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="respond" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_respond.js_1.4.2_respond.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_respond.js_1.4.2_respond.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="share" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="v0" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ampproject.org_v0.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="waypoints" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_waypoints_2.0.3_waypoints.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_waypoints_2.0.3_waypoints.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="widgets" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_platform.twitter.com_widgets.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_platform.twitter.com_widgets.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_swiper_swiper-bundle.css" />
       </CLASSES>
       <SOURCES />
     </library>

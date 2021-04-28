@@ -1,63 +1,13 @@
 <application>
   <component name="WebServers">
-    <sftpAdvancedGlobalOptions>
-      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
-        <option name="hostKeyCheckingLevel" value="NO" />
-      </SftpAdvancedOptions>
-    </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="7d14a2e6-b3a4-4b90-bab6-e2ece99dff6e" name="cp.need4study.local" url="http://cp.need4study.local">
+      <webServer id="e9e14941-28e4-4f04-91d6-7fdc97081094" name="onlinemarathons.local" url="http://onlinemarathons.local/">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="953d143d-e54a-4275-887f-ff902fa7f054" name="DemoTest" url="http://demo.local/adv-php-libs/">
+      <webServer id="bc64c02d-bd42-41b0-a3f7-979e39638099" name="raport-uso.local" url="http://raport-uso.local/">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="0f388b81-bf3e-4467-90b0-9b0a54531f20" name="EmPlat" url="http://emplat.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="2e09a304-1e03-45fc-9094-28d453b4de0c" name="FilesManager" url="http://demo.local/fsm/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="b162ffc7-ad36-47b6-85a6-c9dbc20dece4" name="edu.thetacenter.ua" url="http://edu.thetacenter.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="3bae6b10-667e-4fb8-a0b3-80734a9d123b" name="csgo.local" url="http://csgo.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="6234d5cb-c67b-402f-a3b5-91ce43ffa5d9" name="eusign.local" url="http://eusign.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="afe32e84-83cd-437e-86d4-c1fbbe9f555a" name="yarmel" url="http://yarmel.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="d0925061-4ff1-4189-96e1-374054290d0b" name="woweb" url="http://woweb.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="fba6a0b7-3187-45ed-a179-796c483ea847" name="need4study" url="http://need4study.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="98443de4-b509-44a3-9bae-ba420746316f" name="poidem.local" url="http://poidem.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="41c26848-624a-4d72-a7ac-8adb2ec33dd1" name="shop.mycona.local" url="http://shop.mycona.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="e5b018f5-fbbd-464c-a77b-4be16d7e0040" name="androidp1" url="http://www.androidp1.com/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="e4cd7e9e-8d80-4c84-b4cc-730d7baff6c4" name="NZ" url="http://zastavna.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="2b9dc405-1986-473b-aba7-688c97d05f23" name="poidem" url="http://poidem2.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="27bcd169-aa1d-4306-8c3f-d031b61e8f85" name="raport_uso.local" url="http://raport-uso.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="54ee7da3-0fc6-49c8-b97c-45fae33ccec4" name="onlinemarathons" url="http://onlinemarathons.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="c628bedb-6d05-45d4-b4fa-51b78e2845ec" name="lab.local" url="http://lab.local">
+      <webServer id="60333cbd-8ab2-46e0-9402-1cc6f3b557b0" name="instaco" url="http://instaco.ua">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>

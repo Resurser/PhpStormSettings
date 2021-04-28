@@ -3,7 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://scm.instaco.com.ua" />
+          <option name="url" value="http://gitlab.com" />
           <option name="userName" value="oleg.tyran@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -11,26 +11,24 @@
           <option name="userName" value="oleg.tyran@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="oleg.tyran" />
+          <option name="url" value="http://scm.instaco.com.ua" />
+          <option name="userName" value="oleg.tyran@gmail.com" />
         </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
       </list>
     </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_WHITESPACES_IN_LST" value="false" />
-    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
   </component>
 </application>

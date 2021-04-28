@@ -1,137 +1,71 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
-    <option name="PARAMETER_INFO_DELAY" value="6000" />
+    <option name="PARAMETER_INFO_DELAY" value="3000" />
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SMART_BACKSPACE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspection-tamaranga">
-    <option name="AUTOREPARSE_DELAY" value="350" />
+    <option name="AUTOREPARSE_DELAY" value="450" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="LINE_SPACING" value="1.1" />
-    <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Cascadia Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="LINE_SPACING" value="1.15" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
         <entry key="PHP" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="Twig" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="15" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="10" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="CARET_BLINKING_PERIOD" value="350" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JavaScript.js.type.hints" />
-      </set>
-    </option>
     <option name="disabledLanguages">
       <set>
+        <option value="JSON" />
         <option value="JavaScript" />
         <option value="PHP" />
+        <option value="SQL" />
+        <option value="TypeScript" />
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-    <settingsMapElement>
-      <JavaScript.js.chain.hints>
-        <Settings>
-          <option name="uniqueTypeCount" value="3" />
-        </Settings>
-      </JavaScript.js.chain.hints>
-    </settingsMapElement>
+    <option name="lastViewedProviderKeyId" value="composer.package.version.hints" />
   </component>
-  <component name="InspectionProfileManager">
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="UNUSED ENTRY" />
-      <item index="1" class="java.lang.String" itemvalue="INFORMATION" />
-      <item index="2" class="java.lang.String" itemvalue="TYPO" />
-      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="4" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="5" class="java.lang.String" itemvalue="INFO" />
-      <item index="6" class="java.lang.String" itemvalue="WARNING" />
-      <item index="7" class="java.lang.String" itemvalue="ERROR" />
-    </list>
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
-  </component>
-  <component name="JsonEditorOptions">
-    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeAutoDelay="450" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
-  <component name="SqlCodeCompletionSettings" SUGGEST_ALIAS_NAMES="false">
-    <option name="suggestAliasNames" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="namespaceQualification" value="Never" />
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <multiLine>false</multiLine>
-    <pattern pattern="\btodo\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="ac7423" />
-      <option name="BACKGROUND" value="f2e42" />
+    <pattern icon="question" pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="[!]{2,}(.*?)[!]{2,}">
+      <option name="FOREGROUND" value="51c3c4" />
+      <option name="BACKGROUND" value="274c54" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="314cb9" />
-      <option name="EFFECT_TYPE" value="5" />
+      <option name="EFFECT_COLOR" value="3e7985" />
+      <option name="ERROR_STRIPE_COLOR" value="7a6c2" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" pattern="\B[!]{2,}\B.*[!]{2,}">
-      <option name="FOREGROUND" value="62bdcd" />
-      <option name="BACKGROUND" value="202d41" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="256dc2" />
-      <option name="ERROR_STRIPE_COLOR" value="256dc2" />
-    </pattern>
-    <filter name="Attention">
-      <pattern index="2" />
-    </filter>
   </component>
   <component name="XmlEditorOptions">
-    <option name="insertQuotesForAttributeValue" value="false" />
-  </component>
-  <component name="XmlSettings">
-    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+    <option name="tagTreeHighlightingLevelCount" value="5" />
   </component>
 </application>

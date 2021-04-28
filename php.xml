@@ -1,34 +1,35 @@
 <application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
-  <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e8852ece-c6b2-462c-820a-aa2ab620badd" name="PHP 7.3" home="D:\web.server\modules\php\PHP_7.3-x64\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="D:\web.server\modules\php\PHP_7.3-x64\ext\php_xdebug.dll" />
-      <interpreter id="4f173ab1-7d35-4043-a68e-822509051759" name="PHP 7.1" home="D:\web.server\modules\php\PHP_7.1-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="089cf37f-b502-48fa-a420-6240391c29a7" name="PHP 7.1" home="C:\nb\OpenServer\modules\php\PHP_7.1\php-win.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="dac75525-4a94-4830-991a-1c130cfe69e1" name="PHP 7.3" home="C:\nb\OpenServer\modules\php\PHP_7.3\php-win.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="056e2960-572c-41b7-ad6d-8199435c8787" name="PHP 7.2" home="C:\nb\OpenServer\modules\php\PHP_7.2\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="D:\web.server\modules\php\PHP_7.3-x64\php-cgi.exe" php_cli="D:\web.server\modules\php\PHP_7.3-x64\php.exe" path_separator=";" version="7.3.9">
+        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.3\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.3\php-win.exe" path_separator=";" version="7.3.17">
           <additional_php_ini />
-          <configuration_file>D:\web.server\modules\php\PHP_7.3-x64\php.ini</configuration_file>
+          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.3\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.1">
+            <debugger_info debugger="xdebug" debugger_version="3.0.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
           <loaded_extensions>
             <extension name="Core" />
-            <extension name="PDFlib" />
             <extension name="PDO" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -37,6 +38,7 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="enchant" />
+            <extension name="eusphpe" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -46,6 +48,7 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="imagick" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -59,7 +62,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="readline" />
-            <extension name="redis" />
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
@@ -81,26 +83,25 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="D:\web.server\modules\php\PHP_7.1-x64\php-cgi.exe" php_cli="D:\web.server\modules\php\PHP_7.1-x64\php.exe" path_separator=";" version="7.1.32">
+        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.1\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.1\php-win.exe" path_separator=";" version="7.1.33">
           <additional_php_ini />
-          <configuration_file>D:\web.server\modules\php\PHP_7.1-x64\php.ini</configuration_file>
+          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.1\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.0">
+            <debugger_info debugger="xdebug" debugger_version="2.9.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
           <loaded_extensions>
             <extension name="Core" />
-            <extension name="PDFlib" />
             <extension name="PDO" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="amqp" />
+            <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -109,7 +110,6 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="enchant" />
-            <extension name="eusphpe" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -119,13 +119,11 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="imagick" />
-            <extension name="ionCube Loader" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
-            <extension name="memcache" />
-            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -135,7 +133,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="readline" />
-            <extension name="redis" />
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
@@ -150,7 +147,75 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="yaml" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.2\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.2\php.exe" path_separator=";" version="7.2.22">
+          <additional_php_ini />
+          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.2\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value="." />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.1">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="enchant" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="imagick" />
+            <extension name="ionCube Loader" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="timezonedb" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
@@ -159,7 +224,7 @@
     </phpInfoCache>
   </component>
   <component name="PhpSmartKeysConfiguration">
-    <option name="promptFindUsagesOfBaseMethod" value="false" />
+    <option name="escapeSymbolsInStringLiterals" value="true" />
     <option name="selectVariableNameWithoutDollar" value="true" />
   </component>
 </application>
