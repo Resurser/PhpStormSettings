@@ -2,7 +2,7 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
-        <entry key="RenderedDoc" value="false" />
+        <entry key="RenderedDoc" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.DatabaseNotebookLineMarkerProvider" value="true" />

@@ -3,7 +3,7 @@
     <property name="created">2020-07-01T03:12:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-23T03:11:18</property>
+    <property name="modified">2021-04-29T02:11:04</property>
     <property name="originalScheme">NB-Code-Dark copy</property>
   </metaInfo>
   <colors>
@@ -461,7 +461,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e58966" />
+        <option name="FOREGROUND" value="db7f5c" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -484,7 +484,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="70a7cb" />
+        <option name="FOREGROUND" value="ba93de" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -538,8 +538,8 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c3a2c3" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="d9ba6a" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -577,14 +577,14 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e28761" />
+        <option name="FOREGROUND" value="d48575" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="df7057" />
+        <option name="FOREGROUND" value="ee9805" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="e37453" />
+        <option name="EFFECT_COLOR" value="ee9805" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -601,12 +601,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c9a9e2" />
+        <option name="FOREGROUND" value="e08c63" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="dcdab4" />
+        <option name="FOREGROUND" value="cf9c74" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -616,13 +616,12 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="e9c460" />
+        <option name="FOREGROUND" value="fac16b" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="ac8fe2" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="9690e3" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -63482,10 +63481,10 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
