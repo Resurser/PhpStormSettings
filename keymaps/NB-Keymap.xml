@@ -208,6 +208,10 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -216,7 +220,7 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="RunJsbtTask">
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="alt f10" />
   </action>
   <action id="Runner.CloseAllUnpinnedViews">
     <keyboard-shortcut first-keystroke="ctrl alt f4" />
@@ -238,7 +242,7 @@
   </action>
   <action id="ShowFilePath" />
   <action id="ShowGulpTasks">
-    <keyboard-shortcut first-keystroke="alt f10" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -253,6 +257,7 @@
   <action id="StringManipulation.AlignToColumns">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="SwitchHeaderSource" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
@@ -283,6 +288,7 @@
   <action id="UnmarkResourceRoot">
     <keyboard-shortcut first-keystroke="shift ctrl m" second-keystroke="shift ctrl n" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl p" />
