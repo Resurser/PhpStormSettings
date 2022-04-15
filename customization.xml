@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -19,22 +14,6 @@
     <group value="EditorGutterToggleGlobalLineNumbers" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Editor Gutter Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalJavaDoc" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="View" />
-      <path value="Code Editor View Actions" />
-      <path value="Code View Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalJavaDoc" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="View" />
-      <path value="Code Editor View Actions" />
-      <path value="Code View Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="13">

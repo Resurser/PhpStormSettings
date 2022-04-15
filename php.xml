@@ -1,19 +1,17 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
-  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="089cf37f-b502-48fa-a420-6240391c29a7" name="PHP 7.1" home="C:\nb\OpenServer\modules\php\PHP_7.1\php-win.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="dac75525-4a94-4830-991a-1c130cfe69e1" name="PHP 7.3" home="C:\nb\OpenServer\modules\php\PHP_7.3\php-win.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="056e2960-572c-41b7-ad6d-8199435c8787" name="PHP 7.2" home="C:\nb\OpenServer\modules\php\PHP_7.2\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="dac75525-4a94-4830-991a-1c130cfe69e1" name="PHP 7.3" home="D:\OpenServer\modules\php\PHP_7.3\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="413fd8bf-9019-49b2-bb91-c08cfd836e3d" name="PHP 7.4" home="D:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.3\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.3\php-win.exe" path_separator=";" version="7.3.17">
+        <phpinfo binary_type="PHP" php_cgi="D:\OpenServer\modules\php\PHP_7.3\php-cgi.exe" php_cli="D:\OpenServer\modules\php\PHP_7.3\php.exe" path_separator=";" version="7.3.26">
           <additional_php_ini />
-          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.3\php.ini</configuration_file>
+          <configuration_file>D:\OpenServer\modules\php\PHP_7.3\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
@@ -82,15 +80,15 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.1\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.1\php-win.exe" path_separator=";" version="7.1.33">
+      <interpreter name="PHP 7.4">
+        <phpinfo binary_type="PHP" php_cgi="D:\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="D:\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.20">
           <additional_php_ini />
-          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.1\php.ini</configuration_file>
+          <configuration_file>D:\OpenServer\modules\php\PHP_7.4\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.4">
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -101,7 +99,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -110,6 +107,7 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="enchant" />
+            <extension name="eusphpe" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -123,75 +121,7 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="timezonedb" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\nb\OpenServer\modules\php\PHP_7.2\php-cgi.exe" php_cli="C:\nb\OpenServer\modules\php\PHP_7.2\php.exe" path_separator=";" version="7.2.22">
-          <additional_php_ini />
-          <configuration_file>C:\nb\OpenServer\modules\php\PHP_7.2\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value="." />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.1">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="enchant" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="imagick" />
-            <extension name="ionCube Loader" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
+            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -209,7 +139,6 @@
             <extension name="standard" />
             <extension name="timezonedb" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />

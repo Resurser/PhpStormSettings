@@ -14,7 +14,7 @@
     <option name="myCustomPropertiesList">
       <value>
         <list size="2">
-          <item index="0" class="java.lang.String" itemvalue="border-radius" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="border-radius" />
           <item index="1" class="java.lang.String" itemvalue="animation" />
         </list>
       </value>
@@ -95,7 +95,7 @@
     <option name="myValues">
       <value>
         <list size="11">
-          <item index="0" class="java.lang.String" itemvalue="custom-element" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="custom-element" />
           <item index="1" class="java.lang.String" itemvalue="xlink:href" />
           <item index="2" class="java.lang.String" itemvalue="⚡" />
           <item index="3" class="java.lang.String" itemvalue="amp-custom" />
@@ -115,7 +115,7 @@
     <option name="myValues">
       <value>
         <list size="15">
-          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
@@ -163,6 +163,7 @@
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
   </inspection_tool>
+  <inspection_tool class="PhpDefineCanBeReplacedWithConstInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="MAGIC_HIGHLIGHT_LEVEL_NAME" value="WARNING" />
   </inspection_tool>
@@ -191,17 +192,8 @@
   <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="limit" value="7" />
   </inspection_tool>
-  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="DOWNGRADE_SEVERITY" value="true" />
-  </inspection_tool>
-  <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
-  </inspection_tool>
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
-  </inspection_tool>
-  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">

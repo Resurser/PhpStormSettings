@@ -1,24 +1,25 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-09-22T17:37:17</property>
+    <property name="created">2022-04-13T05:09:52</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-02-16T20:47:08</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-04-13T05:19:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="80b872" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="88883a" />
+    <option name="FILESTATUS_ADDED" value="79bf67" />
+    <option name="FILESTATUS_DELETED" value="797979" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="797979" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="83862c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="dc9163" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="dc9163" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="dc9163" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
-    <option name="FILESTATUS_addedOutside" value="80b872" />
+    <option name="FILESTATUS_MERGED" value="ae8ac2" />
+    <option name="FILESTATUS_MODIFIED" value="72a3c9" />
+    <option name="FILESTATUS_UNKNOWN" value="ea717b" />
+    <option name="FILESTATUS_addedOutside" value="79bf67" />
+    <option name="FILESTATUS_changelistConflict" value="d58c6c" />
+    <option name="FILESTATUS_modifiedOutside" value="7a98d0" />
   </colors>
-  <attributes>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="c6c6a9" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-  </attributes>
 </scheme>

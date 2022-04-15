@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,8 +17,8 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.sql</mask>
-    <mask>*.*css</mask>
     <mask>*.js</mask>
+    <mask>*.*css</mask>
     <mask>*.php</mask>
   </component>
 </application>

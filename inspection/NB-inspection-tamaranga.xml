@@ -56,8 +56,8 @@
     <option name="myCustomPropertiesList">
       <value>
         <list size="3">
-          <item index="0" class="java.lang.String" itemvalue="text-rendering" />
-          <item index="$pp.$" class="java.lang.String" itemvalue="transition-transform" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="text-rendering" />
+          <item index="1" class="java.lang.String" itemvalue="transition-transform" />
           <item index="2" class="java.lang.String" itemvalue="rotate" />
         </list>
       </value>
@@ -114,7 +114,6 @@
   </inspection_tool>
   <inspection_tool class="EncryptionInitializationVectorRandomnessInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EventMethodCall" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_NON_THROWN_EXCEPTIONS" value="true" />
@@ -167,8 +166,8 @@
     <option name="myValues">
       <value>
         <list size="25">
-          <item index="0" class="java.lang.String" itemvalue="data-type" />
-          <item index="$pp.$" class="java.lang.String" itemvalue="original-title" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="data-type" />
+          <item index="1" class="java.lang.String" itemvalue="original-title" />
           <item index="2" class="java.lang.String" itemvalue="placeholder" />
           <item index="3" class="java.lang.String" itemvalue="amp-boilerplate" />
           <item index="4" class="java.lang.String" itemvalue="amp" />
@@ -202,8 +201,8 @@
     <option name="myValues">
       <value>
         <list size="15">
-          <item index="0" class="java.lang.String" itemvalue="nobr" />
-          <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
@@ -264,7 +263,6 @@
   <inspection_tool class="JSSwitchVariableDeclarationIssue" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreNonBlockScope" value="true" />
   </inspection_tool>
-  <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedFunction" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSUnresolvedLibraryURL" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSUnresolvedVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
@@ -343,7 +341,6 @@
   <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonSecureUniqidUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="REPORT_DUPLICATE_CONDITIONS" value="false" />
     <option name="REPORT_INSTANCE_OF_FLAWS" value="false" />
   </inspection_tool>
   <inspection_tool class="NotOptimalRegularExpressionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -375,6 +372,7 @@
     <option name="CODING_STANDARD" value="PHPCS" />
     <option name="SHOW_SNIFF_NAMES" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpClassConstantAccessedViaChildClassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
@@ -425,7 +423,7 @@
   <inspection_tool class="PhpMissingParamTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMissingReturnTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpMultipleClassDeclarationsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="PhpMultipleClassDeclarationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="DONT_INSPECT_DOCS" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -452,7 +450,6 @@
   <inspection_tool class="PhpTranslationDomainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpTranslationKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedCallbackInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedConstantInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">

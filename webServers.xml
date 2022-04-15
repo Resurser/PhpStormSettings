@@ -1,14 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e9e14941-28e4-4f04-91d6-7fdc97081094" name="onlinemarathons.local" url="http://onlinemarathons.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="bc64c02d-bd42-41b0-a3f7-979e39638099" name="raport-uso.local" url="http://raport-uso.local/">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-      <webServer id="60333cbd-8ab2-46e0-9402-1cc6f3b557b0" name="instaco" url="http://instaco.ua">
-        <fileTransfer accessType="LOCAL" port="0" />
+      <webServer id="645164da-0112-4b65-9c00-0492a20394b0" name="LoFi" url="https://lofi.local">
+        <fileTransfer accessType="LOCAL" port="$pp.$" />
       </webServer>
     </option>
   </component>
