@@ -133,7 +133,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myValues">
       <value>
-        <list size="$pp.$" />
+        <list size="0" />
       </value>
     </option>
     <option name="myCustomValuesEnabled" value="true" />
@@ -142,8 +142,8 @@
     <option name="myValues">
       <value>
         <list size="7">
-          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
-          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
@@ -258,7 +258,7 @@
   <inspection_tool class="PhpToStringReturnInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpTranslationDomainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpTranslationKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedClassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
     <option name="NOTIFY_DYNAMIC_DECLARATION" value="false" />
@@ -302,6 +302,7 @@
   <inspection_tool class="PostCssMediaRange" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PrefixedIncDecrementEquivalentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ProperNullCoalescingOperatorUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PropertyInitializationFlawsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="RealpathInSteamContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReferenceMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpDuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
