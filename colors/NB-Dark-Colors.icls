@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T15:07:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-04-16T12:49:46</property>
+    <property name="modified">2022-04-16T13:24:00</property>
     <property name="originalScheme">NB-Dark-Colors copy1</property>
   </metaInfo>
   <colors>
@@ -545,7 +545,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="cdc36e" />
+        <option name="FOREGROUND" value="d2c47d" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
