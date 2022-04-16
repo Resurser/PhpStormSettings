@@ -1,7 +1,0 @@
-<application>
-  <component name="phpfmtSettings">
-    <option name="activated" value="false" />
-    <option name="phpExecutable" value="php.exe" />
-    <option name="psr1" value="true" />
-  </component>
-</application>

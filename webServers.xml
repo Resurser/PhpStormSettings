@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="645164da-0112-4b65-9c00-0492a20394b0" name="LoFi" url="https://lofi.local">
-        <fileTransfer accessType="LOCAL" port="$pp.$" />
-      </webServer>
-    </option>
-  </component>
-</application>
