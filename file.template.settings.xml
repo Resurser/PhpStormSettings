@@ -1,0 +1,9 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Yii2 PHP View File.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Yii2 Smarty View File.tpl" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Yii2 Twig View File.twig" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+  </component>
+</application>

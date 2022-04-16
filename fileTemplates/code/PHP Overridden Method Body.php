@@ -1,0 +1,1 @@
+// parent::${NAME}(${PARAM_LIST});

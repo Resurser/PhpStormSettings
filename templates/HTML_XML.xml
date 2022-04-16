@@ -1,0 +1,21 @@
+<templateSet group="HTML/XML">
+  <template name="/*!!" value="/*!!! $SELECTION$ !!!*/" description="Important comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JADE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="/!!" value="/*!!! $SELECTION$ !!!*/" description="Important comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JADE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

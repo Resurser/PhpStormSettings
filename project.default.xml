@@ -1,0 +1,96 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <execution />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" value="NB-inspection-common" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="olegt" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Blade files</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="sortByType" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.updates" />
+      </component>
+      <component name="ReaderModeSettings">
+        <option name="enabled" value="false" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="js.build_tools.gulp">
+          <node-interpreter>project</node-interpreter>
+          <node-options />
+          <gulpfile />
+          <tasks />
+          <arguments />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+      <component name="Yii2 Support">
+        <option name="migrateCommands">
+          <list>
+            <MigrateCommand>
+              <option name="isDefault" value="true" />
+              <option name="command" value="migrate" />
+              <option name="migrationTable" value="{{%migration}}" />
+              <option name="db" value="db" />
+              <option name="migrationPath">
+                <list>
+                  <option value="@app/migrations" />
+                </list>
+              </option>
+            </MigrateCommand>
+          </list>
+        </option>
+        <option name="aliasMap">
+          <map>
+            <entry key="@webroot" value="@app/web" />
+            <entry key="@vendor" value="vendor" />
+            <entry key="@runtime" value="@app/runtime" />
+            <entry key="@yii2support-console-command-app-root" value="" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
