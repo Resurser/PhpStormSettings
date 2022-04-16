@@ -303,6 +303,7 @@
   <inspection_tool class="PrefixedIncDecrementEquivalentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ProperNullCoalescingOperatorUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyInitializationFlawsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="RandomApiMigrationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RealpathInSteamContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReferenceMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpDuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
