@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*env-*" type=".env file" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.postcss*" type="SCSS" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
