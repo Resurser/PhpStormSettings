@@ -1,6 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
-  <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="089cf37f-b502-48fa-a420-6240391c29a7" name="PHP 7.1" home="D:\OpenServer\modules\php\PHP_7.1\php.exe" debugger_id="php.debugger.XDebug" />
