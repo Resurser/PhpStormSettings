@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T15:07:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-04-17T14:32:45</property>
+    <property name="modified">2022-04-28T01:06:24</property>
     <property name="originalScheme">NB-Dark-Colors copy1</property>
   </metaInfo>
   <colors>
@@ -35,6 +35,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f6f446" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="265d89" />
+    <option name="MODIFIED_TAB_ICON" value="18ade5" />
     <option name="NOTIFICATION_BACKGROUND" value="25282f" />
     <option name="QUESTION_HINT" value="1f1628" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
@@ -78,8 +79,8 @@
     <option name="ScrollBar.thumbBorderColor" value="60606099" />
     <option name="ScrollBar.thumbColor" value="31320f" />
     <option name="ScrollBar.trackColor" value="40404088" />
-    <option name="TAB_UNDERLINE" value="49cae2" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="bdbfbe" />
+    <option name="TAB_UNDERLINE" value="18ade5" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="6cbfdb" />
     <option name="TEARLINE_COLOR" value="1b444a" />
     <option name="TOOLTIP" value="262028" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="373531" />
@@ -397,7 +398,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="2d959e" />
+        <option name="EFFECT_COLOR" value="4085cb" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -906,7 +907,7 @@
       <value>
         <option name="FOREGROUND" value="4085cb" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="4085cb" />
+        <option name="EFFECT_COLOR" value="32669a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -63635,12 +63636,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="4450" />
+        <option name="BACKGROUND" value="94055" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="383c3c" />
+        <option name="BACKGROUND" value="222832" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -63663,7 +63664,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2f95be" />
+        <option name="FOREGROUND" value="2fa4be" />
         <option name="BACKGROUND" value="f2c3b" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="2f95be" />
