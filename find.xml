@@ -6,7 +6,6 @@
     <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.*css</mask>
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.php4</mask>
@@ -19,5 +18,6 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.css</mask>
   </component>
 </application>
