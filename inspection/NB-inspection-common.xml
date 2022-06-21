@@ -177,6 +177,7 @@
   <inspection_tool class="JsonSchemaRefReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="LaravelDeprecatedRoutesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelUnknownEloquentFactoryInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
