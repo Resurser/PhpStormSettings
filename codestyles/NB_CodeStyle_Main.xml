@@ -330,7 +330,6 @@
     <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACES_WITHIN_SHORT_ECHO_TAGS" value="false" />
-    <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
@@ -726,18 +725,16 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
@@ -748,7 +745,7 @@
     <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />
@@ -759,7 +756,6 @@
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="110" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
     <arrangement>
