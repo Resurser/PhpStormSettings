@@ -308,7 +308,6 @@
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
-    <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="ALIGN_NAMED_ARGUMENTS" value="true" />
     <option name="ALIGN_MATCH_ARM_BODIES" value="true" />
     <option name="CONCAT_SPACES" value="false" />
