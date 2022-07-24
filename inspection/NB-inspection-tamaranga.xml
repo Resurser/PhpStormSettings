@@ -17,6 +17,7 @@
   <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BladeClosingSection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="BladeUnknownComponentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableInLoopTerminationConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -56,8 +57,8 @@
     <option name="myCustomPropertiesList">
       <value>
         <list size="3">
-          <item index="$pp.$" class="java.lang.String" itemvalue="text-rendering" />
-          <item index="1" class="java.lang.String" itemvalue="transition-transform" />
+          <item index="0" class="java.lang.String" itemvalue="text-rendering" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="transition-transform" />
           <item index="2" class="java.lang.String" itemvalue="rotate" />
         </list>
       </value>
@@ -167,8 +168,8 @@
     <option name="myValues">
       <value>
         <list size="25">
-          <item index="$pp.$" class="java.lang.String" itemvalue="data-type" />
-          <item index="1" class="java.lang.String" itemvalue="original-title" />
+          <item index="0" class="java.lang.String" itemvalue="data-type" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="original-title" />
           <item index="2" class="java.lang.String" itemvalue="placeholder" />
           <item index="3" class="java.lang.String" itemvalue="amp-boilerplate" />
           <item index="4" class="java.lang.String" itemvalue="amp" />
@@ -202,8 +203,8 @@
     <option name="myValues">
       <value>
         <list size="15">
-          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
-          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
@@ -281,8 +282,11 @@
   <inspection_tool class="JsonSchemaDeprecation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaRefReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LaravelDeprecatedRoutesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LaravelFunctionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelUnknownEloquentFactoryInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelUnknownViewInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -297,6 +301,8 @@
   <inspection_tool class="LongLine" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MarkdownIncorrectTableFormatting" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MarkdownNoTableBorders" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="DESIGN" value="true" />
@@ -342,7 +348,6 @@
   <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonSecureUniqidUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="REPORT_DUPLICATE_CONDITIONS" value="false" />
     <option name="REPORT_INSTANCE_OF_FLAWS" value="false" />
   </inspection_tool>
   <inspection_tool class="NotOptimalRegularExpressionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -499,6 +504,7 @@
   <inspection_tool class="PostCssCustomProperties" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PostCssCustomSelector" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PostCssMediaRange" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PostCssUnresolvedModuleValueReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PrefixedIncDecrementEquivalentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PregQuoteUsageInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PrintfScanfArgumentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -516,6 +522,10 @@
   </inspection_tool>
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="RouteSettingDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssUnresolvedPlaceholderSelector" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Schema" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ScssLintInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
