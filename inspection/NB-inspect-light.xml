@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="NB-inspect-light" />
+  <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckNodeTest" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssReplaceWithShorthandSafely" enabled="true" level="WARNING" enabled_by_default="true" />
