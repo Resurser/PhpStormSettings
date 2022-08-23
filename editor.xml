@@ -55,6 +55,9 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
+  <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
+    <option name="shortenTabNames" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo\b.*" />
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
