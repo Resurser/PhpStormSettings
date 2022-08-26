@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.org/Article" location="D:/OpenServer/progs/Default/PhpStorm/.phpstorm/system/extResources/4d50b970_Article.html" />
+    <resource url="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" location="D:/OpenServer/progs/Default/PhpStorm/.phpstorm/system/extResources/19efb6d3_sitemap.xsd" />
   </component>
 </application>
