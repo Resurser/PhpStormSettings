@@ -3,6 +3,7 @@
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="BladeUnknownComponentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -14,8 +15,8 @@
     <option name="myCustomPropertiesList">
       <value>
         <list size="2">
-          <item index="$pp.$" class="java.lang.String" itemvalue="border-radius" />
-          <item index="1" class="java.lang.String" itemvalue="animation" />
+          <item index="0" class="java.lang.String" itemvalue="border-radius" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="animation" />
         </list>
       </value>
     </option>
@@ -89,14 +90,15 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
+  <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlRequiredTitleAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
         <list size="11">
-          <item index="$pp.$" class="java.lang.String" itemvalue="custom-element" />
-          <item index="1" class="java.lang.String" itemvalue="xlink:href" />
+          <item index="0" class="java.lang.String" itemvalue="custom-element" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="xlink:href" />
           <item index="2" class="java.lang.String" itemvalue="⚡" />
           <item index="3" class="java.lang.String" itemvalue="amp-custom" />
           <item index="4" class="java.lang.String" itemvalue="amp-boilerplate" />
@@ -115,8 +117,8 @@
     <option name="myValues">
       <value>
         <list size="15">
-          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
-          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
@@ -138,21 +140,45 @@
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InvisibleCharacter" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelDeprecatedRoutesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelFunctionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelUnknownEloquentFactoryInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LaravelUnknownViewInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MarkdownIncorrectTableFormatting" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MarkdownNoTableBorders" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="REPORT_EMPTY_BODY" value="false" />
   </inspection_tool>
+  <inspection_tool class="MongoJSDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MongoJSExtDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MongoJSExtResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MongoJSExtSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MongoJSResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MongoJSSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MsBuiltinInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MsOrderByInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MultipleReturnStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="COMPLAIN_THRESHOLD" value="5" />
     <option name="SCREAM_THRESHOLD" value="7" />
   </inspection_tool>
   <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NonAsciiCharacters" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="CHECK_FOR_NOT_ASCII_IDENTIFIER_NAME" value="false" />
     <option name="CHECK_FOR_FILES_CONTAINING_BOM" value="true" />
   </inspection_tool>
   <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="OraMissingBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PgSelectFromProcedureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="26" />
@@ -181,7 +207,7 @@
   </inspection_tool>
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[_a-z][_A-Za-z\d]*" />
-    <option name="m_minLength" value="1" />
+    <option name="m_minLength" value="$pp.$" />
     <option name="m_maxLength" value="26" />
   </inspection_tool>
   <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -207,6 +233,10 @@
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_minLength" value="2" />
   </inspection_tool>
+  <inspection_tool class="PostCssCustomMedia" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PostCssCustomSelector" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PostCssMediaRange" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PostCssUnresolvedModuleValueReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SassScssResolvedByNameOnly" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -267,12 +297,62 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="ShellCheck" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="true" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
+  <inspection_tool class="SqlAddNotNullColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlAggregatesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlAmbiguousColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlAutoIncrementDuplicateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlCallNotationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SqlCaseVsCoalesceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlCaseVsIfInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlConstantConditionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlConstantExpressionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlCurrentSchemaInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDeprecateTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDerivedTableAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDropIndexedColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDtInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDuplicateColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlIdentifierInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlIllegalCursorStateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlInsertIntoGeneratedColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlInsertNullIntoNotNullInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlInsertValuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlJoinWithoutOnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlMisleadingReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlMissingReturnInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SqlMultipleLimitClausesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlNullComparisonInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlRedundantAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlRedundantCodeInCoalesceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlRedundantElseNullInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlRedundantLimitInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlRedundantOrderingDirectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SqlShadowingAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlShouldBeInGroupByInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlSignatureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlStorageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlStringLengthExceededInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlTransactionStatementInTriggerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlTriggerTransitionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlUnicodeStringLiteralInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlUnusedCteInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlUnusedSubqueryItemInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlUnusedVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlWithoutWhereInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SummerTimeUnsafeTimeManipulationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TaskProblemsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptAbstractClassConstructorCanBeMadeProtected" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
