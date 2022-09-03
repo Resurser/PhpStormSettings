@@ -260,6 +260,7 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
