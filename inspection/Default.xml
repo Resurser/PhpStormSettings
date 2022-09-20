@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
       <list>
