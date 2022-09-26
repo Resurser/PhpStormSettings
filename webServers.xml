@@ -10,6 +10,9 @@
       <webServer id="60333cbd-8ab2-46e0-9402-1cc6f3b557b0" name="instaco.ua" url="https://instaco.ua">
         <fileTransfer accessType="LOCAL" port="$pp.$" />
       </webServer>
+      <webServer id="6387c670-eabf-4dd1-86cc-1ff5f7112237" name="rosh" url="https://rosh.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
