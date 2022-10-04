@@ -1,6 +1,6 @@
 <profile version="1.0">
   <description>GoUP Team developing</description>
-  <option name="myName" value="NB-inspection-common" />
+  <option name="myName" value="OTNB-inspect-common" />
   <inspection_tool class="AccessModifierPresentedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -11,6 +11,7 @@
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CaseSensitivityServiceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CoffeeScriptArgumentsOutsideFunction" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -131,6 +132,7 @@
   <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HbEmptyBlock" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlRequiredLangAttribute" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAnchorTarget" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myValues">
@@ -143,7 +145,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="7">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -151,6 +153,9 @@
           <item index="4" class="java.lang.String" itemvalue="embed" />
           <item index="5" class="java.lang.String" itemvalue="script" />
           <item index="6" class="java.lang.String" itemvalue="ul" />
+          <item index="7" class="java.lang.String" itemvalue="wb-module" />
+          <item index="8" class="java.lang.String" itemvalue="wb-jq" />
+          <item index="9" class="java.lang.String" itemvalue="wb-include" />
         </list>
       </value>
     </option>
