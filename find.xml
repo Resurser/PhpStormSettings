@@ -16,11 +16,11 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.css</mask>
     <mask>*.twig</mask>
     <mask>*.styl</mask>
     <mask>*.sass</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
     <mask>*.php</mask>
   </component>
 </application>
