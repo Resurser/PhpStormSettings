@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId=".ignore" displayType="NONE" />
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
