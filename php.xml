@@ -291,14 +291,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="D:\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="D:\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.20">
+        <phpinfo binary_type="PHP" php_cgi="D:\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="D:\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.27">
           <additional_php_ini />
           <configuration_file>D:\OpenServer\modules\php\PHP_7.4\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+            <debugger_info debugger="xdebug" debugger_version="3.1.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
