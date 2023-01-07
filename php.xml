@@ -1,14 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="089cf37f-b502-48fa-a420-6240391c29a7" name="PHP 7.1" home="D:\OpenServer\modules\php\PHP_7.1\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="dac75525-4a94-4830-991a-1c130cfe69e1" name="PHP 7.3" home="D:\OpenServer\modules\php\PHP_7.3\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="056e2960-572c-41b7-ad6d-8199435c8787" name="PHP 7.2" home="D:\OpenServer\modules\php\PHP_7.2\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="87ef62f4-0576-4176-b98b-5d32331f26ba" name="PHP" home="D:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="b176c9be-15db-45de-847a-b769ae1da2f4" name="PHP 8.1" home="D:\OpenServer\modules\php\PHP_8.1\php.exe" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
