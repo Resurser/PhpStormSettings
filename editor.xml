@@ -24,7 +24,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="10" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="18" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
