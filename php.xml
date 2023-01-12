@@ -1,7 +1,0 @@
-<application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" import_on_paste="ALL" />
-  <component name="PhpSmartKeysConfiguration">
-    <option name="escapeSymbolsInStringLiterals" value="true" />
-    <option name="selectVariableNameWithoutDollar" value="true" />
-  </component>
-</application>
