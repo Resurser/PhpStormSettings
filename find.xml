@@ -18,8 +18,8 @@
     <mask>*.twig</mask>
     <mask>*.styl</mask>
     <mask>*.sass</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
     <mask>*.php</mask>
   </component>
 </application>
