@@ -1,0 +1,6 @@
+<application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" import_on_paste="ALL" />
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+  </component>
+</application>
