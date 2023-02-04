@@ -13,7 +13,9 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="FlowJSInfo" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="php.debug.status.widget" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
