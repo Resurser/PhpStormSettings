@@ -2,7 +2,8 @@
   <component name="NotificationConfiguration">
     <notification groupId=".ignore" displayType="NONE" />
     <notification groupId="Branch Context group" displayType="NONE" />
-    <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
+    <notification groupId="Error Report" displayType="NONE" />
+    <notification groupId="IDE-errors" />
     <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
     <notification groupId="System Health" displayType="NONE" />
     <notification groupId="System Messages" displayType="NONE" />

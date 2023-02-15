@@ -4,7 +4,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-02-06T01:33:33</property>
+    <property name="modified">2023-02-15T23:57:12</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -20,11 +20,12 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
-    <option name="DOCUMENTATION_COLOR" value="1f1f28" />
-    <option name="ERROR_HINT" value="2d110e" />
+    <option name="DOCUMENTATION_COLOR" value="313232" />
+    <option name="ERROR_HINT" value="1d1414" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="6c681e" />
     <option name="GUTTER_BACKGROUND" value="2f3535" />
+    <option name="HINT_BORDER" value="323232" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f3c40e" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f7651e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="e24753" />
@@ -33,20 +34,22 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="" />
     <option name="INDENT_GUIDE" value="353637" />
-    <option name="INFORMATION_HINT" value="14272d" />
+    <option name="INFORMATION_HINT" value="3e434c" />
     <option name="LINE_NUMBERS_COLOR" value="5aa3aa" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f6f446" />
+    <option name="LOOKUP_COLOR" value="3c3f41" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="265d89" />
     <option name="MODIFIED_TAB_ICON" value="d0e5fc" />
     <option name="NOTIFICATION_BACKGROUND" value="272c2f" />
-    <option name="QUESTION_HINT" value="1f1628" />
+    <option name="PROMOTION_PANE" value="3e434c" />
+    <option name="QUESTION_HINT" value="3e434c" />
     <option name="QUOKKA.ERROR_PATH" value="70170b" />
     <option name="QUOKKA.ERROR_SOURCE" value="430421" />
     <option name="QUOKKA.FULL_COVERAGE" value="1a4b17" />
     <option name="QUOKKA.NO_COVERAGE" value="4f4f4f" />
     <option name="QUOKKA.PARTIAL_COVERAGE" value="6b4800" />
-    <option name="READONLY_BACKGROUND" value="281313" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="230e0b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
@@ -86,13 +89,14 @@
     <option name="TAB_UNDERLINE" value="1b4d4" />
     <option name="TAB_UNDERLINE_INACTIVE" value="6caab7" />
     <option name="TEARLINE_COLOR" value="255a5f" />
-    <option name="TOOLTIP" value="262028" />
+    <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="373531" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
+    <option name="WARNING_HINT" value="3c3f41" />
     <option name="WHITESPACES" value="4c4a43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="515151" />
   </colors>
