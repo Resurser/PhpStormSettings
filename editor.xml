@@ -66,6 +66,12 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
+  <component name="PhpEditorOptions">
+    <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" SUGGEST_ALL_OBJECTS="true">
+    <option name="suggestAllObjects" value="true" />
+  </component>
   <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
     <option name="shortenTabNames" value="false" />
   </component>
