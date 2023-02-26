@@ -84,8 +84,8 @@
   <component name="SqlCodeCompletionSettings" SUGGEST_ALL_OBJECTS="true">
     <option name="suggestAllObjects" value="true" />
   </component>
-  <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
-    <option name="shortenTabNames" value="false" />
+  <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true">
+    <option name="alwaysQualifyTabNames" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo\b.*" />
