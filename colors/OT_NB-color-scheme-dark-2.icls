@@ -4,7 +4,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-04-04T13:38:37</property>
+    <property name="modified">2023-04-05T00:57:02</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,13 +14,14 @@
     <option name="ANNOTATIONS_COLOR" value="d6d7dd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="d0debf" />
-    <option name="CARET_ROW_COLOR" value="282621" />
+    <option name="CARET_ROW_COLOR" value="212826" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="b84030" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="c6e53" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="10906d" />
     <option name="DOCUMENTATION_COLOR" value="313232" />
+    <option name="EDITOR_GUTTER_BACKGROUND" value="2b2d30" />
     <option name="ERROR_HINT" value="1d1414" />
     <option name="FILESTATUS_ADDED" value="679f5a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="6c681e" />
@@ -33,10 +34,10 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="41d4ea" />
     <option name="HTML_TAG_TREE_LEVEL5" value="1eea3b" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="" />
-    <option name="INDENT_GUIDE" value="353637" />
+    <option name="INDENT_GUIDE" value="2a2a2a" />
     <option name="INFORMATION_HINT" value="3e434c" />
-    <option name="LINE_NUMBERS_COLOR" value="5aa3aa" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f6f446" />
+    <option name="LINE_NUMBERS_COLOR" value="1fadcc" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f8f627" />
     <option name="LOOKUP_COLOR" value="3c3f41" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="265d89" />
@@ -53,7 +54,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="230e0b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="50512b" />
+    <option name="RIGHT_MARGIN_COLOR" value="2b5051" />
     <option name="SELECTED_INDENT_GUIDE" value="d6e73" />
     <option name="SELECTED_TEARLINE_COLOR" value="53e3dd" />
     <option name="SELECTION_BACKGROUND" value="242c70" />
@@ -86,8 +87,8 @@
     <option name="ScrollBar.thumbBorderColor" value="60606099" />
     <option name="ScrollBar.thumbColor" value="31320f" />
     <option name="ScrollBar.trackColor" value="40404088" />
-    <option name="TAB_UNDERLINE" value="1b4d4" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="6caab7" />
+    <option name="TAB_UNDERLINE" value="2bee0" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="aed8dc" />
     <option name="TEARLINE_COLOR" value="255a5f" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="373531" />
@@ -206,7 +207,7 @@
         <option name="BACKGROUND" value="285a59" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="cdcdcd" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -681,8 +682,8 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c18985" />
-        <option name="EFFECT_COLOR" value="d01419" />
+        <option name="FOREGROUND" value="b07471" />
+        <option name="EFFECT_COLOR" value="d7060c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -768,10 +769,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6eaeae" />
+        <option name="FOREGROUND" value="3aaab7" />
         <option name="BACKGROUND" value="2b2b2d" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="414141" />
+        <option name="EFFECT_COLOR" value="22535e" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -63657,7 +63658,7 @@
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="3e5656" />
+        <option name="BACKGROUND" value="355656" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
