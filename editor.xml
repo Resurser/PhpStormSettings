@@ -33,6 +33,29 @@
     <option name="AUTOREPARSE_DELAY" value="550" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="false" />
+        <entry key="js.type.hints" value="false" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -46,6 +69,7 @@
         <entry key="PHP" value="true" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
+        <entry key="SQL" value="true" />
         <entry key="Stylus" value="true" />
         <entry key="TypeScript" value="true" />
         <entry key="XHTML" value="true" />
@@ -70,11 +94,9 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
-        <option value="JSON.composer.package.version.hints" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
         <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
-        <option value="SQL.sql.join.cardinality.hints" />
         <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
         <option value="TypeScript.ts.type.hints" />
@@ -82,14 +104,10 @@
     </option>
     <option name="disabledLanguages">
       <set>
-        <option value="JSON" />
         <option value="JavaScript" />
-        <option value="PHP" />
-        <option value="SQL" />
         <option value="TypeScript" />
       </set>
     </option>
-    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
@@ -102,6 +120,14 @@
           <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
+      <SQL.sql.join.cardinality.hints>
+        <Settings>
+          <option name="showForFullJoin" value="true" />
+          <option name="showForInnerJoin" value="true" />
+          <option name="showForLeftJoin" value="true" />
+          <option name="showForRightJoin" value="true" />
+        </Settings>
+      </SQL.sql.join.cardinality.hints>
     </settingsMapElement>
   </component>
   <component name="InspectionProfileManager">

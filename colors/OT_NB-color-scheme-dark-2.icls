@@ -4,7 +4,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-03-27T03:16:27</property>
+    <property name="modified">2023-04-04T13:38:37</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -616,7 +616,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cd8069" />
+        <option name="FOREGROUND" value="69afcd" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">

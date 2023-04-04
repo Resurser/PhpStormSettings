@@ -1,0 +1,361 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "Main",
+  "layouts": {
+    "Main": {
+      "v1": [
+        {
+          "id": "Space Code Reviews"
+        },
+        {
+          "id": "Robo tasks",
+          "isSplit": true
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20982434,
+          "sideWeight": 0.50068116
+        },
+        {
+          "id": "Database",
+          "order": 1,
+          "weight": 0.20982434,
+          "sideWeight": 0.4993188,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "isShowStripeButton": false,
+          "weight": 0.22275054,
+          "sideWeight": 0.49921632,
+          "isSplit": true
+        },
+        {
+          "id": "Favorites",
+          "order": 3,
+          "isSplit": true
+        },
+        {
+          "id": "Commit",
+          "order": 4,
+          "isShowStripeButton": false,
+          "weight": 0.32955405
+        },
+        {
+          "id": "Pull Requests",
+          "order": 5
+        },
+        {
+          "id": "npm",
+          "order": 6,
+          "isShowStripeButton": false,
+          "weight": 0.18471104,
+          "sideWeight": 0.49921632,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 7,
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Gulp",
+          "order": 8,
+          "weight": 0.20787248,
+          "sideWeight": 0.49863946,
+          "isSplit": true
+        },
+        {
+          "id": "VcsChanges",
+          "order": 9,
+          "weight": 0.3301887
+        },
+        {
+          "id": "Debug",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.29796165,
+          "sideWeight": 0.5201174,
+          "isSplit": true
+        },
+        {
+          "id": "Terminal",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "weight": 0.29796165,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.29796165,
+          "sideWeight": 0.5138191,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Event Log",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.3123306,
+          "isSplit": true
+        },
+        {
+          "id": "Find",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574
+        },
+        {
+          "id": "Services",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33033574
+        },
+        {
+          "id": "TODO",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Migrations",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "order": 9,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Internal Method Tracing",
+          "order": 11,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TypeScript",
+          "order": 12,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Flow",
+          "order": 13,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Database Changes",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Json Helper",
+          "order": 15,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 16,
+          "anchor": "BOTTOM",
+          "weight": 0.32913667
+        },
+        {
+          "id": "Run",
+          "order": 17,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.29796165,
+          "sideWeight": 0.47988266
+        },
+        {
+          "id": "PlantUML",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "String Manipulation",
+          "order": 1,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "PsiViewer",
+          "order": 2,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "make",
+          "order": 3,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.3301887,
+          "isSplit": true
+        },
+        {
+          "id": "documentation.v2",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        }
+      ],
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20214844,
+          "sideWeight": 0.6473333
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Gulp",
+          "order": 4,
+          "isAutoHide": true,
+          "weight": 0.20214844,
+          "sideWeight": 0.49933332,
+          "isSplit": true
+        },
+        {
+          "id": "Database",
+          "order": 5,
+          "weight": 0.32975262,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 6,
+          "weight": 0.20214844,
+          "sideWeight": 0.35266668,
+          "isSplit": true
+        },
+        {
+          "id": "TODO",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574
+        },
+        {
+          "id": "Version Control",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isSplit": true
+        },
+        {
+          "id": "Terminal",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "sideWeight": 0.49956897,
+          "isSplit": true
+        },
+        {
+          "id": "npm",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Problems",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Migrations",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33033574
+        },
+        {
+          "id": "Run",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574
+        },
+        {
+          "id": "Debug",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "sideWeight": 0.50043106
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32975262,
+          "isSplit": true
+        },
+        {
+          "id": "Gradle",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.20214844,
+        "bottom": 0.33033574,
+        "right": 0.32975262
+      }
+    }
+  }
+}]]></component>
+</application>
