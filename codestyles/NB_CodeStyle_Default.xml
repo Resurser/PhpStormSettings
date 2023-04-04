@@ -5,9 +5,10 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="124" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="110" />
+  <option name="SOFT_MARGINS" value="116" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
@@ -79,36 +80,6 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="KEYWORD_CASE" value="2" />
-    <option name="TYPE_CASE" value="2" />
-    <option name="CUSTOM_TYPE_CASE" value="2" />
-    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
-    <option name="QUERY_IN_ONE_STRING" value="3" />
-    <option name="INSERT_INTO_NL" value="2" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="CORTEGE_CLOSING" value="9" />
-    <option name="CORTEGE_SPACE_AFTER_COMMA" value="false" />
-    <option name="EXPR_BINARY_OP_ALIGN" value="false" />
-    <option name="EXPR_CALL_SPACE_AFTER_COMMA" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </H2CodeStyleSettings>
   <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
@@ -615,6 +586,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="130" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
