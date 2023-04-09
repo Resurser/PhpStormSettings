@@ -148,8 +148,8 @@
   <component name="PhpEditorOptions">
     <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
   </component>
-  <component name="SqlCodeCompletionSettings" SUGGEST_ALL_OBJECTS="true">
-    <option name="suggestAllObjects" value="true" />
+  <component name="SqlCodeCompletionSettings" SUGGEST_OBJECTS_FROM_SEARCH_PATH_ONLY="true">
+    <option name="suggestObjectsFromSearchPathOnly" value="true" />
   </component>
   <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true">
     <option name="alwaysQualifyTabNames" value="true" />

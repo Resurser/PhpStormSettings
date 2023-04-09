@@ -3,9 +3,11 @@
     <driver id="mysql.8">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+      <option name="source-loading" value="NO_SOURCES" />
     </driver>
     <driver id="mysql">
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
   </component>
 </application>
