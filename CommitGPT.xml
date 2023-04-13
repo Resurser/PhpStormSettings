@@ -1,0 +1,5 @@
+<application>
+  <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings">
+    <option name="lastVersion" value="0.7.1" />
+  </component>
+</application>
