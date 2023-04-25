@@ -108,7 +108,7 @@
         <option value="TypeScript" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old.php.pass.by.reference" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
