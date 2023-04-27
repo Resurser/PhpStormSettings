@@ -28,6 +28,7 @@
       </entry>
       <entry key="Merge">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
