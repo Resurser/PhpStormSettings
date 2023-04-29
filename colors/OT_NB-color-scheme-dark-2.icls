@@ -4,7 +4,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-04-13T03:38:12</property>
+    <property name="modified">2023-04-30T01:34:17</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="d6d7dd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="d0debf" />
-    <option name="CARET_ROW_COLOR" value="212826" />
+    <option name="CARET_ROW_COLOR" value="242a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="d24c39" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -691,7 +691,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c37a77" />
-        <option name="EFFECT_COLOR" value="fd3f3f" />
+        <option name="EFFECT_COLOR" value="f61414" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -735,8 +735,7 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffc913" />
+        <option name="EFFECT_COLOR" value="ff7300" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -747,9 +746,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="470d0d" />
-        <option name="EFFECT_COLOR" value="ff1e1e" />
-        <option name="ERROR_STRIPE_COLOR" value="b81a1a" />
+        <option name="BACKGROUND" value="3d0000" />
+        <option name="EFFECT_COLOR" value="ff4040" />
+        <option name="ERROR_STRIPE_COLOR" value="c72727" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -785,8 +784,7 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffc913" />
+        <option name="EFFECT_COLOR" value="ff7402" />
         <option name="ERROR_STRIPE_COLOR" value="9b5000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -939,7 +937,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="514d4d" />
+        <option name="EFFECT_COLOR" value="575757" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63385,8 +63383,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="868686" />
-        <option name="EFFECT_COLOR" value="726e6e" />
+        <option name="FOREGROUND" value="818181" />
+        <option name="EFFECT_COLOR" value="6b6b6b" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -63556,8 +63554,8 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="fd3f3f" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_COLOR" value="ff4040" />
+        <option name="ERROR_STRIPE_COLOR" value="b95201" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63748,9 +63746,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="57260b" />
-        <option name="EFFECT_COLOR" value="f86e22" />
-        <option name="ERROR_STRIPE_COLOR" value="822f17" />
+        <option name="BACKGROUND" value="421c00" />
+        <option name="EFFECT_COLOR" value="ff7402" />
+        <option name="ERROR_STRIPE_COLOR" value="b95201" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63768,10 +63766,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c37a77" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="fd3f3f" />
-        <option name="ERROR_STRIPE_COLOR" value="ee0000" />
+        <option name="EFFECT_COLOR" value="ff4040" />
+        <option name="ERROR_STRIPE_COLOR" value="b95201" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

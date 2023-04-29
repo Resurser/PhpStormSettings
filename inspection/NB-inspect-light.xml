@@ -126,7 +126,7 @@
   <inspection_tool class="MsOrderByInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="OffsetOperationsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="OffsetOperationsInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
   <inspection_tool class="OraMissingBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
