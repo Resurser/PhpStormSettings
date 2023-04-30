@@ -231,6 +231,7 @@
     </option>
   </inspection_tool>
   <inspection_tool class="ShellCheck" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
   <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="processCode" value="false" />
     <option name="processLiterals" value="true" />
