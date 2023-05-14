@@ -137,7 +137,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myValues">
       <value>
-        <list size="0" />
+        <list size="$pp.$" />
       </value>
     </option>
     <option name="myCustomValuesEnabled" value="true" />
@@ -145,9 +145,9 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="13">
-          <item index="0" class="java.lang.String" itemvalue="nobr" />
-          <item index="$pp.$" class="java.lang.String" itemvalue="noembed" />
+        <list size="14">
+          <item index="$pp.$" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
@@ -159,6 +159,7 @@
           <item index="10" class="java.lang.String" itemvalue="wb-foreach" />
           <item index="11" class="java.lang.String" itemvalue="wb-snippet" />
           <item index="12" class="java.lang.String" itemvalue="wb-scripts" />
+          <item index="13" class="java.lang.String" itemvalue="div" />
         </list>
       </value>
     </option>
@@ -275,7 +276,6 @@
   <inspection_tool class="PhpUndefinedClassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
-    <option name="NOTIFY_DYNAMIC_DECLARATION" value="false" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="ERROR" enabled_by_default="true">
