@@ -4,7 +4,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-04-30T01:34:17</property>
+    <property name="modified">2023-05-16T20:48:20</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -14,7 +14,7 @@
     <option name="ANNOTATIONS_COLOR" value="d6d7dd" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="d0debf" />
-    <option name="CARET_ROW_COLOR" value="242a" />
+    <option name="CARET_ROW_COLOR" value="162123" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="DELETED_LINES_COLOR" value="d24c39" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="282b4a" />
@@ -63685,8 +63685,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="10a2a1" />
-        <option name="BACKGROUND" value="17293b" />
+        <option name="FOREGROUND" value="fb2b1" />
+        <option name="BACKGROUND" value="d2f3f" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="177976" />
         <option name="EFFECT_TYPE" value="5" />
