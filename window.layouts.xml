@@ -226,6 +226,20 @@
       ],
       "v2": [
         {
+          "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Robo tasks",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
@@ -241,7 +255,7 @@
         },
         {
           "id": "Gulp",
-          "order": 4,
+          "order": 2,
           "isAutoHide": true,
           "weight": 0.20214844,
           "sideWeight": 0.49933332,
@@ -249,16 +263,42 @@
         },
         {
           "id": "Database",
-          "order": 5,
+          "order": 3,
           "weight": 0.32975262,
           "isSplit": true
         },
         {
           "id": "Structure",
-          "order": 6,
+          "order": 4,
           "weight": 0.20214844,
           "sideWeight": 0.35266668,
           "isSplit": true
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Services",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.4622302
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "TODO",
@@ -273,15 +313,22 @@
           "isSplit": true
         },
         {
-          "id": "Terminal",
+          "id": "PHP Hammer",
           "order": 2,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.28237408
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
           "anchor": "BOTTOM",
           "weight": 0.33033574,
           "isSplit": true
         },
         {
           "id": "Notifications",
-          "order": 3,
+          "order": 4,
           "anchor": "BOTTOM",
           "weight": 0.33033574,
           "sideWeight": 0.49956897,
@@ -289,7 +336,7 @@
         },
         {
           "id": "npm",
-          "order": 4,
+          "order": 5,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -304,24 +351,37 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Migrations",
+          "id": "Debug",
           "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.4142686,
+          "sideWeight": 0.50043106
+        },
+        {
+          "id": "Migrations",
+          "order": 9,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
           "weight": 0.33033574
         },
         {
           "id": "Run",
-          "order": 8,
+          "order": 10,
           "anchor": "BOTTOM",
-          "weight": 0.33033574
+          "isShowStripeButton": false,
+          "weight": 0.4142686
         },
         {
-          "id": "Debug",
-          "order": 8,
-          "anchor": "BOTTOM",
-          "weight": 0.33033574,
-          "sideWeight": 0.50043106
+          "id": "String Manipulation",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "make",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
         },
         {
           "id": "Meet New UI",
@@ -332,19 +392,19 @@
         },
         {
           "id": "Gradle",
-          "order": 2,
+          "order": 0,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
           "id": "Maven",
-          "order": 3,
+          "order": 1,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
           "id": "Web Inspector",
-          "order": 4,
+          "order": 2,
           "anchor": "RIGHT",
           "weight": 0.25
         }
@@ -352,7 +412,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.20214844,
-        "bottom": 0.33033574,
+        "bottom": 0.4142686,
         "right": 0.32975262
       }
     }
