@@ -246,7 +246,7 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.20214844,
-          "sideWeight": 0.6473333
+          "sideWeight": 0.5639148
         },
         {
           "id": "Commit",
@@ -264,7 +264,8 @@
         {
           "id": "Database",
           "order": 3,
-          "weight": 0.32975262,
+          "weight": 0.20214844,
+          "sideWeight": 0.43608522,
           "isSplit": true
         },
         {
@@ -369,7 +370,6 @@
           "id": "Run",
           "order": 10,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
           "weight": 0.4142686
         },
         {
