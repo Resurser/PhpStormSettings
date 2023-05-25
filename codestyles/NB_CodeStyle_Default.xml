@@ -306,6 +306,8 @@
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
+    <option name="ATTRIBUTES_WRAP" value="1" />
+    <option name="PARAMETERS_ATTRIBUTES_WRAP" value="1" />
   </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
@@ -704,9 +706,7 @@
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -734,7 +734,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
-    <option name="SOFT_MARGINS" value="110" />
+    <option name="SOFT_MARGINS" value="90" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
