@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-05-21T14:16:31</property>
+    <property name="modified">2023-05-25T21:23:13</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <colors>
@@ -34,11 +34,12 @@
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="77612a" />
     <option name="IMAGES_GRID_LINE_COLOR" value="7c7c7c" />
     <option name="IMAGES_WHITE_CELL_COLOR" value="afafaf" />
-    <option name="INDENT_GUIDE" value="2a2a2a" />
+    <option name="INDENT_GUIDE" value="2c2c2d" />
     <option name="INFORMATION_HINT" value="3e434c" />
     <option name="LINE_NUMBERS_COLOR" value="1fadcc" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f8f627" />
     <option name="LOOKUP_COLOR" value="3c3f41" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="b5b58" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
     <option name="MODIFIED_LINES_COLOR" value="2c8dda" />
     <option name="MODIFIED_TAB_ICON" value="2bee0" />
@@ -54,9 +55,9 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="230e0b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1f1f28" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="3e5c12" />
-    <option name="RIGHT_MARGIN_COLOR" value="2b5051" />
-    <option name="SELECTED_INDENT_GUIDE" value="d6e73" />
-    <option name="SELECTED_TEARLINE_COLOR" value="53e3dd" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="e7385" />
+    <option name="SELECTED_TEARLINE_COLOR" value="16cbd3" />
     <option name="SELECTION_BACKGROUND" value="242c70" />
     <option name="SELECTION_FOREGROUND" value="cedbd8" />
     <option name="SEPARATOR_ABOVE_COLOR" value="acaeae" />
@@ -82,21 +83,21 @@
     <option name="ScrollBar.Transparent.trackColor" value="40404088" />
     <option name="ScrollBar.background" value="60606099" />
     <option name="ScrollBar.hoverThumbBorderColor" value="60606099" />
-    <option name="ScrollBar.hoverThumbColor" value="2e4247" />
+    <option name="ScrollBar.hoverThumbColor" value="627175" />
     <option name="ScrollBar.hoverTrackColor" value="60606099" />
     <option name="ScrollBar.thumbBorderColor" value="60606099" />
-    <option name="ScrollBar.thumbColor" value="31320f" />
+    <option name="ScrollBar.thumbColor" value="" />
     <option name="ScrollBar.trackColor" value="40404088" />
     <option name="TAB_UNDERLINE" value="2bee0" />
     <option name="TAB_UNDERLINE_INACTIVE" value="c4c4c4" />
-    <option name="TEARLINE_COLOR" value="255a5f" />
+    <option name="TEARLINE_COLOR" value="3b3d41" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="373531" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
-    <option name="VISUAL_INDENT_GUIDE" value="" />
+    <option name="VISUAL_INDENT_GUIDE" value="422611" />
     <option name="WARNING_HINT" value="3c3f41" />
     <option name="WHITESPACES" value="4c4a43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="515151" />
@@ -745,7 +746,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3d0000" />
+        <option name="BACKGROUND" value="3d0303" />
         <option name="EFFECT_COLOR" value="ff4040" />
         <option name="ERROR_STRIPE_COLOR" value="c72727" />
         <option name="EFFECT_TYPE" value="2" />
@@ -784,7 +785,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="ff7402" />
-        <option name="ERROR_STRIPE_COLOR" value="9b5000" />
+        <option name="ERROR_STRIPE_COLOR" value="a84b01" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -63748,7 +63749,7 @@
       <value>
         <option name="BACKGROUND" value="421c00" />
         <option name="EFFECT_COLOR" value="ff7402" />
-        <option name="ERROR_STRIPE_COLOR" value="b95201" />
+        <option name="ERROR_STRIPE_COLOR" value="a84b01" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
