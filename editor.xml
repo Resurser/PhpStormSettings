@@ -84,6 +84,7 @@
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
@@ -146,6 +147,7 @@
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="PhpEditorOptions">
+    <option name="SHOW_CLASS_SEPARATORS" value="true" />
     <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" SUGGEST_OBJECTS_FROM_SEARCH_PATH_ONLY="true">
