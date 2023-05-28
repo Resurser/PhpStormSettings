@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-05-27T11:36:43</property>
+    <property name="modified">2023-05-28T02:26:53</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <colors>
@@ -673,7 +673,6 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="d5d7c3" />
-        <option name="BACKGROUND" value="21211c" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">

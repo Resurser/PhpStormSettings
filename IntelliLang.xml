@@ -1,15 +1,5 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="CSS" injector-id="blade">
-      <display-name>section css</display-name>
-      <single-file value="true" />
-      <place disabled="true"><![CDATA[bladeSection("css")]]></place>
-    </injection>
-    <injection language="JavaScript" injector-id="blade">
-      <display-name>section javascript</display-name>
-      <single-file value="true" />
-      <place disabled="true"><![CDATA[bladeSection("javascript")]]></place>
-    </injection>
     <injection language="SQLite" injector-id="js">
       <display-name>HTML5 SQL Database (SQLite)</display-name>
       <single-file value="true" />
