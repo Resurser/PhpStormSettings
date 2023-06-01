@@ -81,7 +81,10 @@
   <inspection_tool class="PhpMissingReturnTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
-    <option name="NOTIFY_DYNAMIC_DECLARATION" value="false" />
+  </inspection_tool>
+  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="DOWNGRADE_SEVERITY" value="false" />
+    <option name="WARN_ON_MIXED" value="true" />
   </inspection_tool>
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="false" level="WARNING" enabled_by_default="false">
