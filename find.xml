@@ -21,5 +21,6 @@
     <mask>*.*css</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.*`ss</mask>
   </component>
 </application>
