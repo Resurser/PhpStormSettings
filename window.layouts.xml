@@ -1,8 +1,8 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
-  "activeLayoutName": "Main",
+  "activeLayoutName": "Common",
   "layouts": {
-    "Main": {
+    "Common": {
       "v1": [
         {
           "id": "Space Code Reviews"
@@ -17,20 +17,19 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.20982434,
-          "sideWeight": 0.50068116
+          "weight": 0.22102866,
+          "sideWeight": 0.50136054
         },
         {
           "id": "Database",
           "order": 1,
-          "weight": 0.20982434,
-          "sideWeight": 0.4993188,
+          "weight": 0.2228367,
+          "sideWeight": 0.49863946,
           "isSplit": true
         },
         {
           "id": "Structure",
           "order": 2,
-          "isShowStripeButton": false,
           "weight": 0.22275054,
           "sideWeight": 0.49921632,
           "isSplit": true
@@ -67,43 +66,36 @@
         {
           "id": "Gulp",
           "order": 8,
-          "weight": 0.20787248,
-          "sideWeight": 0.49863946,
+          "isVisible": true,
+          "weight": 0.22275054,
+          "sideWeight": 0.49921632,
           "isSplit": true
         },
         {
           "id": "VcsChanges",
           "order": 9,
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.3301887
         },
         {
-          "id": "Debug",
+          "id": "Terminal",
           "order": 0,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.29796165,
-          "sideWeight": 0.5201174,
-          "isSplit": true
-        },
-        {
-          "id": "Terminal",
-          "order": 1,
-          "anchor": "BOTTOM",
-          "weight": 0.29796165,
+          "weight": 0.33033574,
           "isSplit": true
         },
         {
           "id": "Version Control",
-          "order": 2,
+          "order": 1,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29796165,
-          "sideWeight": 0.5138191,
+          "weight": 0.7727817,
           "isSplit": true
         },
         {
           "id": "Notifications",
-          "order": 3,
+          "order": 2,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -113,86 +105,90 @@
         },
         {
           "id": "Event Log",
-          "order": 4,
+          "order": 3,
           "anchor": "BOTTOM",
           "weight": 0.3123306,
           "isSplit": true
         },
         {
           "id": "Find",
-          "order": 5,
+          "order": 4,
           "anchor": "BOTTOM",
           "weight": 0.33033574
         },
         {
-          "id": "Services",
+          "id": "Problems View",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.3285908
+        },
+        {
+          "id": "Debug",
           "order": 6,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
-          "weight": 0.33033574
+          "weight": 0.3998801
+        },
+        {
+          "id": "Services",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "weight": 0.3299458
         },
         {
           "id": "TODO",
-          "order": 7,
+          "order": 8,
           "anchor": "BOTTOM"
         },
         {
           "id": "Migrations",
-          "order": 8,
+          "order": 9,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "File Transfer",
-          "order": 9,
+          "order": 10,
           "anchor": "BOTTOM"
         },
         {
           "id": "Inspection",
-          "order": 10,
+          "order": 11,
           "anchor": "BOTTOM",
           "weight": 0.4
         },
         {
           "id": "Internal Method Tracing",
-          "order": 11,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "TypeScript",
           "order": 12,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Flow",
+          "id": "TypeScript",
           "order": 13,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Database Changes",
+          "id": "Flow",
           "order": 14,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Database Changes",
+          "order": 15,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "Json Helper",
-          "order": 15,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems View",
           "order": 16,
-          "anchor": "BOTTOM",
-          "weight": 0.32913667
+          "anchor": "BOTTOM"
         },
         {
           "id": "Run",
           "order": 17,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.29796165,
-          "sideWeight": 0.47988266
+          "isAutoHide": true,
+          "weight": 0.29796165
         },
         {
           "id": "PlantUML",
@@ -216,6 +212,12 @@
           "isShowStripeButton": false,
           "weight": 0.3301887,
           "isSplit": true
+        },
+        {
+          "id": "PHP Hammer",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "documentation.v2",
@@ -411,9 +413,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.20214844,
-        "bottom": 0.4142686,
-        "right": 0.32975262
+        "left": 0.22102866,
+        "bottom": 0.33,
+        "right": 0.33
       }
     }
   }
