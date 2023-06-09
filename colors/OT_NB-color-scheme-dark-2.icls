@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-05-28T02:26:53</property>
+    <property name="modified">2023-06-09T20:39:13</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <colors>
@@ -488,7 +488,8 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="bb9dcb" />
+        <option name="FOREGROUND" value="bb99c5" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="786688" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -519,7 +520,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="976e75" />
+        <option name="FOREGROUND" value="886d6d" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -553,7 +554,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ca8ddb" />
+        <option name="FOREGROUND" value="b294bb" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -579,7 +580,8 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="bb9dcb" />
+        <option name="FOREGROUND" value="bb99c5" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="786886" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -594,7 +596,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ca7d6d" />
+        <option name="FOREGROUND" value="d38372" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -618,7 +620,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="69afcd" />
+        <option name="FOREGROUND" value="83a8c7" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -638,7 +640,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="918bdd" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -63490,7 +63492,7 @@
     </option>
     <option name="PHP_THIS_VAR">
       <value>
-        <option name="FOREGROUND" value="d799e1" />
+        <option name="FOREGROUND" value="bb99c5" />
         <option name="EFFECT_COLOR" value="4b2446" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
