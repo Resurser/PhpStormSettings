@@ -3,7 +3,7 @@
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-06-09T20:39:13</property>
+    <property name="modified">2023-06-26T17:04:43</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
   <colors>
@@ -63653,7 +63653,7 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="69e2f8" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="345e" />
       </value>
     </option>
