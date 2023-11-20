@@ -29,7 +29,7 @@
     </option>
     <option name="enabled" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="NB-inspect-light">
     <option name="AUTOREPARSE_DELAY" value="550" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
