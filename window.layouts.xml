@@ -233,6 +233,10 @@
           "isSplit": true
         },
         {
+          "id": "Merge Requests",
+          "weight": 0.404824
+        },
+        {
           "id": "Pull Requests",
           "isShowStripeButton": false
         },
@@ -248,19 +252,19 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.20214844,
-          "sideWeight": 0.5639148
+          "sideWeight": 0.52929425
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25
+          "weight": 0.20214844
         },
         {
           "id": "Gulp",
           "order": 2,
           "isAutoHide": true,
-          "weight": 0.20214844,
-          "sideWeight": 0.49933332,
+          "weight": 0.404824,
+          "sideWeight": 0.47070572,
           "isSplit": true
         },
         {
@@ -271,8 +275,13 @@
           "isSplit": true
         },
         {
-          "id": "Structure",
+          "id": "VcsChanges",
           "order": 4,
+          "weight": 0.20214844
+        },
+        {
+          "id": "Structure",
+          "order": 5,
           "weight": 0.20214844,
           "sideWeight": 0.35266668,
           "isSplit": true
@@ -301,7 +310,7 @@
         {
           "id": "Find",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.33033574
         },
         {
           "id": "TODO",
@@ -313,6 +322,7 @@
           "id": "Version Control",
           "order": 1,
           "anchor": "BOTTOM",
+          "weight": 0.27757794,
           "isSplit": true
         },
         {
@@ -333,7 +343,7 @@
           "id": "Notifications",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.33033574,
+          "weight": 0.27757794,
           "sideWeight": 0.49956897,
           "isSplit": true
         },
@@ -351,14 +361,15 @@
         {
           "id": "Problems View",
           "order": 7,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.27757794
         },
         {
           "id": "Debug",
           "order": 8,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
-          "weight": 0.4142686,
+          "weight": 0.27757794,
           "sideWeight": 0.50043106
         },
         {
@@ -372,7 +383,10 @@
           "id": "Run",
           "order": 10,
           "anchor": "BOTTOM",
-          "weight": 0.4142686
+          "isAutoHide": true,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.27757794
         },
         {
           "id": "String Manipulation",
@@ -383,6 +397,11 @@
           "id": "make",
           "anchor": "RIGHT",
           "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
           "isSplit": true
         },
         {
@@ -409,13 +428,26 @@
           "order": 2,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Hierarchy",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.32975262
+        },
+        {
+          "id": "AIAssistant",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32975262
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.22102866,
-        "bottom": 0.33,
-        "right": 0.33
+        "left": 0.20214844,
+        "bottom": 0.27757794,
+        "right": 0.32975262
       }
     }
   }
