@@ -384,8 +384,6 @@
           "order": 10,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.27757794
         },
         {
@@ -434,6 +432,12 @@
           "order": 3,
           "anchor": "RIGHT",
           "weight": 0.32975262
+        },
+        {
+          "id": "Coverage",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
         },
         {
           "id": "AIAssistant",
