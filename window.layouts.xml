@@ -336,7 +336,7 @@
           "id": "Terminal",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.33033574,
+          "weight": 0.27757794,
           "isSplit": true
         },
         {
@@ -384,6 +384,8 @@
           "order": 10,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.27757794
         },
         {
@@ -437,11 +439,13 @@
           "id": "Coverage",
           "order": 4,
           "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32975262,
           "isSplit": true
         },
         {
           "id": "AIAssistant",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "weight": 0.32975262
