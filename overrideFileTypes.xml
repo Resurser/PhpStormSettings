@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://D:/OpenServer/domains/instaco/src/css/_grid.postcss.css" value="PostCSS" />
+    <file url="file://D:/OpenServer/domains/instaco/src/css/_mixins.postcss.css" value="SCSS" />
   </component>
 </application>
