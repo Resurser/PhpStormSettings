@@ -5,6 +5,7 @@
     <option name="enabledUIIcons" value="false" />
     <option name="hasCustomIconSize" value="true" />
     <option name="hasCustomLineHeight" value="true" />
+    <option name="lowPowerMode" value="false" />
     <option name="monochromeColor" value="a7a7a7" />
   </component>
 </application>
