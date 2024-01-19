@@ -1,7 +1,12 @@
 <application>
   <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="true" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="false" saveConfigurations="true" saveInputs="true" saveSecrets="true" />
-  <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false" lastSelectedContentNodeId="rubber-duck">
+  <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false" lastSelectedContentNodeId="text-case-transformer">
     <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="uuid-generator" id="728af552-e5b0-4f4f-9df7-879e1ae1c937" name="Workbench">
+        <properties>
+          <property key="version" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.uuid.UuidVersion|V7" />
+        </properties>
+      </developerToolConfiguration>
       <developerToolConfiguration developerToolId="password-generator" id="98df0641-8623-46c3-ae18-d31d2ee795b7" name="Workbench">
         <properties>
           <property key="lettersMode" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.PasswordGenerator$LettersMode|ASCII_ALPHABET_ONLY_LOWERCASE" />
@@ -23,17 +28,6 @@
           <property key="regexText" type="INPUT" value="kotlin.String|(?&lt;prefix&gt;[a-zA-Z]+)mid" />
         </properties>
       </developerToolConfiguration>
-      <developerToolConfiguration developerToolId="base64-encoder-decoder" id="03276531-0a24-48e2-a9df-068ff9a834e1" name="Workbench">
-        <properties>
-          <property key="sourceText" type="INPUT" value="kotlin.String|test string" />
-          <property key="targetText" type="INPUT" value="kotlin.String|dGVzdCBzdHJpbmc=" />
-        </properties>
-      </developerToolConfiguration>
-      <developerToolConfiguration developerToolId="uuid-generator" id="728af552-e5b0-4f4f-9df7-879e1ae1c937" name="Workbench">
-        <properties>
-          <property key="version" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.uuid.UuidVersion|V7" />
-        </properties>
-      </developerToolConfiguration>
       <developerToolConfiguration developerToolId="sql-formatting" id="5351edc9-62b1-4e57-8f46-dbf48de82a3f" name="Workbench">
         <properties>
           <property key="dialect" type="CONFIGURATION" value="com.github.vertical_blank.sqlformatter.languages.Dialect|MySql" />
@@ -44,6 +38,12 @@
         <properties>
           <property key="sourceText" type="INPUT" value="kotlin.String|trigger" />
           <property key="algorithm" type="CONFIGURATION" value="kotlin.String|HMACWHIRLPOOL" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="base64-encoder-decoder" id="03276531-0a24-48e2-a9df-068ff9a834e1" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|test string" />
+          <property key="targetText" type="INPUT" value="kotlin.String|dGVzdCBzdHJpbmc=" />
         </properties>
       </developerToolConfiguration>
       <developerToolConfiguration developerToolId="code-style-formatting" id="5b68c610-a81d-44fc-a9ff-3c73bddc1c04" name="Workbench">
