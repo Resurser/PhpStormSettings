@@ -3,13 +3,27 @@
     <option name="settings">
       <map>
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
+        <entry key="editor.normalize.splits" value="true" />
         <entry key="editor.paste.line.copied.from.empty.selection" value="AT_CARET" />
+        <entry key="floating.codeToolbar.hide" value="true" />
         <entry key="git.use.schannel.on.windows" value="true" />
+        <entry key="ide.always.show.tool.window.header.icons" value="true" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="ide.settings.move.mouse.on.default.button" value="true" />
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="ide.tree.collapse.recursively" value="false" />
+        <entry key="ide.usages.page.size" value="50" />
+        <entry key="localHistory.daysToKeep" value="$pp.$" />
+        <entry key="se.text.search" value="false" />
         <entry key="search.everywhere.wait.for.contributors" value="false" />
+        <entry key="searcheverywhere.ml.sort.action" value="false" />
+        <entry key="searcheverywhere.ml.sort.classes" value="false" />
+        <entry key="searcheverywhere.ml.sort.files" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="start.run.configurations.pinned" value="true" />
+        <entry key="terminal.fill.character.background.including.line.spacing" value="true" />
+        <entry key="terminal.show.application.title" value="true" />
+        <entry key="vcs.annotations.preload" value="true" />
       </map>
     </option>
   </component>

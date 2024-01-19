@@ -1,3 +1,61 @@
 <application>
-  <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="false" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="true" saveConfigurations="true" saveInputs="true" saveSecrets="true" />
+  <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="true" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="false" saveConfigurations="true" saveInputs="true" saveSecrets="true" />
+  <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false" lastSelectedContentNodeId="rubber-duck">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="password-generator" id="98df0641-8623-46c3-ae18-d31d2ee795b7" name="Workbench">
+        <properties>
+          <property key="lettersMode" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.PasswordGenerator$LettersMode|ASCII_ALPHABET_ONLY_LOWERCASE" />
+          <property key="length" type="CONFIGURATION" value="kotlin.Int|10" />
+          <property key="symbols" type="CONFIGURATION" value="kotlin.String|!@#$%&amp;*()_-+={[}]|\:;&quot;'&lt;&gt;/" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="text-format-converter" id="4f7679f4-ab26-4553-a3e8-8264dca28618" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|before_script:&#10;  - ssh-keyscan scm.instaco.com.ua &gt;&gt; ~/.ssh/known_hosts&#10;  - chmod 644 ~/.ssh/known_hosts&#10;  &#10;stages:&#10;  - test&#10;  - production&#10;&#10;deploy_test:&#10;  stage: test&#10;  script:&#10;    - sudo -u www-data ssh-keyscan scm.instaco.com.ua | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts&#10;    - cd $WORK_TEST_DIR&#10;    - sudo -u www-data git pull origin $BRANCHE_DEV&#10;  only:&#10;    - devel&#10;&#10;deploy_production:&#10;  stage: production&#10;  script:&#10;    - sudo -u www-data ssh-keyscan scm.instaco.com.ua | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts&#10;    - cd $WORK_DIR&#10;    - sudo -u www-data git pull origin master&#10;  only:&#10;    - tags&#10;" />
+          <property key="secondLanguage" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.converter.CodeFormattingConverter$Language|XML" />
+          <property key="targetText" type="INPUT" value="kotlin.String|{&#13;&#10;  &quot;before_script&quot;:[&#13;&#10;    &quot;ssh-keyscan scm.instaco.com.ua &gt;&gt; ~/.ssh/known_hosts&quot;,&#13;&#10;    &quot;chmod 644 ~/.ssh/known_hosts&quot;&#13;&#10;  ],&#13;&#10;  &quot;stages&quot;:[&#13;&#10;    &quot;test&quot;,&#13;&#10;    &quot;production&quot;&#13;&#10;  ],&#13;&#10;  &quot;deploy_test&quot;:{&#13;&#10;    &quot;stage&quot;:&quot;test&quot;,&#13;&#10;    &quot;script&quot;:[&#13;&#10;      &quot;sudo -u www-data ssh-keyscan scm.instaco.com.ua | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts&quot;,&#13;&#10;      &quot;cd $WORK_TEST_DIR&quot;,&#13;&#10;      &quot;sudo -u www-data git pull origin $BRANCHE_DEV&quot;&#13;&#10;    ],&#13;&#10;    &quot;only&quot;:[&#13;&#10;      &quot;devel&quot;&#13;&#10;    ]&#13;&#10;  },&#13;&#10;  &quot;deploy_production&quot;:{&#13;&#10;    &quot;stage&quot;:&quot;production&quot;,&#13;&#10;    &quot;script&quot;:[&#13;&#10;      &quot;sudo -u www-data ssh-keyscan scm.instaco.com.ua | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts&quot;,&#13;&#10;      &quot;cd $WORK_DIR&quot;,&#13;&#10;      &quot;sudo -u www-data git pull origin master&quot;&#13;&#10;    ],&#13;&#10;    &quot;only&quot;:[&#13;&#10;      &quot;tags&quot;&#13;&#10;    ]&#13;&#10;  }&#13;&#10;}" />
+          <property key="firstLanguage" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.converter.CodeFormattingConverter$Language|YAML" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="regular-expression-matcher" id="a837abce-8d85-4be2-8e29-f532cfa08813" name="Workbench">
+        <properties>
+          <property key="inputText" type="INPUT" value="kotlin.String|aurora summermid nightmid earth" />
+          <property key="regexText" type="INPUT" value="kotlin.String|(?&lt;prefix&gt;[a-zA-Z]+)mid" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="base64-encoder-decoder" id="03276531-0a24-48e2-a9df-068ff9a834e1" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|test string" />
+          <property key="targetText" type="INPUT" value="kotlin.String|dGVzdCBzdHJpbmc=" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="uuid-generator" id="728af552-e5b0-4f4f-9df7-879e1ae1c937" name="Workbench">
+        <properties>
+          <property key="version" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.uuid.UuidVersion|V7" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="sql-formatting" id="5351edc9-62b1-4e57-8f46-dbf48de82a3f" name="Workbench">
+        <properties>
+          <property key="dialect" type="CONFIGURATION" value="com.github.vertical_blank.sqlformatter.languages.Dialect|MySql" />
+          <property key="indentSpaces" type="CONFIGURATION" value="kotlin.Int|4" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="hmac-transformer" id="fd1451a3-0f3b-408b-b4d7-10503a893896" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|trigger" />
+          <property key="algorithm" type="CONFIGURATION" value="kotlin.String|HMACWHIRLPOOL" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="code-style-formatting" id="5b68c610-a81d-44fc-a9ff-3c73bddc1c04" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|&lt;?php&#10;&#10;define(&quot;PAGE&quot;, true);&#10;/* run only in CLI mode */&#10;if (php_sapi_name() !== &quot;cli&quot;) {&#10;&#9;header('HTTP/1.1 403 Forbidden');&#10;&#9;exit;&#10;}&#10;&#10;ini_set('display_errors', 1);&#10;error_reporting(E_ALL);&#10;set_time_limit(0);&#10;ignore_user_abort(1);&#10;&#10;include_once __DIR__.&quot;/scr/config.php&quot;;&#10;include_once __DIR__.&quot;/scr/functions.php&quot;;&#10;include_once __DIR__.&quot;/scr/pages.php&quot;;&#10;&#10;global $db, $page;&#10;$rows = [&#10;&#9;[&#10;&#9;&#9;'Назва шаблону',&#10;&#9;&#9;'Посилання на шаблон',&#10;&#9;&#9;'Кількість вкладок',&#10;&#9;&#9;'Загальна ціна всіх вкладок',&#10;&#9;&#9;'Середня ціна вкладок',&#10;&#9;&#9;'Назва вкладки',&#10;&#9;&#9;'Ціна вкладки',&#10;&#9;],&#10;];&#10;&#10;$total_sum     = 0;&#10;$total_count   = 0;&#10;$total_mid_sum = 0;&#10;&#10;$limit  = 30;&#10;$offset = 0;&#10;do {&#10;&#9;$item_lst = $db-&gt;getAll(&quot;SELECT * FROM `items` ORDER BY `id` LIMIT {$limit} OFFSET {$offset}&quot;);&#10;&#9;$offset += $limit;&#10;&#9;foreach($item_lst ?? [] as $item) {&#10;&#9;&#9;$data       = json_decode($item['json_str'], 1);&#10;&#9;&#9;$docs       = $data['documents'];&#10;&#9;&#9;$docs       = array_filter($docs);&#10;&#9;&#9;$docs_costs = array_column(array_values($data['documents']), 'cost');&#10;&#9;&#9;$total_sum  += array_sum($docs_costs);&#10;&#9;&#9;$total_count++;&#10;&#10;&#9;&#9;$docs_costs_count = count(array_values($data['documents']));&#10;&#9;&#9;$rows[]           = [&#10;&#9;&#9;&#9;$item['title'],&#10;&#9;&#9;&#9;'https://instaco.com.ua/create-document/'.$item['url'],&#10;&#9;&#9;&#9;count($docs),&#10;&#9;&#9;&#9;array_sum($docs_costs),&#10;&#9;&#9;&#9;number_format(array_sum($docs_costs) / $docs_costs_count, 2),&#10;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;'',&#10;&#9;&#9;];&#10;&#9;&#9;foreach($docs as $k =&gt; $v) {&#10;&#9;&#9;&#9;$rows[] = [&#10;&#9;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;&#9;'',&#10;&#9;&#9;&#9;&#9;$v['title'],&#10;&#9;&#9;&#9;&#9;$v['cost'] ?? 0,&#10;&#9;&#9;&#9;];&#10;&#9;&#9;}&#10;&#9;}&#10;} while (!empty($item_lst));&#10;$rows[] = [&#10;&#9;'Total',&#10;&#9;'',&#10;&#9;'Ціна всіх шаблонів',&#10;&#9;'Кількість всіх шаблонів',&#10;&#9;'Середня ціна всіх шаблонів',&#10;&#9;'',&#10;&#9;'',&#10;];&#10;$rows[] = [&#10;&#9;'',&#10;&#9;'',&#10;&#9;number_format((float)$total_sum, 2),&#10;&#9;$total_count,&#10;&#9;number_format((float)($total_sum / $total_count), 2),&#10;&#9;'',&#10;&#9;'',&#10;];&#10;&#10;$fp = fopen(__DIR__.'/uploads/template_summary-'.date('Ymd_His').'.csv', 'wb');&#10;foreach($rows ?? [] as $i =&gt; $row) {&#10;&#9;fputcsv($fp, $row);&#10;}&#10;fclose($fp);&#10;&#10;&#10;$rows     = [&#10;&#9;[&#10;&#9;&#9;'user_id',&#10;&#9;&#9;'user_email',&#10;&#9;&#9;'кількість шаблонів',&#10;&#9;],&#10;];&#10;$item_lst = $db-&gt;yieldsAll(&lt;&lt;&lt;SQL&#10;SELECT `u`.`user_id`, `u`.`user_email`, COUNT(`ut`.`id`) AS 'count'&#10;FROM `users` `u`&#10;INNER JOIN `user_templates` AS `ut` ON `ut`.`user_id` = `u`.`user_id`&#10;GROUP BY `u`.`user_id`&#10;SQL&#10;);&#10;foreach($item_lst as $item) {&#10;&#9;$rows[] = [&#10;&#9;&#9;$item['user_id'],&#10;&#9;&#9;$item['user_email'],&#10;&#9;&#9;$item['count'],&#10;&#9;];&#10;}&#10;&#10;&#10;$fp = fopen(__DIR__.'/uploads/users_template_summary-'.date('Ymd_His').'.csv', 'wb');&#10;foreach($rows ?? [] as $i =&gt; $row) {&#10;&#9;fputcsv($fp, $row);&#10;}&#10;fclose($fp);&#10;&#10;exit(0);" />
+          <property key="languageId" type="CONFIGURATION" value="kotlin.String|PHP" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+    <expandedGroupNodeIds>
+      <expandedGroupNodeId value="cryptography" />
+      <expandedGroupNodeId value="formatting" />
+    </expandedGroupNodeIds>
+  </component>
 </application>
