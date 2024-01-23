@@ -3,6 +3,7 @@
     <option name="accentColor" value="b8b8b8" />
     <option name="enabledPsiIcons" value="false" />
     <option name="enabledUIIcons" value="false" />
+    <option name="hasCustomLineHeight" value="true" />
     <option name="monochromeColor" value="a7a7a7" />
   </component>
 </application>
