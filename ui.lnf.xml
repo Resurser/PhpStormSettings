@@ -14,6 +14,7 @@
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
