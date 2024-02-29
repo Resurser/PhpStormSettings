@@ -1,5 +1,5 @@
 <application>
-  <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="true" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="false" saveConfigurations="true" saveInputs="true" saveSecrets="true" />
+  <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="true" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="false" saveConfigurations="true" saveInputs="true" saveSecrets="true" toolsMenuTreeOrderAlphabetically="true" toolsMenuTreeShowGroupNodes="true" />
   <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false" lastSelectedContentNodeId="code-style-formatting">
     <developerToolsConfigurations>
       <developerToolConfiguration developerToolId="uuid-generator" id="728af552-e5b0-4f4f-9df7-879e1ae1c937" name="Workbench">
