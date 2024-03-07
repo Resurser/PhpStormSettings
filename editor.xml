@@ -31,7 +31,8 @@
     <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspect-light">
-    <option name="AUTOREPARSE_DELAY" value="550" />
+    <option name="AUTOREPARSE_DELAY" value="500" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
@@ -80,7 +81,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="18" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="14" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
@@ -91,7 +92,6 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
