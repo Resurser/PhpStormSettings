@@ -1,0 +1,14 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/3box" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
