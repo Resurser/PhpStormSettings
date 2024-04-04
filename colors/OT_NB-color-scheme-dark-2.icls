@@ -1,11 +1,16 @@
 <scheme name="OT_NB-color-scheme-dark-2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-02-20T14:57:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2024-03-04T21:29:10</property>
+    <property name="modified">2024-04-04T21:04:59</property>
     <property name="originalScheme">OT_NB-color-scheme-dark</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="42af5a" />
     <option name="ANNOTATIONS_COLOR" value="d6d7dd" />
@@ -37,7 +42,7 @@
     <option name="INDENT_GUIDE" value="2c2c2d" />
     <option name="INFORMATION_HINT" value="3e434c" />
     <option name="LINE_NUMBERS_COLOR" value="1fadcc" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f8f627" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f3f3ef" />
     <option name="LOOKUP_COLOR" value="3c3f41" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="b5b58" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a393a" />
