@@ -1,7 +1,6 @@
 <application>
   <component name="LafManager">
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
       <laf-to-scheme laf="ExperimentalDark" scheme="OT_NB-color-scheme-dark-2" />
     </lafs-to-previous-schemes>
   </component>
