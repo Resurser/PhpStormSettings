@@ -1,6 +1,6 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
-  "activeLayoutName": "Common",
+  "activeLayoutName": "instaco",
   "layouts": {
     "Common": {
       "v1": [
@@ -228,130 +228,52 @@
       ],
       "v2": [
         {
-          "id": "Bookmarks",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
-          "id": "Merge Requests",
-          "weight": 0.404824
-        },
-        {
-          "id": "Pull Requests",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Robo tasks",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.20214844,
-          "sideWeight": 0.52929425
+          "weight": 0.21842447
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.20214844
-        },
-        {
-          "id": "Gulp",
-          "order": 2,
-          "isAutoHide": true,
-          "weight": 0.404824,
-          "sideWeight": 0.47070572,
-          "isSplit": true
-        },
-        {
-          "id": "Database",
-          "order": 3,
-          "weight": 0.20214844,
-          "sideWeight": 0.43608522,
-          "isSplit": true
-        },
-        {
-          "id": "VcsChanges",
-          "order": 4,
-          "weight": 0.20214844
+          "weight": 0.25
         },
         {
           "id": "Structure",
-          "order": 5,
-          "weight": 0.20214844,
-          "sideWeight": 0.35266668,
-          "isSplit": true
-        },
-        {
-          "id": "Database Changes",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "TypeScript",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "File Transfer",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Services",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.4622302
-        },
-        {
-          "id": "Find",
-          "anchor": "BOTTOM",
-          "weight": 0.33033574
-        },
-        {
-          "id": "TODO",
-          "order": 0,
-          "anchor": "BOTTOM",
-          "weight": 0.33033574
-        },
-        {
-          "id": "Version Control",
-          "order": 1,
-          "anchor": "BOTTOM",
-          "weight": 0.27757794,
-          "isSplit": true
-        },
-        {
-          "id": "PHP Hammer",
           "order": 2,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.28237408
-        },
-        {
-          "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.27757794,
+          "weight": 0.25,
           "isSplit": true
         },
         {
           "id": "Notifications",
-          "order": 4,
+          "order": 1,
           "anchor": "BOTTOM",
-          "weight": 0.27757794,
-          "sideWeight": 0.49956897,
+          "weight": 0.33033574,
           "isSplit": true
         },
         {
-          "id": "npm",
-          "order": 5,
+          "id": "Terminal",
+          "order": 2,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33033574,
+          "isSplit": true
         },
         {
           "id": "Problems",
@@ -361,100 +283,140 @@
         {
           "id": "Problems View",
           "order": 7,
-          "anchor": "BOTTOM",
-          "weight": 0.27757794
+          "anchor": "BOTTOM"
         },
         {
-          "id": "Debug",
-          "order": 8,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.27757794,
-          "sideWeight": 0.50043106
+          "id": "Services",
+          "order": 10,
+          "anchor": "BOTTOM"
         },
         {
-          "id": "Migrations",
-          "order": 9,
+          "id": "Database",
+          "order": 11,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
           "weight": 0.33033574
         },
         {
-          "id": "Run",
-          "order": 10,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.27757794
-        },
-        {
-          "id": "String Manipulation",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "make",
+          "id": "AIAssistant",
+          "order": 0,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
-          "id": "documentation.v2",
-          "anchor": "RIGHT",
-          "isSplit": true
-        },
-        {
-          "id": "Meet New UI",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32975262,
-          "isSplit": true
+          "weight": 0.32975262
         },
         {
           "id": "Gradle",
-          "order": 0,
-          "anchor": "RIGHT",
-          "weight": 0.25
-        },
-        {
-          "id": "Maven",
           "order": 1,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Web Inspector",
+          "id": "Maven",
           "order": 2,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Hierarchy",
-          "order": 3,
-          "anchor": "RIGHT",
-          "weight": 0.32975262
-        },
-        {
-          "id": "Coverage",
-          "order": 4,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32975262,
-          "isSplit": true
-        },
-        {
-          "id": "AIAssistant",
-          "order": 5,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32975262
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.20214844,
-        "bottom": 0.27757794,
+        "left": 0.21842447,
+        "bottom": 0.33033574,
+        "right": 0.32975262
+      }
+    },
+    "instaco": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.21842447
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Terminal",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574,
+          "isSplit": true
+        },
+        {
+          "id": "Problems",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 10,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Database",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.33033574
+        },
+        {
+          "id": "AIAssistant",
+          "order": 0,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32975262
+        },
+        {
+          "id": "Gradle",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.21842447,
+        "bottom": 0.33033574,
         "right": 0.32975262
       }
     }
