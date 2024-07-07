@@ -36,18 +36,6 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
-    <option name="disabledOptions">
-      <set>
-        <option value="js.type.hints#function.returns" />
-        <option value="js.type.hints#non.paren.single.param" />
-        <option value="js.type.hints#parameters.in.parens" />
-        <option value="js.type.hints#variables.and.fields" />
-        <option value="ts.type.hints#function.returns" />
-        <option value="ts.type.hints#non.paren.single.param" />
-        <option value="ts.type.hints#parameters.in.parens" />
-        <option value="ts.type.hints#variables.and.fields" />
-      </set>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
@@ -88,6 +76,7 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
     <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="STICKY_LINES_LIMIT" value="4" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
@@ -136,8 +125,8 @@
   </component>
   <component name="InspectionProfileManager">
     <list size="12">
-      <item index="$pp.$" class="java.lang.String" itemvalue="INFORMATION" />
-      <item index="1" class="java.lang.String" itemvalue="TEXT ATTRIBUTES" />
+      <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="$pp.$" class="java.lang.String" itemvalue="TEXT ATTRIBUTES" />
       <item index="2" class="java.lang.String" itemvalue="STYLE_SUGGESTION" />
       <item index="3" class="java.lang.String" itemvalue="STYLE_WARNING" />
       <item index="4" class="java.lang.String" itemvalue="STYLE_ERROR" />
@@ -180,5 +169,6 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="5" />
+    <option name="tagTreeHighlightingOpacity" value="5" />
   </component>
 </application>
