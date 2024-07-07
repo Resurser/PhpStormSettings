@@ -15,7 +15,7 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="6">
+  <DB2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -47,7 +47,7 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="6">
+  <DerbyCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -79,7 +79,7 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
+  <H2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -109,7 +109,7 @@
     <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}idx" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="6">
+  <HSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -175,7 +175,7 @@
   <LessCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </LessCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="6">
+  <MSSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -210,7 +210,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <MySQLCodeStyleSettings version="6">
+  <MySQLCodeStyleSettings version="7">
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="2" />
@@ -241,7 +241,7 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="6">
+  <OracleCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -310,7 +310,7 @@
     <option name="ATTRIBUTES_WRAP" value="1" />
     <option name="PARAMETERS_ATTRIBUTES_WRAP" value="1" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="6">
+  <PostgresCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -346,7 +346,7 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <SQLiteCodeStyleSettings version="6">
+  <SQLiteCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -386,7 +386,7 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="6">
+  <SqlCodeStyleSettings version="7">
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="2" />
@@ -432,7 +432,7 @@
   <StylusCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
   </StylusCodeStyleSettings>
-  <SybaseCodeStyleSettings version="6">
+  <SybaseCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
