@@ -280,7 +280,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5c96d8" />
@@ -322,7 +322,7 @@
         <option name="FOREGROUND" value="9200" />
       </value>
     </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c675c8" />
