@@ -1,8 +1,0 @@
-<application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" import_on_paste="ALL" />
-  <component name="PhpDebugGeneral" xdebug_enable_dfa_assist="false" xdebug_enable_dfa_assist_gray_mode="false" />
-  <component name="PhpSmartKeysConfiguration">
-    <option name="escapeSymbolsInStringLiterals" value="true" />
-    <option name="selectVariableNameWithoutDollar" value="true" />
-  </component>
-</application>
