@@ -1,0 +1,9 @@
+<application>
+  <component name="LaravelIdea.Notifications">
+    <option name="flags">
+      <map>
+        <entry key="HelperCode.initialCheck" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
