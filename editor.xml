@@ -37,6 +37,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspect-light">
     <option name="AUTOREPARSE_DELAY" value="500" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="$pp.$" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
@@ -87,7 +88,6 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="14" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
     <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
     <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
@@ -178,13 +178,18 @@
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo\b.*" />
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="[!]{2,}(.*?)[!]{2,}">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="[!]{2,}(.*?)[!]{2,}">
       <option name="FOREGROUND" value="58c5d7" />
       <option name="BACKGROUND" value="18373f" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="46272" />
       <option name="ERROR_STRIPE_COLOR" value="8b8d7" />
     </pattern>
+    <filter name="all">
+      <pattern index="2" />
+      <pattern index="-1" />
+      <pattern index="-1" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="5" />
