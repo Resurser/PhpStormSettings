@@ -37,7 +37,6 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="NB-inspect-light">
     <option name="AUTOREPARSE_DELAY" value="500" />
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="$pp.$" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
@@ -187,8 +186,6 @@
     </pattern>
     <filter name="all">
       <pattern index="2" />
-      <pattern index="-1" />
-      <pattern index="-1" />
     </filter>
   </component>
   <component name="XmlEditorOptions">
