@@ -436,7 +436,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b375ba" />
@@ -453,8 +453,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="3e878e" />
@@ -482,7 +482,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="e5844f" />
+        <option name="FOREGROUND" value="ed927e" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -573,7 +573,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="85b0d0" />
+        <option name="FOREGROUND" value="85bad0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -634,7 +634,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cfa3a3" />
+        <option name="FOREGROUND" value="dfa999" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -656,7 +656,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="85b0d0" />
+        <option name="FOREGROUND" value="85bad0" />
         <option name="EFFECT_COLOR" value="2d3f48" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -948,7 +948,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="81a23" />
+        <option name="BACKGROUND" value="8141a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -63502,10 +63502,10 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -63679,7 +63679,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="bdc1a5" />
-        <option name="BACKGROUND" value="131313" />
+        <option name="BACKGROUND" value="101313" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -63692,7 +63692,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fb2b1" />
-        <option name="BACKGROUND" value="d2f3f" />
+        <option name="BACKGROUND" value="81f2a" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="21b7b2" />
         <option name="EFFECT_TYPE" value="5" />
