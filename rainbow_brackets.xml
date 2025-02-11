@@ -1,0 +1,12 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="bigFilesLinesThreshold" value="2000" />
+    <option name="disableReaderMode" value="true" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTemplateString" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="rainbowifyTagNameInXML" value="true" />
+    <option name="version" value="2024.2.8-241" />
+  </component>
+</application>
