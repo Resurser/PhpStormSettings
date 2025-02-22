@@ -1,5 +1,5 @@
 <application>
-  <component name="CsvSettings" version="1">
+  <component name="CsvSettings" version="$pp.$">
     <csv-formats>
       <csv-format name="CSV" id="Comma-separated (CSV)_id">
         <data>
@@ -32,5 +32,15 @@
         </data>
       </csv-format>
     </csv-formats>
+  </component>
+  <component name="ScriptedLoadersAssociations">
+    <extensions>
+      <set>
+        <option value="parquet" />
+        <option value="shp" />
+        <option value="xls" />
+        <option value="xlsx" />
+      </set>
+    </extensions>
   </component>
 </application>
