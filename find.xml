@@ -23,5 +23,6 @@
     <mask>*.*css</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
