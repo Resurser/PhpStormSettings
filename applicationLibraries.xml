@@ -10,6 +10,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="api" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -19,6 +24,17 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
       </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <JAVADOC />
       <SOURCES />
     </library>
