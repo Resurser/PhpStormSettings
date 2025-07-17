@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="KEEP_TABS_ALPHABETICALLY_SORTED" value="true" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
@@ -13,6 +14,7 @@
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
