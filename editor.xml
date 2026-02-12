@@ -42,7 +42,7 @@
   <component name="DeclarativeInlayHintsSettings">
     <option name="enabledOptions">
       <map>
-        <entry key="js.type.hints#function.returns" value="false" />
+        <entry key="js.type.hints#function.returns" value="true" />
         <entry key="js.type.hints#non.paren.single.param" value="false" />
         <entry key="js.type.hints#parameters.in.parens" value="false" />
         <entry key="js.type.hints#variables.and.fields" value="false" />
@@ -55,7 +55,7 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
-        <entry key="js.type.hints" value="false" />
+        <entry key="js.type.hints" value="true" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="false" />
         <entry key="ts.type.hints" value="false" />
