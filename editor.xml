@@ -161,6 +161,9 @@
     <option name="collapseXmlLiterals" value="true" />
     <option name="COLLAPSE_XML_LITERALS" value="true" />
   </component>
+  <component name="MarkdownCodeFoldingSettings">
+    <option name="collapseFrontMatter" value="false" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
