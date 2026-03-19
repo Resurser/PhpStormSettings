@@ -1,8 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="mysql.8">
-      <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="9.5.0" />
       <option name="source-loading" value="NO_SOURCES" />
     </driver>
     <driver id="mysql">
